@@ -75,6 +75,8 @@ tbody tr:nth-last-child(-n+2) .row-menu .menu-items{top:auto;bottom:34px}
   #family-hierarchy .hierarchy-run .row-actions{grid-column:4;grid-row:1}
 }
 
+.brand{display:flex;align-items:center;flex-shrink:0}.brand img{display:block;width:178px;height:48px;object-fit:contain}
+
 /* Published snapshots retain browsing and comparison, without editing. */
 .page-heading .project-menu,[data-action="new-run"],[data-action="new-revision"],[data-action="edit-family"],[data-action="edit-revision"],[data-action="start"],[data-action="stop"],[data-action="folder"],.live-label:has(#live-poll){display:none!important}
 .published-marker{display:inline-flex;align-items:center;justify-content:center;width:28px}

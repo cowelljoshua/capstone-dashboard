@@ -1,0 +1,4 @@
+{
+  "status": "failed",
+  "error": "LS-DYNA process exited zero but abnormal_termination_reported; no successful solver run is inferred."
+}

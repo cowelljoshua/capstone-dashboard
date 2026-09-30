@@ -1,0 +1,4 @@
+{
+  "status": "failed",
+  "error": "LS-DYNA process execution failed (child exited with code 4294967295); partial artifacts were preserved."
+}

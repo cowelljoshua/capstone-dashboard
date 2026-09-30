@@ -1,0 +1,289 @@
+{
+  "case": "depth6-guided-v2",
+  "status": "failed_run_partial_geometry_diagnostic",
+  "scope": "Only saved states 0,350,360,362. No inference about unsaved final cycles; tetra relative J and principal stretches are geometric diagnostic measures.",
+  "states": [
+    {
+      "time_s": 0.0,
+      "parts": {
+        "1": {
+          "tet_count": 55746,
+          "min_relative_J": 0.9999999999999976,
+          "nonpositive_tets": 0,
+          "min_J_element": 18396,
+          "min_J_element_initial_centroid_mm": [
+            -149.40170354999998,
+            14.266466472500001,
+            61.59326036
+          ],
+          "min_principal_stretch": 0.9999999999999981,
+          "min_stretch_element": 18638,
+          "min_stretch_element_initial_centroid_mm": [
+            121.08646374999998,
+            -19.354211942499997,
+            13.9652144525
+          ],
+          "max_nonrigid_mm": 2.1942709178604382e-14,
+          "max_nonrigid_node": 45,
+          "max_nonrigid_node_initial_xyz_mm": [
+            -139.3220452,
+            20.33497944,
+            1.706584622
+          ],
+          "max_nonrigid_residual_xyz_mm": [
+            0.0,
+            2.0816681711721685e-14,
+            -6.938893903907228e-15
+          ]
+        },
+        "2": {
+          "tet_count": 11494,
+          "min_relative_J": 0.999999999999999,
+          "nonpositive_tets": 0,
+          "min_J_element": 64720,
+          "min_J_element_initial_centroid_mm": [
+            -115.179156075,
+            18.1326993775,
+            61.07014274
+          ],
+          "min_principal_stretch": 0.9999999999999992,
+          "min_stretch_element": 67021,
+          "min_stretch_element_initial_centroid_mm": [
+            -115.25896032499999,
+            19.985297317500002,
+            41.525531762499995
+          ],
+          "max_nonrigid_mm": 2.1942709178604382e-14,
+          "max_nonrigid_node": 15795,
+          "max_nonrigid_node_initial_xyz_mm": [
+            -92.11072564,
+            20.203410679999998,
+            6.421407425
+          ],
+          "max_nonrigid_residual_xyz_mm": [
+            0.0,
+            2.0816681711721685e-14,
+            -6.938893903907228e-15
+          ]
+        }
+      }
+    },
+    {
+      "time_s": 0.003499918833168859,
+      "parts": {
+        "1": {
+          "tet_count": 55746,
+          "min_relative_J": 0.9542709789962707,
+          "nonpositive_tets": 0,
+          "min_J_element": 43382,
+          "min_J_element_initial_centroid_mm": [
+            -115.82713295,
+            -2.1640536515,
+            5.409392093999999
+          ],
+          "min_principal_stretch": 0.9046409636272081,
+          "min_stretch_element": 46473,
+          "min_stretch_element_initial_centroid_mm": [
+            94.88842663000001,
+            -0.446596562,
+            1.03318169525
+          ],
+          "max_nonrigid_mm": 4.566450011887023,
+          "max_nonrigid_node": 15061,
+          "max_nonrigid_node_initial_xyz_mm": [
+            -3.1974423109999996e-14,
+            0.0,
+            46.0
+          ],
+          "max_nonrigid_residual_xyz_mm": [
+            -0.03275391585640798,
+            -3.1613469855821545,
+            -3.295038410824627
+          ]
+        },
+        "2": {
+          "tet_count": 11494,
+          "min_relative_J": 0.9022686726489739,
+          "nonpositive_tets": 0,
+          "min_J_element": 62143,
+          "min_J_element_initial_centroid_mm": [
+            -115.72841595,
+            21.154152045,
+            36.753669595
+          ],
+          "min_principal_stretch": 0.8917050672414336,
+          "min_stretch_element": 57498,
+          "min_stretch_element_initial_centroid_mm": [
+            -87.75397283,
+            2.9794324537499994,
+            28.080942195
+          ],
+          "max_nonrigid_mm": 10.086210798953301,
+          "max_nonrigid_node": 18330,
+          "max_nonrigid_node_initial_xyz_mm": [
+            -42.0,
+            3.175,
+            20.0
+          ],
+          "max_nonrigid_residual_xyz_mm": [
+            -0.4091800499133255,
+            6.945389532057088,
+            7.302450562356923
+          ]
+        }
+      }
+    },
+    {
+      "time_s": 0.003599998163907254,
+      "parts": {
+        "1": {
+          "tet_count": 55746,
+          "min_relative_J": 0.9443146971929307,
+          "nonpositive_tets": 0,
+          "min_J_element": 46977,
+          "min_J_element_initial_centroid_mm": [
+            -106.12171614999998,
+            -0.36434834075,
+            73.861198785
+          ],
+          "min_principal_stretch": 0.9181960338957771,
+          "min_stretch_element": 52499,
+          "min_stretch_element_initial_centroid_mm": [
+            -105.74759982500001,
+            -1.2331880035,
+            73.40319336
+          ],
+          "max_nonrigid_mm": 7.0799453807018775,
+          "max_nonrigid_node": 13167,
+          "max_nonrigid_node_initial_xyz_mm": [
+            -3.9551194350000003,
+            -22.25,
+            76.2
+          ],
+          "max_nonrigid_residual_xyz_mm": [
+            -0.12858890110466464,
+            -3.6207359232920853,
+            -6.082710157653145
+          ]
+        },
+        "2": {
+          "tet_count": 11494,
+          "min_relative_J": 0.8904999561185903,
+          "nonpositive_tets": 0,
+          "min_J_element": 62143,
+          "min_J_element_initial_centroid_mm": [
+            -115.72841595,
+            21.154152045,
+            36.753669595
+          ],
+          "min_principal_stretch": 0.9178000219439387,
+          "min_stretch_element": 62143,
+          "min_stretch_element_initial_centroid_mm": [
+            -115.72841595,
+            21.154152045,
+            36.753669595
+          ],
+          "max_nonrigid_mm": 8.336223239154593,
+          "max_nonrigid_node": 18997,
+          "max_nonrigid_node_initial_xyz_mm": [
+            -14.0,
+            0.0,
+            28.0
+          ],
+          "max_nonrigid_residual_xyz_mm": [
+            0.055703905621456995,
+            4.424674693509197,
+            7.064826170864994
+          ]
+        }
+      }
+    },
+    {
+      "time_s": 0.0036199823344254334,
+      "parts": {
+        "1": {
+          "tet_count": 55746,
+          "min_relative_J": 0.9382338255955127,
+          "nonpositive_tets": 0,
+          "min_J_element": 46977,
+          "min_J_element_initial_centroid_mm": [
+            -106.12171614999998,
+            -0.36434834075,
+            73.861198785
+          ],
+          "min_principal_stretch": 0.9073219712587632,
+          "min_stretch_element": 36778,
+          "min_stretch_element_initial_centroid_mm": [
+            -112.601081725,
+            -19.269167145,
+            57.22216049
+          ],
+          "max_nonrigid_mm": 7.451470203066033,
+          "max_nonrigid_node": 3094,
+          "max_nonrigid_node_initial_xyz_mm": [
+            -11.8653583,
+            -22.25,
+            76.2
+          ],
+          "max_nonrigid_residual_xyz_mm": [
+            -0.24612007722211482,
+            -3.8114164205939325,
+            -6.398198024725091
+          ]
+        },
+        "2": {
+          "tet_count": 11494,
+          "min_relative_J": 0.7756704510811654,
+          "nonpositive_tets": 0,
+          "min_J_element": 62143,
+          "min_J_element_initial_centroid_mm": [
+            -115.72841595,
+            21.154152045,
+            36.753669595
+          ],
+          "min_principal_stretch": 0.5512847009620315,
+          "min_stretch_element": 63558,
+          "min_stretch_element_initial_centroid_mm": [
+            -115.735960625,
+            20.1353289875,
+            32.0704845675
+          ],
+          "max_nonrigid_mm": 8.929612722394625,
+          "max_nonrigid_node": 17059,
+          "max_nonrigid_node_initial_xyz_mm": [
+            -2.0,
+            0.0,
+            28.0
+          ],
+          "max_nonrigid_residual_xyz_mm": [
+            0.31251104393664175,
+            5.88441381089363,
+            6.709246926558442
+          ]
+        }
+      }
+    }
+  ],
+  "geometry_interpretation": {
+    "source": "Independent geometry_mesh agent CAD-face review",
+    "location": "Left outer cap sidewall near body mating clearance; not a bolt collar.",
+    "nominal_contact_gap_mm": 0.2,
+    "cap_face_X_mm": -116.0,
+    "body_face_X_mm": -116.2,
+    "angled_internal_face_bbox_mm": {
+      "X": [
+        -116,
+        -111.77
+      ],
+      "Y": [
+        18.25,
+        22.25
+      ],
+      "Z": [
+        30.12,
+        55.67
+      ]
+    },
+    "limitation": "Exact contact activation and collapse cycle are not captured by this saved-state geometric diagnostic."
+  }
+}

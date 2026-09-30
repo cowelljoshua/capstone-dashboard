@@ -1,0 +1,165 @@
+{
+  "candidate": "clamshell-4mm-v1",
+  "assets": [
+    {
+      "source": "projects/offset_clamshell_impact_20260922/model_layout.png",
+      "destination": "images/01-fixture-layout.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/geometry_interfaces.png",
+      "destination": "images/02-shell-interfaces.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/histories.png",
+      "destination": "images/03-event-histories.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/contact-load-path.png",
+      "destination": "images/04-force-path.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress-propagation-deformation.png",
+      "destination": "images/05-stress-deformation-history.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/joint-kinematics.png",
+      "destination": "images/06-joint-kinematics.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_0001_0.010ms.png",
+      "destination": "images/07-early-stress.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_0039_0.390ms.png",
+      "destination": "images/08-body-stress.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_top_0001_0.010ms.png",
+      "destination": "images/09-early-top.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_impact_0001_0.010ms.png",
+      "destination": "images/10-early-impact-face.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_top_0039_0.390ms.png",
+      "destination": "images/11-late-top.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_impact_0039_0.390ms.png",
+      "destination": "images/12-late-impact-face.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/deformation_0042_0.420ms.png",
+      "destination": "images/13-deformation.png"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/world-motion.gif",
+      "destination": "animations/01-motion.gif"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress-transient.gif",
+      "destination": "animations/02-stress.gif"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cad_inspection.json",
+      "destination": "data/cad-inspection.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/native_verification.json",
+      "destination": "data/native-verification.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/setup_audit.json",
+      "destination": "data/setup-audit.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/impact_patch_area.json",
+      "destination": "data/impact-patch-area.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/input.k",
+      "destination": "data/candidate-input.k"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/model.json",
+      "destination": "data/candidate-model.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/execution.json",
+      "destination": "data/candidate-execution.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/runs/solve/termination.json",
+      "destination": "data/solver-termination.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/metrics.json",
+      "destination": "data/candidate-metrics.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/time_histories.csv",
+      "destination": "data/time-histories.csv"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_histories.csv",
+      "destination": "data/stress-histories.csv"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/contact_histories.csv",
+      "destination": "data/contact-histories.csv"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/global_energy_histories.csv",
+      "destination": "data/global-energy-histories.csv"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/joint_metrics.json",
+      "destination": "data/joint-metrics.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/joint_histories.csv",
+      "destination": "data/joint-histories.csv"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/load_path_peaks.json",
+      "destination": "data/load-path-peaks.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/comparisons/reference-comparison.json",
+      "destination": "data/reference-comparison.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/comparisons/mesh-comparison.json",
+      "destination": "data/mesh-comparison.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/input.k",
+      "destination": "data/3mm-input.k"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/model.json",
+      "destination": "data/3mm-model.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/execution.json",
+      "destination": "data/3mm-execution.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/runs/solve/termination.json",
+      "destination": "data/3mm-solver-termination.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/assessment/metrics.json",
+      "destination": "data/3mm-metrics.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/assessment/joint_metrics.json",
+      "destination": "data/3mm-joint-metrics.json"
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/setup_audit_mesh_3mm_repaired.json",
+      "destination": "data/3mm-setup-audit.json"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "method": "Read-only SolidWorks COM query of the open native assembly and its two component model documents on 2026-09-22; no save/export performed",
+  "assembly": {
+    "source": "C:/Users/joshu/OneDrive/Documents/Liberty University/Capstone/Pusher/07 - Offset Clamshell/impact_optimized/Pusher_Impact_Clamshell.SLDASM",
+    "sha256": "0024f96f33a1896a7db017030d2f7e1fb342ae6516fa57f5a85c3cf502d8f619",
+    "component_count": 2,
+    "volume_mm3": 542762.7167125669
+  },
+  "components": [
+    {
+      "name": "Pusher_Impact_Lower",
+      "source": "C:/Users/joshu/OneDrive/Documents/Liberty University/Capstone/Pusher/07 - Offset Clamshell/impact_optimized/Pusher_Impact_Lower.SLDPRT",
+      "sha256": "ed01682e4788780f90f50d6db3bd636a5ecec81cfa405bba47b1f98b87d02731",
+      "volume_mm3": 271381.3582076513
+    },
+    {
+      "name": "Pusher_Impact_Upper",
+      "source": "C:/Users/joshu/OneDrive/Documents/Liberty University/Capstone/Pusher/07 - Offset Clamshell/impact_optimized/Pusher_Impact_Upper.SLDPRT",
+      "sha256": "17521794e432518799f0cf0e70b94d405d6b8ce7d15e7639da7b930d09d518f1",
+      "volume_mm3": 271381.3585049156
+    }
+  ],
+  "step_volume_difference_fraction": -5.259982e-7,
+  "caution": "Native shell timestamps postdate the STEP exports. Close volume agreement does not prove every feature matches; the supplied STEP files are the explicit analysis geometry."
+}

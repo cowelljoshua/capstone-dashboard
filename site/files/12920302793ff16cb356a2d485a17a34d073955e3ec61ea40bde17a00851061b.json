@@ -1,0 +1,294 @@
+{
+  "status": "verified",
+  "copied_assets": [
+    {
+      "source": "projects/offset_clamshell_impact_20260922/model_layout.png",
+      "destination": "images/01-fixture-layout.png",
+      "sha256": "b9fd0d3f95388caf56369073673144306b023aa3ffdf7adc0d524b3c710b65d7",
+      "bytes": 128220
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/geometry_interfaces.png",
+      "destination": "images/02-shell-interfaces.png",
+      "sha256": "7c7d081a157956099d26a1729919ff986b7de3e0db2c7bb99cd10fac5906a4c1",
+      "bytes": 80176
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/histories.png",
+      "destination": "images/03-event-histories.png",
+      "sha256": "6888975f0706797ae8f85dac4e72eaa4d0ae8b952f5a8e26126b87d5b47d80a3",
+      "bytes": 339656
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/contact-load-path.png",
+      "destination": "images/04-force-path.png",
+      "sha256": "5de349357195829662573fc95462f23a38b9e456458b5292b5afbae25f35b498",
+      "bytes": 227502
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress-propagation-deformation.png",
+      "destination": "images/05-stress-deformation-history.png",
+      "sha256": "052aaa41b48dadb93633edab7295b138e17af6fb52d21a79c3cf4dd1905e5011",
+      "bytes": 239869
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/joint-kinematics.png",
+      "destination": "images/06-joint-kinematics.png",
+      "sha256": "95de8cfcfdcace2b7baeee890dd86cac6d47e1753f2b369870f55b036b41166a",
+      "bytes": 192687
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_0001_0.010ms.png",
+      "destination": "images/07-early-stress.png",
+      "sha256": "dca7952f9f9a8587974207a954ed70a5fcd5868e06d1591b2a5a82f1e35612be",
+      "bytes": 137485
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_0039_0.390ms.png",
+      "destination": "images/08-body-stress.png",
+      "sha256": "2e06a670eefad8b1198fdeb32c8c78295d01b33a8406d7dff8aebffe3b915ef5",
+      "bytes": 281384
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_top_0001_0.010ms.png",
+      "destination": "images/09-early-top.png",
+      "sha256": "29f4bd97943af670627b63138c5892748d7b49d85200028768377b8082fd0aa0",
+      "bytes": 76428
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_impact_0001_0.010ms.png",
+      "destination": "images/10-early-impact-face.png",
+      "sha256": "1e05888b8294e2eae10f618488dec72980765efb6511175eb21a8b2167890257",
+      "bytes": 80874
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_top_0039_0.390ms.png",
+      "destination": "images/11-late-top.png",
+      "sha256": "3bf76063a9cab56107738263eb3e82d3ef42a86d5ddd7e4112d4ea59f4e7ccca",
+      "bytes": 215170
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_impact_0039_0.390ms.png",
+      "destination": "images/12-late-impact-face.png",
+      "sha256": "d71d4b35cf5c26e41ae36b6389be08cf2723e5de7b7ec50321dae4dae8b0482f",
+      "bytes": 175453
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/deformation_0042_0.420ms.png",
+      "destination": "images/13-deformation.png",
+      "sha256": "7ca01664a362d0decc96c99ee49dd6ed76595b8af4e089bf1655e12146bb4108",
+      "bytes": 189159
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/world-motion.gif",
+      "destination": "animations/01-motion.gif",
+      "sha256": "d6a2a73b18bd767a96bbaccc97158a1c74871075158de2a46ebab4b819ff06bd",
+      "bytes": 1245577
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress-transient.gif",
+      "destination": "animations/02-stress.gif",
+      "sha256": "5a983ba724cbcc0ba3964327de2d07194f6d77910eb0938ca670465154c55910",
+      "bytes": 7554197
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cad_inspection.json",
+      "destination": "data/cad-inspection.json",
+      "sha256": "060763bf7381a03315a7a9ebfe465768a4ca85a145c6b45b151794d190cca649",
+      "bytes": 544160
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/native_verification.json",
+      "destination": "data/native-verification.json",
+      "sha256": "070cf1ec4da05c0e0808c356520585aa19dc8c9e1c93baa72324aa6a6ca97de1",
+      "bytes": 1389
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/setup_audit.json",
+      "destination": "data/setup-audit.json",
+      "sha256": "2c868017f5460c246488ce244ae137d03c0c8e4f4ba30c01b5aa9be9e513d17b",
+      "bytes": 3589
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/impact_patch_area.json",
+      "destination": "data/impact-patch-area.json",
+      "sha256": "9bcb10e9de1063972b5d501d51096e9011393b94548bd92be403c47a0b7f02a6",
+      "bytes": 781
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/input.k",
+      "destination": "data/candidate-input.k",
+      "sha256": "c3dbb04de2ed3882794973e056f9fb13e38c0279c0d37bf8aceeef8074cec581",
+      "bytes": 5776524
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/model.json",
+      "destination": "data/candidate-model.json",
+      "sha256": "2b983604b9bc606480e39abe13e4d20d726a206b4b5bd6e6a0990ac019824126",
+      "bytes": 924213
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/execution.json",
+      "destination": "data/candidate-execution.json",
+      "sha256": "6a507da59c7548e8b4766da0fdb39538f3ef8587efb021a758b6abb6f51ae3e0",
+      "bytes": 952
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/runs/solve/termination.json",
+      "destination": "data/solver-termination.json",
+      "sha256": "1242fde849cf07e3abe9df59b73b0e95770fa357712e0c60635afa6bafca16f8",
+      "bytes": 191
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/metrics.json",
+      "destination": "data/candidate-metrics.json",
+      "sha256": "b68cf2db09afdee95ef134ecc79789506901b70b18dec5134b38225e6c3d94a7",
+      "bytes": 22898
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/time_histories.csv",
+      "destination": "data/time-histories.csv",
+      "sha256": "a6b8bc71301728a436ac706f187aacbcb3c82e88e9c12baea517029a7ff104c4",
+      "bytes": 189764
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/stress_histories.csv",
+      "destination": "data/stress-histories.csv",
+      "sha256": "09c00b451409f228098560e37a6502cdeb785cacdc0556cc67f2cc91f92ed903",
+      "bytes": 326551
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/contact_histories.csv",
+      "destination": "data/contact-histories.csv",
+      "sha256": "826caa2dcca0ddf72301f497886330cc2585216bc5bd921e745b52c2e25fe282",
+      "bytes": 427085
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/global_energy_histories.csv",
+      "destination": "data/global-energy-histories.csv",
+      "sha256": "a26602f63d441df5ba8a69d443a5dced77e8f581de88e869c7199ab7b42cc443",
+      "bytes": 583920
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/joint_metrics.json",
+      "destination": "data/joint-metrics.json",
+      "sha256": "911175fbdba516de76c65e73de92e580a60aa037ff61a1683336784587de74ec",
+      "bytes": 617
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/joint_histories.csv",
+      "destination": "data/joint-histories.csv",
+      "sha256": "ef47f0950682ce653632b5867337bfc4149f8590b2410df9253f668dc5a0bb85",
+      "bytes": 123882
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-4mm-v1/assessment/load_path_peaks.json",
+      "destination": "data/load-path-peaks.json",
+      "sha256": "9712f67b12bafa724f48553e38c0883ceda50ceb035b11a82c0c76212f542d83",
+      "bytes": 1039
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/comparisons/reference-comparison.json",
+      "destination": "data/reference-comparison.json",
+      "sha256": "69ac65886e5bb7f1678e2b4a176409e350bc7b3bf7a3c54a95c856baa1878861",
+      "bytes": 6456
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/comparisons/mesh-comparison.json",
+      "destination": "data/mesh-comparison.json",
+      "sha256": "3cf93c260c465848d5b4c1dd131ee0b4303e008a0cb78137bba3cef838d91be7",
+      "bytes": 7883
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/input.k",
+      "destination": "data/3mm-input.k",
+      "sha256": "9d3be2e5ab8830c2357a436b5bd417acb04af6e4265160b9d5ba3f88d318ea9a",
+      "bytes": 10703703
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/model.json",
+      "destination": "data/3mm-model.json",
+      "sha256": "fc0110fbed660b89d7be7401f1b94bfb689ce96626333a82be738379b7e8523f",
+      "bytes": 1648629
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/execution.json",
+      "destination": "data/3mm-execution.json",
+      "sha256": "b33c493c6a31a03810609db4e0ae55e28b0289083def90cec9d6c1b7732d7a97",
+      "bytes": 952
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/runs/solve/termination.json",
+      "destination": "data/3mm-solver-termination.json",
+      "sha256": "1242fde849cf07e3abe9df59b73b0e95770fa357712e0c60635afa6bafca16f8",
+      "bytes": 191
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/assessment/metrics.json",
+      "destination": "data/3mm-metrics.json",
+      "sha256": "88363f8ab8bd8cfa104f5821e33b6bfbf8f588c33eaf1c2837efb2e0f1031d35",
+      "bytes": 23555
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/cases/clamshell-3mm-v1/assessment/joint_metrics.json",
+      "destination": "data/3mm-joint-metrics.json",
+      "sha256": "8ab56c34bb270d8129ca254dbfcbc861b47efdcfc1010e62823e9ba2f3611f34",
+      "bytes": 618
+    },
+    {
+      "source": "projects/offset_clamshell_impact_20260922/setup_audit_mesh_3mm_repaired.json",
+      "destination": "data/3mm-setup-audit.json",
+      "sha256": "35c1080ea2ec8c15143a6921e1c6c1bb926387c6a4209015ea11d462be18aa39",
+      "bytes": 3596
+    }
+  ],
+  "local_links_checked": 40,
+  "missing_links": [],
+  "member_sha256": {
+    "INTAKE.md": "fc6f9a635bd8dab911aa1d510e8d976ab8a4256d10b5e83d4200f10db16ad778",
+    "RUN_COMMANDS.md": "707344679209a49ae1f83c6aa7d61e7d653e48477de1607e104ff6cbfdc2c1f7",
+    "report/REPORT.md": "0e683a69d2533c976439942613cc7f9a5972967e6fc0ebe18d93a1e6b5c7b111",
+    "report/animations/01-motion.gif": "d6a2a73b18bd767a96bbaccc97158a1c74871075158de2a46ebab4b819ff06bd",
+    "report/animations/02-stress.gif": "5a983ba724cbcc0ba3964327de2d07194f6d77910eb0938ca670465154c55910",
+    "report/data/3mm-execution.json": "b33c493c6a31a03810609db4e0ae55e28b0289083def90cec9d6c1b7732d7a97",
+    "report/data/3mm-input.k": "9d3be2e5ab8830c2357a436b5bd417acb04af6e4265160b9d5ba3f88d318ea9a",
+    "report/data/3mm-joint-metrics.json": "8ab56c34bb270d8129ca254dbfcbc861b47efdcfc1010e62823e9ba2f3611f34",
+    "report/data/3mm-metrics.json": "88363f8ab8bd8cfa104f5821e33b6bfbf8f588c33eaf1c2837efb2e0f1031d35",
+    "report/data/3mm-model.json": "fc0110fbed660b89d7be7401f1b94bfb689ce96626333a82be738379b7e8523f",
+    "report/data/3mm-setup-audit.json": "35c1080ea2ec8c15143a6921e1c6c1bb926387c6a4209015ea11d462be18aa39",
+    "report/data/3mm-solver-termination.json": "1242fde849cf07e3abe9df59b73b0e95770fa357712e0c60635afa6bafca16f8",
+    "report/data/cad-inspection.json": "060763bf7381a03315a7a9ebfe465768a4ca85a145c6b45b151794d190cca649",
+    "report/data/candidate-execution.json": "6a507da59c7548e8b4766da0fdb39538f3ef8587efb021a758b6abb6f51ae3e0",
+    "report/data/candidate-input.k": "c3dbb04de2ed3882794973e056f9fb13e38c0279c0d37bf8aceeef8074cec581",
+    "report/data/candidate-metrics.json": "b68cf2db09afdee95ef134ecc79789506901b70b18dec5134b38225e6c3d94a7",
+    "report/data/candidate-model.json": "2b983604b9bc606480e39abe13e4d20d726a206b4b5bd6e6a0990ac019824126",
+    "report/data/contact-histories.csv": "826caa2dcca0ddf72301f497886330cc2585216bc5bd921e745b52c2e25fe282",
+    "report/data/global-energy-histories.csv": "a26602f63d441df5ba8a69d443a5dced77e8f581de88e869c7199ab7b42cc443",
+    "report/data/impact-patch-area.json": "9bcb10e9de1063972b5d501d51096e9011393b94548bd92be403c47a0b7f02a6",
+    "report/data/joint-histories.csv": "ef47f0950682ce653632b5867337bfc4149f8590b2410df9253f668dc5a0bb85",
+    "report/data/joint-metrics.json": "911175fbdba516de76c65e73de92e580a60aa037ff61a1683336784587de74ec",
+    "report/data/load-path-peaks.json": "9712f67b12bafa724f48553e38c0883ceda50ceb035b11a82c0c76212f542d83",
+    "report/data/mesh-comparison.json": "3cf93c260c465848d5b4c1dd131ee0b4303e008a0cb78137bba3cef838d91be7",
+    "report/data/native-verification.json": "070cf1ec4da05c0e0808c356520585aa19dc8c9e1c93baa72324aa6a6ca97de1",
+    "report/data/package-manifest.json": "c92cb4fc4512d4d8ab2266b576f9e1e4550130279d7c71bdd7d661bb96608899",
+    "report/data/reference-comparison.json": "69ac65886e5bb7f1678e2b4a176409e350bc7b3bf7a3c54a95c856baa1878861",
+    "report/data/setup-audit.json": "2c868017f5460c246488ce244ae137d03c0c8e4f4ba30c01b5aa9be9e513d17b",
+    "report/data/solver-termination.json": "1242fde849cf07e3abe9df59b73b0e95770fa357712e0c60635afa6bafca16f8",
+    "report/data/source-code-hashes.json": "6b6c51357cca41a2620950f17ef9c9c37238172bef4358e1b9e2a11be0d0854c",
+    "report/data/stress-histories.csv": "09c00b451409f228098560e37a6502cdeb785cacdc0556cc67f2cc91f92ed903",
+    "report/data/time-histories.csv": "a6b8bc71301728a436ac706f187aacbcb3c82e88e9c12baea517029a7ff104c4",
+    "report/images/01-fixture-layout.png": "b9fd0d3f95388caf56369073673144306b023aa3ffdf7adc0d524b3c710b65d7",
+    "report/images/02-shell-interfaces.png": "7c7d081a157956099d26a1729919ff986b7de3e0db2c7bb99cd10fac5906a4c1",
+    "report/images/03-event-histories.png": "6888975f0706797ae8f85dac4e72eaa4d0ae8b952f5a8e26126b87d5b47d80a3",
+    "report/images/04-force-path.png": "5de349357195829662573fc95462f23a38b9e456458b5292b5afbae25f35b498",
+    "report/images/05-stress-deformation-history.png": "052aaa41b48dadb93633edab7295b138e17af6fb52d21a79c3cf4dd1905e5011",
+    "report/images/06-joint-kinematics.png": "95de8cfcfdcace2b7baeee890dd86cac6d47e1753f2b369870f55b036b41166a",
+    "report/images/07-early-stress.png": "dca7952f9f9a8587974207a954ed70a5fcd5868e06d1591b2a5a82f1e35612be",
+    "report/images/08-body-stress.png": "2e06a670eefad8b1198fdeb32c8c78295d01b33a8406d7dff8aebffe3b915ef5",
+    "report/images/09-early-top.png": "29f4bd97943af670627b63138c5892748d7b49d85200028768377b8082fd0aa0",
+    "report/images/10-early-impact-face.png": "1e05888b8294e2eae10f618488dec72980765efb6511175eb21a8b2167890257",
+    "report/images/11-late-top.png": "3bf76063a9cab56107738263eb3e82d3ef42a86d5ddd7e4112d4ea59f4e7ccca",
+    "report/images/12-late-impact-face.png": "d71d4b35cf5c26e41ae36b6389be08cf2723e5de7b7ec50321dae4dae8b0482f",
+    "report/images/13-deformation.png": "7ca01664a362d0decc96c99ee49dd6ed76595b8af4e089bf1655e12146bb4108"
+  }
+}

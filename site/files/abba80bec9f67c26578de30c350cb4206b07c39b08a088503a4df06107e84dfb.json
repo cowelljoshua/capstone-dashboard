@@ -1,0 +1,67 @@
+{
+  "case": "guide-freeflight-v1",
+  "passed": true,
+  "checks": {
+    "normal_termination": true,
+    "requested_time_reached": true,
+    "every_moving_node_present": true,
+    "all_axial_velocities_within_1e_6_m_s": true,
+    "all_axial_displacements_within_1e_8_m": true,
+    "all_transverse_velocities_below_1e_6_m_s": true,
+    "weighted_guide_displacements_below_1e_9_m": true,
+    "weighted_guide_velocities_below_1e_6_m_s": true,
+    "internal_energy_below_1e_8_initial_ke": true,
+    "external_work_below_1e_8_initial_ke": true,
+    "kinetic_energy_agrees_effective_mass_within_1e_5": true,
+    "added_mass_below_0_1pct_physical": true
+  },
+  "source_case": "guided-4mm-v2",
+  "source_deck_sha256": "9629ee87570362367516c87c321b1010f9bf8204cae644eb0a3366b4fb9e3e64",
+  "deck_sha256": "78b6d1adbde8793cd6365092e238c449d78ccf23fcda4ced509928f54172fd1c",
+  "scope": "Exact axial freeflight under transverse force proportional to one guide-equation gradient; guide cancels that force without deformation or work.",
+  "final_time_s": 5.003999999999987e-05,
+  "guide_residuals": [
+    {
+      "guide_id": 500,
+      "dof": 1,
+      "max_weighted_displacement_m": 0.0,
+      "max_weighted_velocity_m_s": 0.0
+    },
+    {
+      "guide_id": 501,
+      "dof": 2,
+      "max_weighted_displacement_m": 0.0,
+      "max_weighted_velocity_m_s": 0.0
+    },
+    {
+      "guide_id": 502,
+      "dof": 1,
+      "max_weighted_displacement_m": 0.0,
+      "max_weighted_velocity_m_s": 0.0
+    },
+    {
+      "guide_id": 503,
+      "dof": 2,
+      "max_weighted_displacement_m": 0.0,
+      "max_weighted_velocity_m_s": 0.0
+    }
+  ],
+  "max_axial_velocity_error_m_s": 0.0,
+  "max_axial_displacement_error_m": 4.5102810375396984e-17,
+  "max_transverse_velocity_m_s": 0.0,
+  "physical_mass_kg": 0.6503663744746024,
+  "added_mass_kg": 5.712990702825146e-06,
+  "expected_kinetic_energy_J": 812.9651093316317,
+  "max_kinetic_energy_relative_error": 1.3448502322876976e-07,
+  "max_internal_energy_J": 2e-20,
+  "max_external_work_J": 0.0,
+  "max_momentum_change_kg_m_s": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "nodfor_max_group_force_N": 0.0,
+  "nodfor_max_group_energy_J": 0.0,
+  "reaction_evidence": "NODFOR reports zero resultant and energy, not the isolated 100 N linear-constraint reaction. The reaction is established indirectly by verified zero acceleration under the prescribed transverse force; NODFOR must not be labeled a direct guide-reaction measurement.",
+  "limits": "This verifies ideal guide enforcement and free axial motion; it does not validate cable contact, friction, clearance, or impact stresses."
+}

@@ -1,0 +1,159 @@
+{
+  "status": "meshed_not_solver_qualified",
+  "units": "m",
+  "components": [
+    {
+      "part_id": 1,
+      "file": "cad/components/body.step",
+      "source_sha256": "a64d64fe6cd769a331907e64d3cb2567b7f2f4ee74c7af7fe77cba5e88f5913f",
+      "nodes": 45347,
+      "tetrahedra": 188650,
+      "cad_volume_m3": 0.0004870035827475756,
+      "mesh_volume_m3": 0.0004884402837122017,
+      "relative_volume_error": 0.0029500829470709977,
+      "minimum_altitude_m": 8.282209328289526e-05,
+      "target_mm": 5.0,
+      "all_positive": true
+    },
+    {
+      "part_id": 2,
+      "file": "cad/components/closure_left.step",
+      "source_sha256": "98df4410571b35ffe52ed99530e9b406354493d25dd8a21b799d56b4900c2589",
+      "nodes": 15803,
+      "tetrahedra": 66839,
+      "cad_volume_m3": 2.120660200746218e-05,
+      "mesh_volume_m3": 2.123784955721117e-05,
+      "relative_volume_error": 0.0014734821607909065,
+      "minimum_altitude_m": 1.3757692245605264e-05,
+      "target_mm": 3.0,
+      "all_positive": true
+    },
+    {
+      "part_id": 3,
+      "file": "cad/components/closure_right.step",
+      "source_sha256": "16aae36949a9efd17fb3903621890838b9470f108c2f4d8095dad461847200bf",
+      "nodes": 15723,
+      "tetrahedra": 66342,
+      "cad_volume_m3": 2.120660200853208e-05,
+      "mesh_volume_m3": 2.12377400243334e-05,
+      "relative_volume_error": 0.0014683170735600992,
+      "minimum_altitude_m": 1.375796957698957e-05,
+      "target_mm": 3.0,
+      "all_positive": true
+    }
+  ],
+  "plan_sha256": "d441b2789a31890e7198481664248ed1c59aa80c6f83061a85a1c72d446ebc2a",
+  "mesh_sha256": {
+    "nodes.csv": "52873ea49a71e4218ba5d62b5319d69a58b712e03e689e91a1583097a1f69df2",
+    "elements.csv": "433c8739eb947cf86b524785cc432d69df627da27833d50ba4c60961e8ef1cf1"
+  },
+  "omitted_components": [
+    {
+      "part_id": 102,
+      "file": "cad/components/bolt_01.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 103,
+      "file": "cad/components/bolt_02.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 104,
+      "file": "cad/components/bolt_03.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 105,
+      "file": "cad/components/bolt_04.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 106,
+      "file": "cad/components/bolt_05.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 107,
+      "file": "cad/components/bolt_06.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 108,
+      "file": "cad/components/bolt_07.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 109,
+      "file": "cad/components/bolt_08.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 112,
+      "file": "cad/components/nut_01.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 113,
+      "file": "cad/components/nut_02.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 114,
+      "file": "cad/components/nut_03.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 115,
+      "file": "cad/components/nut_04.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 116,
+      "file": "cad/components/nut_05.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 117,
+      "file": "cad/components/nut_06.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 118,
+      "file": "cad/components/nut_07.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    },
+    {
+      "part_id": 119,
+      "file": "cad/components/nut_08.step",
+      "treatment": "connector_reference",
+      "reason": "Generic hardware envelope; 8 bolt/nut pairs represented by audited joint collars and their CAD-derived lumped mass in the impact deck."
+    }
+  ],
+  "required_next": [
+    "Mesh topology/thin-section and timestep audit",
+    "Candidate-specific connection/contact sets",
+    "Motor mass and hardware mass audit",
+    "Full impact deck and preflight",
+    "Convergence and solver checks"
+  ],
+  "notes": [
+    "No CAD healing or joint fusion was applied.",
+    "A completed mesh is not an impact-ready deck."
+  ]
+}

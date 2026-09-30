@@ -1,0 +1,79 @@
+series,Time (ms),Energy (J)
+Kinetic Energy,0.0,816.032
+Kinetic Energy,0.00198,816.032
+Kinetic Energy,0.00396,813.14
+Kinetic Energy,0.00594,804.812
+Kinetic Energy,0.007919869999999999,796.277
+Kinetic Energy,0.00989773,788.662
+Kinetic Energy,0.011864900000000001,781.609
+Kinetic Energy,0.013980300000000001,774.672
+Kinetic Energy,0.0158846,769.668
+Kinetic Energy,0.017945199999999998,765.051
+Kinetic Energy,0.0199777,760.335
+Kinetic Energy,0.021889799999999997,755.807
+Kinetic Energy,0.0238822,751.313
+Internal Energy,0.0,2e-20
+Internal Energy,0.00198,2e-20
+Internal Energy,0.00396,0.21199
+Internal Energy,0.00594,5.00315
+Internal Energy,0.007919869999999999,12.4507
+Internal Energy,0.00989773,20.0421
+Internal Energy,0.011864900000000001,27.315
+Internal Energy,0.013980300000000001,34.4864
+Internal Energy,0.0158846,39.6451
+Internal Energy,0.017945199999999998,44.1644
+Internal Energy,0.0199777,48.8499
+Internal Energy,0.021889799999999997,53.3703
+Internal Energy,0.0238822,58.1533
+Hourglass Energy,0.0,0.0
+Hourglass Energy,0.00198,0.0
+Hourglass Energy,0.00396,0.0
+Hourglass Energy,0.00594,0.0
+Hourglass Energy,0.007919869999999999,0.0
+Hourglass Energy,0.00989773,0.0
+Hourglass Energy,0.011864900000000001,0.0
+Hourglass Energy,0.013980300000000001,0.0
+Hourglass Energy,0.0158846,0.0
+Hourglass Energy,0.017945199999999998,0.0
+Hourglass Energy,0.0199777,0.0
+Hourglass Energy,0.021889799999999997,0.0
+Hourglass Energy,0.0238822,0.0
+Sliding Interface Energy,0.0,0.0
+Sliding Interface Energy,0.00198,0.0
+Sliding Interface Energy,0.00396,2.68416
+Sliding Interface Energy,0.00594,6.20936
+Sliding Interface Energy,0.007919869999999999,7.27671
+Sliding Interface Energy,0.00989773,7.28496
+Sliding Interface Energy,0.011864900000000001,7.05336
+Sliding Interface Energy,0.013980300000000001,6.80864
+Sliding Interface Energy,0.0158846,6.64749
+Sliding Interface Energy,0.017945199999999998,6.73627
+Sliding Interface Energy,0.0199777,6.76078
+Sliding Interface Energy,0.021889799999999997,6.76905
+Sliding Interface Energy,0.0238822,6.61708
+Total Energy,0.0,816.032
+Total Energy,0.00198,816.032
+Total Energy,0.00396,816.036
+Total Energy,0.00594,816.024
+Total Energy,0.007919869999999999,816.005
+Total Energy,0.00989773,815.989
+Total Energy,0.011864900000000001,815.977
+Total Energy,0.013980300000000001,815.967
+Total Energy,0.0158846,815.96
+Total Energy,0.017945199999999998,815.952
+Total Energy,0.0199777,815.945
+Total Energy,0.021889799999999997,815.946
+Total Energy,0.0238822,816.084
+External Work,0.0,0.0
+External Work,0.00198,0.0
+External Work,0.00396,0.0
+External Work,0.00594,0.0
+External Work,0.007919869999999999,0.0
+External Work,0.00989773,0.0
+External Work,0.011864900000000001,0.0
+External Work,0.013980300000000001,0.0
+External Work,0.0158846,0.0
+External Work,0.017945199999999998,0.0
+External Work,0.0199777,0.0
+External Work,0.021889799999999997,0.0
+External Work,0.0238822,0.0

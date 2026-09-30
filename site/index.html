@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Capstone · Runs</title>
+  <link rel="stylesheet" href="static/styles.css">
+  <script src="static/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to runs</a>
+  <header class="app-header"><div class="header-inner"><a class="brand" href="./">Capstone</a><div class="system-summary" id="system-summary" aria-label="System statistics">CPU — <span>·</span> Temp — <span>·</span> RAM —</div><details class="nav-menu"><summary aria-label="Pages"><span aria-hidden="true">☰</span></summary><nav aria-label="Dashboard pages"><button data-page="runs">Runs</button><button data-page="stats">Stats</button></nav></details></div></header>
+  <main id="main" tabindex="-1"><div class="loading-state" role="status"><span class="spinner"></span> Loading runs…</div></main>
+  <dialog id="dialog" aria-labelledby="dialog-title"><div id="dialog-content"></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>

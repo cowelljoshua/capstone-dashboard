@@ -1,0 +1,27 @@
+{
+  "status": "completed_unassessed",
+  "run_directory": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\compliant_stop_340\\cases\\baseline-guided-v2\\runs\\solve",
+  "execution": {
+    "status": "process_exited_zero",
+    "started_at": "2026-09-22T14:02:57.077496+00:00",
+    "finished_at": "2026-09-22T14:28:55.080784+00:00",
+    "duration_seconds": 1558.0160000000033,
+    "exit_code": 0,
+    "process_id": 26708,
+    "timed_out": false,
+    "cancelled": false,
+    "termination_state": "normal_termination_confirmed",
+    "termination_evidence_sources": [
+      "d3hsp",
+      "messag",
+      "stdout.log"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "process_exit_and_termination_evidence_are_distinct": true,
+    "physics_validated": false,
+    "results_interpreted": false
+  },
+  "requested_time_s": 0.008,
+  "reached_time_s": 0.00799998
+}

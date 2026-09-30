@@ -1,0 +1,4807 @@
+series,Time (ms),Energy (J)
+Kinetic Energy,0.0,946.016
+Kinetic Energy,0.00998975,929.065
+Kinetic Energy,0.0199783,910.962
+Kinetic Energy,0.0299549,892.841
+Kinetic Energy,0.0399339,870.631
+Kinetic Energy,0.049965300000000004,854.833
+Kinetic Energy,0.0599526,835.108
+Kinetic Energy,0.0699938,819.107
+Kinetic Energy,0.0799498,800.752
+Kinetic Energy,0.0899149,786.4
+Kinetic Energy,0.099977,775.064
+Kinetic Energy,0.109961,772.253
+Kinetic Energy,0.11997000000000001,773.188
+Kinetic Energy,0.129933,777.124
+Kinetic Energy,0.139976,784.323
+Kinetic Energy,0.149958,791.931
+Kinetic Energy,0.15999,799.952
+Kinetic Energy,0.169965,808.624
+Kinetic Energy,0.179966,816.463
+Kinetic Energy,0.18995,819.031
+Kinetic Energy,0.199969,816.641
+Kinetic Energy,0.20996599999999999,813.363
+Kinetic Energy,0.219996,804.024
+Kinetic Energy,0.229962,796.222
+Kinetic Energy,0.239966,787.79
+Kinetic Energy,0.24996699999999997,781.535
+Kinetic Energy,0.259976,777.712
+Kinetic Energy,0.269993,770.317
+Kinetic Energy,0.27996899999999997,765.524
+Kinetic Energy,0.289958,761.494
+Kinetic Energy,0.29998600000000003,758.285
+Kinetic Energy,0.30995300000000003,756.444
+Kinetic Energy,0.319967,751.33
+Kinetic Energy,0.329982,746.02
+Kinetic Energy,0.339939,735.979
+Kinetic Energy,0.349996,726.633
+Kinetic Energy,0.359942,719.559
+Kinetic Energy,0.369951,716.465
+Kinetic Energy,0.379951,716.056
+Kinetic Energy,0.389946,719.148
+Kinetic Energy,0.399944,725.196
+Kinetic Energy,0.409932,733.274
+Kinetic Energy,0.419992,741.84
+Kinetic Energy,0.429991,749.645
+Kinetic Energy,0.439974,754.362
+Kinetic Energy,0.44996400000000003,757.076
+Kinetic Energy,0.459986,759.264
+Kinetic Energy,0.469932,762.284
+Kinetic Energy,0.479955,767.265
+Kinetic Energy,0.489979,774.442
+Kinetic Energy,0.49992899999999996,780.873
+Kinetic Energy,0.509977,786.509
+Kinetic Energy,0.519958,795.081
+Kinetic Energy,0.529996,805.023
+Kinetic Energy,0.54,812.535
+Kinetic Energy,0.549933,818.762
+Kinetic Energy,0.559952,822.524
+Kinetic Energy,0.569924,822.688
+Kinetic Energy,0.579999,820.003
+Kinetic Energy,0.589974,815.728
+Kinetic Energy,0.6,810.753
+Kinetic Energy,0.60996,806.135
+Kinetic Energy,0.619922,803.931
+Kinetic Energy,0.629991,802.228
+Kinetic Energy,0.639962,799.301
+Kinetic Energy,0.649969,796.083
+Kinetic Energy,0.659943,789.496
+Kinetic Energy,0.6699689999999999,782.087
+Kinetic Energy,0.679992,773.417
+Kinetic Energy,0.689979,765.501
+Kinetic Energy,0.6999989999999999,759.625
+Kinetic Energy,0.709956,750.954
+Kinetic Energy,0.7199939999999999,743.732
+Kinetic Energy,0.729929,737.159
+Kinetic Energy,0.739937,730.554
+Kinetic Energy,0.749985,727.102
+Kinetic Energy,0.759995,722.914
+Kinetic Energy,0.7699630000000001,718.339
+Kinetic Energy,0.7799769999999999,711.186
+Kinetic Energy,0.789986,704.764
+Kinetic Energy,0.799948,699.126
+Kinetic Energy,0.8099430000000001,693.131
+Kinetic Energy,0.819947,687.715
+Kinetic Energy,0.82995,680.982
+Kinetic Energy,0.8400000000000001,674.84
+Kinetic Energy,0.8499570000000001,671.888
+Kinetic Energy,0.859965,669.669
+Kinetic Energy,0.8699619999999999,668.472
+Kinetic Energy,0.879964,667.158
+Kinetic Energy,0.889949,666.363
+Kinetic Energy,0.899944,667.982
+Kinetic Energy,0.90999,667.727
+Kinetic Energy,0.919957,670.812
+Kinetic Energy,0.929974,675.291
+Kinetic Energy,0.939959,680.922
+Kinetic Energy,0.949939,689.643
+Kinetic Energy,0.959963,695.677
+Kinetic Energy,0.969981,701.884
+Kinetic Energy,0.9799419999999999,705.168
+Kinetic Energy,0.989937,709.343
+Kinetic Energy,0.999967,713.388
+Kinetic Energy,1.00996,717.067
+Kinetic Energy,1.01993,722.729
+Kinetic Energy,1.02999,727.664
+Kinetic Energy,1.03997,732.006
+Kinetic Energy,1.05,735.947
+Kinetic Energy,1.0599800000000001,740.368
+Kinetic Energy,1.06994,744.825
+Kinetic Energy,1.07992,748.076
+Kinetic Energy,1.08992,750.894
+Kinetic Energy,1.09998,751.967
+Kinetic Energy,1.10999,748.976
+Kinetic Energy,1.1199700000000001,741.999
+Kinetic Energy,1.12995,733.053
+Kinetic Energy,1.1399299999999999,724.244
+Kinetic Energy,1.14993,717.649
+Kinetic Energy,1.15998,711.229
+Kinetic Energy,1.1699499999999998,706.705
+Kinetic Energy,1.1799899999999999,702.35
+Kinetic Energy,1.1899600000000001,699.01
+Kinetic Energy,1.19994,695.57
+Kinetic Energy,1.20996,689.39
+Kinetic Energy,1.21996,682.905
+Kinetic Energy,1.22993,676.566
+Kinetic Energy,1.24,669.873
+Kinetic Energy,1.24994,662.685
+Kinetic Energy,1.25999,656.252
+Kinetic Energy,1.2699600000000002,650.333
+Kinetic Energy,1.27994,645.067
+Kinetic Energy,1.28995,640.982
+Kinetic Energy,1.29999,637.351
+Kinetic Energy,1.30994,634.739
+Kinetic Energy,1.31994,631.582
+Kinetic Energy,1.33,628.78
+Kinetic Energy,1.33999,624.488
+Kinetic Energy,1.3499700000000001,618.236
+Kinetic Energy,1.35995,612.141
+Kinetic Energy,1.36998,605.432
+Kinetic Energy,1.37999,599.829
+Kinetic Energy,1.38995,596.263
+Kinetic Energy,1.39997,595.365
+Kinetic Energy,1.40998,597.096
+Kinetic Energy,1.41994,600.958
+Kinetic Energy,1.4299899999999999,606.136
+Kinetic Energy,1.4400000000000002,611.01
+Kinetic Energy,1.44994,616.43
+Kinetic Energy,1.45999,623.458
+Kinetic Energy,1.46997,630.305
+Kinetic Energy,1.47995,634.872
+Kinetic Energy,1.49,638.113
+Kinetic Energy,1.49996,641.198
+Kinetic Energy,1.50997,646.076
+Kinetic Energy,1.5199799999999999,652.091
+Kinetic Energy,1.52994,659.456
+Kinetic Energy,1.5399800000000001,665.84
+Kinetic Energy,1.5499699999999998,668.796
+Kinetic Energy,1.55996,672.563
+Kinetic Energy,1.5699500000000002,674.663
+Kinetic Energy,1.57999,674.784
+Kinetic Energy,1.58993,673.29
+Kinetic Energy,1.59993,669.621
+Kinetic Energy,1.60992,665.868
+Kinetic Energy,1.61995,661.756
+Kinetic Energy,1.62999,657.312
+Kinetic Energy,1.64,654.36
+Kinetic Energy,1.64993,650.299
+Kinetic Energy,1.65993,647.217
+Kinetic Energy,1.66993,644.621
+Kinetic Energy,1.67994,640.434
+Kinetic Energy,1.68998,634.998
+Kinetic Energy,1.69994,629.665
+Kinetic Energy,1.70997,621.784
+Kinetic Energy,1.71997,613.611
+Kinetic Energy,1.7299900000000001,605.608
+Kinetic Energy,1.7399799999999999,598.194
+Kinetic Energy,1.7499799999999999,589.897
+Kinetic Energy,1.75995,582.731
+Kinetic Energy,1.7699799999999999,576.501
+Kinetic Energy,1.77997,571.955
+Kinetic Energy,1.78999,568.872
+Kinetic Energy,1.79999,563.883
+Kinetic Energy,1.8099699999999999,559.07
+Kinetic Energy,1.81999,552.492
+Kinetic Energy,1.82994,545.341
+Kinetic Energy,1.83994,540.055
+Kinetic Energy,1.8499700000000001,533.924
+Kinetic Energy,1.85998,530.174
+Kinetic Energy,1.8699700000000001,528.055
+Kinetic Energy,1.87996,527.565
+Kinetic Energy,1.88997,529.812
+Kinetic Energy,1.89999,532.124
+Kinetic Energy,1.90997,534.186
+Kinetic Energy,1.9199499999999998,534.395
+Kinetic Energy,1.9299600000000001,533.975
+Kinetic Energy,1.93997,537.249
+Kinetic Energy,1.94993,540.902
+Kinetic Energy,1.9599700000000002,543.78
+Kinetic Energy,1.96998,547.163
+Kinetic Energy,1.9799700000000002,551.735
+Kinetic Energy,1.9899700000000002,557.73
+Kinetic Energy,1.99995,565.798
+Kinetic Energy,2.00999,574.074
+Kinetic Energy,2.0199599999999998,582.559
+Kinetic Energy,2.02994,591.145
+Kinetic Energy,2.0399900000000004,598.368
+Kinetic Energy,2.04997,602.225
+Kinetic Energy,2.05993,603.441
+Kinetic Energy,2.06997,601.754
+Kinetic Energy,2.0799999999999996,599.301
+Kinetic Energy,2.09,596.399
+Kinetic Energy,2.0999399999999997,593.574
+Kinetic Energy,2.10993,592.218
+Kinetic Energy,2.11992,592.099
+Kinetic Energy,2.12994,590.476
+Kinetic Energy,2.14,588.615
+Kinetic Energy,2.14992,587.076
+Kinetic Energy,2.1599399999999997,585.206
+Kinetic Energy,2.17,583.083
+Kinetic Energy,2.17994,579.709
+Kinetic Energy,2.18995,575.591
+Kinetic Energy,2.19995,569.975
+Kinetic Energy,2.20998,560.946
+Kinetic Energy,2.21997,552.027
+Kinetic Energy,2.22999,543.678
+Kinetic Energy,2.23996,537.884
+Kinetic Energy,2.24995,533.176
+Kinetic Energy,2.25997,528.288
+Kinetic Energy,2.26995,523.905
+Kinetic Energy,2.27997,518.405
+Kinetic Energy,2.28998,511.758
+Kinetic Energy,2.3,504.438
+Kinetic Energy,2.31,498.108
+Kinetic Energy,2.31998,491.848
+Kinetic Energy,2.3299499999999997,484.388
+Kinetic Energy,2.33993,478.238
+Kinetic Energy,2.3499499999999998,472.55
+Kinetic Energy,2.35996,467.598
+Kinetic Energy,2.3699500000000002,462.819
+Kinetic Energy,2.3799699999999997,459.522
+Kinetic Energy,2.38993,459.169
+Kinetic Energy,2.39996,460.086
+Kinetic Energy,2.4099500000000003,460.965
+Kinetic Energy,2.41993,460.834
+Kinetic Energy,2.42996,462.131
+Kinetic Energy,2.43996,464.847
+Kinetic Energy,2.44995,467.834
+Kinetic Energy,2.45993,472.287
+Kinetic Energy,2.4699600000000004,476.18
+Kinetic Energy,2.4799499999999997,481.356
+Kinetic Energy,2.48995,487.077
+Kinetic Energy,2.49994,495.787
+Kinetic Energy,2.50999,504.307
+Kinetic Energy,2.51997,510.392
+Kinetic Energy,2.5299799999999997,512.867
+Kinetic Energy,2.53997,514.175
+Kinetic Energy,2.54995,518.148
+Kinetic Energy,2.5599600000000002,519.949
+Kinetic Energy,2.56993,519.196
+Kinetic Energy,2.57999,515.133
+Kinetic Energy,2.58996,509.847
+Kinetic Energy,2.5999399999999997,503.088
+Kinetic Energy,2.60999,494.02
+Kinetic Energy,2.6199399999999997,485.497
+Kinetic Energy,2.62998,478.419
+Kinetic Energy,2.63996,472.009
+Kinetic Energy,2.64997,467.216
+Kinetic Energy,2.65996,467.227
+Kinetic Energy,2.66993,468.245
+Kinetic Energy,2.67992,470.356
+Kinetic Energy,2.6899200000000003,471.931
+Kinetic Energy,2.69998,474.269
+Kinetic Energy,2.70995,477.543
+Kinetic Energy,2.7199899999999997,479.79
+Kinetic Energy,2.72998,481.607
+Kinetic Energy,2.73998,481.368
+Kinetic Energy,2.74993,480.578
+Kinetic Energy,2.75996,481.423
+Kinetic Energy,2.7699700000000003,480.523
+Kinetic Energy,2.77998,479.03
+Kinetic Energy,2.7899499999999997,475.546
+Kinetic Energy,2.79997,472.771
+Kinetic Energy,2.81,469.743
+Kinetic Energy,2.81999,466.748
+Kinetic Energy,2.83,463.936
+Kinetic Energy,2.8399699999999997,457.158
+Kinetic Energy,2.84999,449.534
+Kinetic Energy,2.8599300000000003,441.616
+Kinetic Energy,2.86999,432.291
+Kinetic Energy,2.8799300000000003,424.972
+Kinetic Energy,2.8899899999999996,416.511
+Kinetic Energy,2.8999300000000003,408.989
+Kinetic Energy,2.90996,402.162
+Kinetic Energy,2.91998,396.325
+Kinetic Energy,2.9299999999999997,393.797
+Kinetic Energy,2.93994,390.794
+Kinetic Energy,2.94994,388.581
+Kinetic Energy,2.9599499999999996,390.113
+Kinetic Energy,2.96998,390.193
+Kinetic Energy,2.97994,389.045
+Kinetic Energy,2.98994,386.221
+Kinetic Energy,2.99992,383.902
+Kinetic Energy,3.00992,381.263
+Kinetic Energy,3.01994,379.42
+Kinetic Energy,3.02992,381.131
+Kinetic Energy,3.03993,382.782
+Kinetic Energy,3.04997,383.772
+Kinetic Energy,3.05999,384.776
+Kinetic Energy,3.06998,386.202
+Kinetic Energy,3.07997,386.355
+Kinetic Energy,3.08995,384.594
+Kinetic Energy,3.0999600000000003,381.55
+Kinetic Energy,3.10998,375.686
+Kinetic Energy,3.11992,368.596
+Kinetic Energy,3.12999,362.908
+Kinetic Energy,3.13999,357.695
+Kinetic Energy,3.1499800000000002,355.543
+Kinetic Energy,3.15998,352.614
+Kinetic Energy,3.1699900000000003,350.117
+Kinetic Energy,3.17992,348.759
+Kinetic Energy,3.1899900000000003,347.237
+Kinetic Energy,3.19998,348.413
+Kinetic Energy,3.20998,349.418
+Kinetic Energy,3.21996,349.68
+Kinetic Energy,3.22995,350.6
+Kinetic Energy,3.2399199999999997,351.122
+Kinetic Energy,3.24995,350.963
+Kinetic Energy,3.2599299999999998,349.324
+Kinetic Energy,3.2699700000000003,348.577
+Kinetic Energy,3.27994,348.915
+Kinetic Energy,3.28994,348.52
+Kinetic Energy,3.29993,345.951
+Kinetic Energy,3.3099499999999997,341.188
+Kinetic Energy,3.31998,335.153
+Kinetic Energy,3.3299499999999997,329.416
+Kinetic Energy,3.33992,324.419
+Kinetic Energy,3.34994,319.635
+Kinetic Energy,3.3599900000000003,314.74
+Kinetic Energy,3.3699899999999996,310.31
+Kinetic Energy,3.3799799999999998,304.902
+Kinetic Energy,3.3899500000000002,299.494
+Kinetic Energy,3.39993,295.162
+Kinetic Energy,3.40994,291.732
+Kinetic Energy,3.41993,290.207
+Kinetic Energy,3.4299299999999997,288.591
+Kinetic Energy,3.43996,286.682
+Kinetic Energy,3.44997,284.371
+Kinetic Energy,3.45997,280.594
+Kinetic Energy,3.46997,275.809
+Kinetic Energy,3.47993,272.113
+Kinetic Energy,3.48995,271.065
+Kinetic Energy,3.49994,270.595
+Kinetic Energy,3.50994,272.476
+Kinetic Energy,3.5199900000000004,274.025
+Kinetic Energy,3.52992,273.527
+Kinetic Energy,3.53997,270.314
+Kinetic Energy,3.5499199999999997,266.57
+Kinetic Energy,3.5599999999999996,263.041
+Kinetic Energy,3.5699199999999998,261.065
+Kinetic Energy,3.57994,259.92
+Kinetic Energy,3.58993,258.253
+Kinetic Energy,3.59995,256.329
+Kinetic Energy,3.60999,252.021
+Kinetic Energy,3.61998,248.718
+Kinetic Energy,3.6299599999999996,245.045
+Kinetic Energy,3.63996,241.513
+Kinetic Energy,3.64995,239.809
+Kinetic Energy,3.66,238.187
+Kinetic Energy,3.66993,240.421
+Kinetic Energy,3.67993,243.782
+Kinetic Energy,3.6899900000000003,245.913
+Kinetic Energy,3.69998,244.575
+Kinetic Energy,3.70994,242.796
+Kinetic Energy,3.7199899999999997,241.718
+Kinetic Energy,3.72994,239.675
+Kinetic Energy,3.7399199999999997,238.88
+Kinetic Energy,3.74995,240.389
+Kinetic Energy,3.75992,240.258
+Kinetic Energy,3.76995,238.936
+Kinetic Energy,3.77998,237.372
+Kinetic Energy,3.78994,236.695
+Kinetic Energy,3.79996,236.968
+Kinetic Energy,3.80999,238.608
+Kinetic Energy,3.81995,242.218
+Kinetic Energy,3.82993,243.587
+Kinetic Energy,3.8399900000000002,241.562
+Kinetic Energy,3.84993,238.605
+Kinetic Energy,3.85995,234.19
+Kinetic Energy,3.86997,228.886
+Kinetic Energy,3.87996,224.874
+Kinetic Energy,3.88997,223.322
+Kinetic Energy,3.89994,222.365
+Kinetic Energy,3.90995,220.65
+Kinetic Energy,3.9199400000000004,219.354
+Kinetic Energy,3.92995,215.929
+Kinetic Energy,3.93999,212.454
+Kinetic Energy,3.94996,210.986
+Kinetic Energy,3.95997,210.974
+Kinetic Energy,3.96994,211.953
+Kinetic Energy,3.9799800000000003,212.641
+Kinetic Energy,3.98996,213.243
+Kinetic Energy,3.9999800000000003,212.646
+Kinetic Energy,4.00999,211.885
+Kinetic Energy,4.01999,212.702
+Kinetic Energy,4.02994,213.643
+Kinetic Energy,4.03999,213.297
+Kinetic Energy,4.04995,213.003
+Kinetic Energy,4.059959999999999,212.414
+Kinetic Energy,4.06998,210.241
+Kinetic Energy,4.079969999999999,208.322
+Kinetic Energy,4.08994,207.663
+Kinetic Energy,4.09995,206.819
+Kinetic Energy,4.10996,206.862
+Kinetic Energy,4.11993,207.26
+Kinetic Energy,4.129930000000001,205.656
+Kinetic Energy,4.13994,203.686
+Kinetic Energy,4.1499299999999995,199.67
+Kinetic Energy,4.1599699999999995,196.431
+Kinetic Energy,4.16995,195.132
+Kinetic Energy,4.17995,191.608
+Kinetic Energy,4.1899299999999995,189.997
+Kinetic Energy,4.1999699999999995,188.892
+Kinetic Energy,4.209980000000001,189.275
+Kinetic Energy,4.21996,191.466
+Kinetic Energy,4.229970000000001,193.259
+Kinetic Energy,4.23999,194.32
+Kinetic Energy,4.24993,196.566
+Kinetic Energy,4.25999,200.731
+Kinetic Energy,4.269959999999999,204.414
+Kinetic Energy,4.27995,208.313
+Kinetic Energy,4.289969999999999,211.836
+Kinetic Energy,4.2999600000000004,213.034
+Kinetic Energy,4.30996,212.93
+Kinetic Energy,4.31995,209.361
+Kinetic Energy,4.33,205.531
+Kinetic Energy,4.3399399999999995,202.643
+Kinetic Energy,4.3499799999999995,200.69
+Kinetic Energy,4.35996,200.151
+Kinetic Energy,4.36994,198.739
+Kinetic Energy,4.38,194.538
+Kinetic Energy,4.38994,188.072
+Kinetic Energy,4.39998,178.973
+Kinetic Energy,4.40995,170.809
+Kinetic Energy,4.41998,164.746
+Kinetic Energy,4.42999,159.904
+Kinetic Energy,4.43994,157.706
+Kinetic Energy,4.44997,155.57
+Kinetic Energy,4.45995,153.112
+Kinetic Energy,4.47,150.892
+Kinetic Energy,4.47993,147.987
+Kinetic Energy,4.4899700000000005,146.626
+Kinetic Energy,4.49997,145.272
+Kinetic Energy,4.50996,145.291
+Kinetic Energy,4.52,146.273
+Kinetic Energy,4.5299499999999995,145.294
+Kinetic Energy,4.54,144.326
+Kinetic Energy,4.54999,140.57
+Kinetic Energy,4.55996,137.76
+Kinetic Energy,4.56998,133.858
+Kinetic Energy,4.579940000000001,128.984
+Kinetic Energy,4.5899399999999995,121.782
+Kinetic Energy,4.59999,114.12
+Kinetic Energy,4.60997,108.992
+Kinetic Energy,4.62,106.223
+Kinetic Energy,4.62995,107.751
+Kinetic Energy,4.63994,108.413
+Kinetic Energy,4.64999,107.652
+Kinetic Energy,4.6599900000000005,109.517
+Kinetic Energy,4.66994,111.892
+Kinetic Energy,4.67999,112.862
+Kinetic Energy,4.68994,113.116
+Kinetic Energy,4.69998,111.956
+Kinetic Energy,4.70998,110.739
+Kinetic Energy,4.71997,109.57
+Kinetic Energy,4.7299500000000005,110.842
+Kinetic Energy,4.739949999999999,115.582
+Kinetic Energy,4.75,120.262
+Kinetic Energy,4.75997,125.067
+Kinetic Energy,4.76996,129.189
+Kinetic Energy,4.77997,131.323
+Kinetic Energy,4.789960000000001,128.701
+Kinetic Energy,4.79997,123.301
+Kinetic Energy,4.80994,117.908
+Kinetic Energy,4.8199499999999995,115.195
+Kinetic Energy,4.83,115.538
+Kinetic Energy,4.839989999999999,116.295
+Kinetic Energy,4.849939999999999,116.953
+Kinetic Energy,4.85997,117.023
+Kinetic Energy,4.8699900000000005,119.411
+Kinetic Energy,4.87992,119.985
+Kinetic Energy,4.88992,117.175
+Kinetic Energy,4.89997,116.292
+Kinetic Energy,4.909949999999999,117.661
+Kinetic Energy,4.91995,119.832
+Kinetic Energy,4.92998,124.184
+Kinetic Energy,4.93999,127.579
+Kinetic Energy,4.95,128.982
+Kinetic Energy,4.95997,127.565
+Kinetic Energy,4.96993,124.641
+Kinetic Energy,4.97997,119.54
+Kinetic Energy,4.98997,113.2
+Kinetic Energy,4.99999,105.222
+Kinetic Energy,5.00993,99.7704
+Kinetic Energy,5.01995,94.6812
+Kinetic Energy,5.02994,91.075
+Kinetic Energy,5.039949999999999,87.7682
+Kinetic Energy,5.04995,84.9014
+Kinetic Energy,5.05997,82.9474
+Kinetic Energy,5.06999,81.741
+Kinetic Energy,5.079969999999999,80.8209
+Kinetic Energy,5.08998,79.8884
+Kinetic Energy,5.09992,77.0633
+Kinetic Energy,5.109970000000001,73.6208
+Kinetic Energy,5.1199699999999995,70.2661
+Kinetic Energy,5.12997,69.2945
+Kinetic Energy,5.13993,70.0556
+Kinetic Energy,5.15,71.9228
+Kinetic Energy,5.15993,73.297
+Kinetic Energy,5.16993,73.2925
+Kinetic Energy,5.17995,72.9638
+Kinetic Energy,5.18994,72.099
+Kinetic Energy,5.19994,72.3515
+Kinetic Energy,5.20995,72.7231
+Kinetic Energy,5.21998,73.0196
+Kinetic Energy,5.229959999999999,73.2717
+Kinetic Energy,5.2399700000000005,72.4023
+Kinetic Energy,5.24992,71.0103
+Kinetic Energy,5.25999,66.6453
+Kinetic Energy,5.26994,63.1141
+Kinetic Energy,5.27995,60.2528
+Kinetic Energy,5.28996,59.5212
+Kinetic Energy,5.29994,61.9301
+Kinetic Energy,5.30996,65.7549
+Kinetic Energy,5.3199700000000005,67.7731
+Kinetic Energy,5.33,67.9505
+Kinetic Energy,5.33993,66.6774
+Kinetic Energy,5.34992,66.0803
+Kinetic Energy,5.35994,66.3112
+Kinetic Energy,5.36999,69.0991
+Kinetic Energy,5.37996,71.3162
+Kinetic Energy,5.38995,73.0255
+Kinetic Energy,5.3999299999999995,76.5583
+Kinetic Energy,5.40997,82.0214
+Kinetic Energy,5.419969999999999,86.396
+Kinetic Energy,5.429930000000001,88.7367
+Kinetic Energy,5.43996,88.9958
+Kinetic Energy,5.44999,88.0397
+Kinetic Energy,5.45994,87.0457
+Kinetic Energy,5.46999,86.6262
+Kinetic Energy,5.47992,86.1961
+Kinetic Energy,5.489929999999999,83.0893
+Kinetic Energy,5.5,80.5917
+Kinetic Energy,5.50993,79.165
+Kinetic Energy,5.519979999999999,78.792
+Kinetic Energy,5.529929999999999,77.8963
+Kinetic Energy,5.53998,77.802
+Kinetic Energy,5.54999,78.1135
+Kinetic Energy,5.55999,75.0704
+Kinetic Energy,5.56997,72.551
+Kinetic Energy,5.57996,70.1575
+Kinetic Energy,5.58996,69.6264
+Kinetic Energy,5.59998,73.298
+Kinetic Energy,5.60996,77.2793
+Kinetic Energy,5.62,82.2049
+Kinetic Energy,5.6299399999999995,84.5592
+Kinetic Energy,5.63994,85.6185
+Kinetic Energy,5.64995,85.8143
+Kinetic Energy,5.65997,86.8909
+Kinetic Energy,5.66998,90.902
+Kinetic Energy,5.67997,95.6209
+Kinetic Energy,5.68998,100.824
+Kinetic Energy,5.699949999999999,104.067
+Kinetic Energy,5.70993,105.679
+Kinetic Energy,5.7199800000000005,104.495
+Kinetic Energy,5.72994,98.0462
+Kinetic Energy,5.73997,93.3116
+Kinetic Energy,5.74996,90.393
+Kinetic Energy,5.75998,88.2119
+Kinetic Energy,5.76999,87.7977
+Kinetic Energy,5.7799499999999995,85.5532
+Kinetic Energy,5.789960000000001,82.6411
+Kinetic Energy,5.79995,78.7164
+Kinetic Energy,5.80993,75.9297
+Kinetic Energy,5.81993,75.5408
+Kinetic Energy,5.8299199999999995,77.2601
+Kinetic Energy,5.839989999999999,75.6508
+Kinetic Energy,5.849970000000001,72.847
+Kinetic Energy,5.85992,72.6834
+Kinetic Energy,5.86997,73.7732
+Kinetic Energy,5.87996,77.7427
+Kinetic Energy,5.88993,86.072
+Kinetic Energy,5.89999,94.8461
+Kinetic Energy,5.91,100.549
+Kinetic Energy,5.92,103.056
+Kinetic Energy,5.92993,103.45
+Kinetic Energy,5.9399500000000005,101.296
+Kinetic Energy,5.9499699999999995,97.4609
+Kinetic Energy,5.9599400000000005,93.4296
+Kinetic Energy,5.96997,90.2203
+Kinetic Energy,5.9799500000000005,88.7004
+Kinetic Energy,5.98997,89.8317
+Kinetic Energy,5.99997,93.2269
+Kinetic Energy,6.00998,95.9696
+Kinetic Energy,6.01996,94.91
+Kinetic Energy,6.02996,93.9549
+Kinetic Energy,6.03997,94.9331
+Kinetic Energy,6.04993,94.6403
+Kinetic Energy,6.05994,96.9632
+Kinetic Energy,6.07,102.446
+Kinetic Energy,6.0799900000000004,107.07
+Kinetic Energy,6.08994,107.4
+Kinetic Energy,6.1000000000000005,106.225
+Kinetic Energy,6.10998,108.1
+Kinetic Energy,6.11998,110.139
+Kinetic Energy,6.1299600000000005,115.223
+Kinetic Energy,6.13999,119.578
+Kinetic Energy,6.1499299999999995,125.744
+Kinetic Energy,6.15996,130.439
+Kinetic Energy,6.16993,131.058
+Kinetic Energy,6.17997,129.316
+Kinetic Energy,6.18992,127.97
+Kinetic Energy,6.1999200000000005,125.948
+Kinetic Energy,6.20999,124.871
+Kinetic Energy,6.21994,122.234
+Kinetic Energy,6.22994,119.508
+Kinetic Energy,6.239920000000001,116.773
+Kinetic Energy,6.24999,113.322
+Kinetic Energy,6.25999,112.533
+Kinetic Energy,6.26992,114.399
+Kinetic Energy,6.279940000000001,117.919
+Kinetic Energy,6.28996,119.338
+Kinetic Energy,6.29993,119.578
+Kinetic Energy,6.30997,120.772
+Kinetic Energy,6.31996,121.285
+Kinetic Energy,6.33,121.818
+Kinetic Energy,6.339980000000001,122.59
+Kinetic Energy,6.3499300000000005,125.848
+Kinetic Energy,6.359959999999999,130.104
+Kinetic Energy,6.36998,130.942
+Kinetic Energy,6.37993,128.324
+Kinetic Energy,6.38994,126.918
+Kinetic Energy,6.3999299999999995,127.935
+Kinetic Energy,6.40993,127.988
+Kinetic Energy,6.41998,125.905
+Kinetic Energy,6.42999,124.883
+Kinetic Energy,6.43994,126.42
+Kinetic Energy,6.44992,128.416
+Kinetic Energy,6.4599899999999995,130.7
+Kinetic Energy,6.469950000000001,130.864
+Kinetic Energy,6.47996,131.074
+Kinetic Energy,6.48994,129.06
+Kinetic Energy,6.49993,124.174
+Kinetic Energy,6.50996,121.055
+Kinetic Energy,6.51997,118.906
+Kinetic Energy,6.52994,123.591
+Kinetic Energy,6.5399400000000005,129.115
+Kinetic Energy,6.550000000000001,134.277
+Kinetic Energy,6.55995,138.603
+Kinetic Energy,6.57,141.797
+Kinetic Energy,6.57997,145.783
+Kinetic Energy,6.58999,149.932
+Kinetic Energy,6.599950000000001,153.605
+Kinetic Energy,6.60994,157.392
+Kinetic Energy,6.61997,158.436
+Kinetic Energy,6.62995,159.165
+Kinetic Energy,6.63998,158.75
+Kinetic Energy,6.6499999999999995,162.448
+Kinetic Energy,6.65998,168.921
+Kinetic Energy,6.669989999999999,170.775
+Kinetic Energy,6.67993,170.421
+Kinetic Energy,6.68994,168.874
+Kinetic Energy,6.69996,168.28
+Kinetic Energy,6.70998,167.029
+Kinetic Energy,6.71993,165.122
+Kinetic Energy,6.72992,164.554
+Kinetic Energy,6.739979999999999,163.133
+Kinetic Energy,6.74997,163.061
+Kinetic Energy,6.75998,164.399
+Kinetic Energy,6.76998,169.661
+Kinetic Energy,6.77993,175.994
+Kinetic Energy,6.78997,179.739
+Kinetic Energy,6.79995,181.22
+Kinetic Energy,6.80998,183.95
+Kinetic Energy,6.81998,184.798
+Kinetic Energy,6.82995,183.682
+Kinetic Energy,6.83993,184.566
+Kinetic Energy,6.84992,185.88
+Kinetic Energy,6.859920000000001,186.399
+Kinetic Energy,6.869949999999999,184.58
+Kinetic Energy,6.87999,185.895
+Kinetic Energy,6.88995,187.841
+Kinetic Energy,6.89994,189.083
+Kinetic Energy,6.9099699999999995,190.072
+Kinetic Energy,6.91998,190.079
+Kinetic Energy,6.929989999999999,190.956
+Kinetic Energy,6.94,190.037
+Kinetic Energy,6.94993,188.626
+Kinetic Energy,6.95993,186.852
+Kinetic Energy,6.96997,182.244
+Kinetic Energy,6.979939999999999,180.959
+Kinetic Energy,6.98995,180.224
+Kinetic Energy,6.99997,180.144
+Kinetic Energy,7.00998,181.105
+Kinetic Energy,7.01995,183.652
+Kinetic Energy,7.02997,185.252
+Kinetic Energy,7.039980000000001,185.552
+Kinetic Energy,7.0499600000000004,185.22
+Kinetic Energy,7.05998,186.009
+Kinetic Energy,7.06993,186.922
+Kinetic Energy,7.07993,185.919
+Kinetic Energy,7.08998,186.096
+Kinetic Energy,7.09993,186.454
+Kinetic Energy,7.10993,187.09
+Kinetic Energy,7.11994,189.763
+Kinetic Energy,7.12995,194.225
+Kinetic Energy,7.13995,200.024
+Kinetic Energy,7.14994,203.436
+Kinetic Energy,7.15995,205.183
+Kinetic Energy,7.17,205.774
+Kinetic Energy,7.179930000000001,204.576
+Kinetic Energy,7.18999,206.378
+Kinetic Energy,7.19993,210.261
+Kinetic Energy,7.209919999999999,213.875
+Kinetic Energy,7.21997,214.902
+Kinetic Energy,7.229959999999999,214.257
+Kinetic Energy,7.239920000000001,214.378
+Kinetic Energy,7.249969999999999,212.573
+Kinetic Energy,7.25999,210.634
+Kinetic Energy,7.26999,211.175
+Kinetic Energy,7.2799700000000005,212.143
+Kinetic Energy,7.28994,212.827
+Kinetic Energy,7.299980000000001,214.01
+Kinetic Energy,7.3099300000000005,215.917
+Kinetic Energy,7.31996,216.735
+Kinetic Energy,7.32997,219.981
+Kinetic Energy,7.339980000000001,223.135
+Kinetic Energy,7.34995,226.089
+Kinetic Energy,7.35992,228.153
+Kinetic Energy,7.369940000000001,227.849
+Kinetic Energy,7.37999,229.188
+Kinetic Energy,7.38992,230.311
+Kinetic Energy,7.3999299999999995,231.028
+Kinetic Energy,7.409940000000001,232.667
+Kinetic Energy,7.419989999999999,234.851
+Kinetic Energy,7.4299800000000005,236.62
+Kinetic Energy,7.43993,236.443
+Kinetic Energy,7.44992,233.499
+Kinetic Energy,7.45992,230.79
+Kinetic Energy,7.47,230.091
+Kinetic Energy,7.47994,233.305
+Kinetic Energy,7.48994,237.046
+Kinetic Energy,7.4999400000000005,238.158
+Kinetic Energy,7.51,238.033
+Kinetic Energy,7.51998,237.245
+Kinetic Energy,7.52996,237.068
+Kinetic Energy,7.5399400000000005,234.73
+Kinetic Energy,7.54993,233.598
+Kinetic Energy,7.559950000000001,232.615
+Kinetic Energy,7.56994,232.242
+Kinetic Energy,7.57992,233.553
+Kinetic Energy,7.58997,236.345
+Kinetic Energy,7.59996,239.626
+Kinetic Energy,7.60996,243.585
+Kinetic Energy,7.61997,245.089
+Kinetic Energy,7.62996,244.609
+Kinetic Energy,7.639950000000001,243.724
+Kinetic Energy,7.64999,243.279
+Kinetic Energy,7.65994,243.839
+Kinetic Energy,7.66997,244.083
+Kinetic Energy,7.67997,244.073
+Kinetic Energy,7.68996,244.053
+Kinetic Energy,7.69997,243.973
+Kinetic Energy,7.70993,243.487
+Kinetic Energy,7.71995,243.238
+Kinetic Energy,7.7299500000000005,245.695
+Kinetic Energy,7.739949999999999,248.406
+Kinetic Energy,7.75,249.331
+Kinetic Energy,7.75995,248.71
+Kinetic Energy,7.76994,248.811
+Kinetic Energy,7.77994,251.487
+Kinetic Energy,7.7899400000000005,254.611
+Kinetic Energy,7.79995,257.549
+Kinetic Energy,7.80998,260.836
+Kinetic Energy,7.8199700000000005,261.049
+Kinetic Energy,7.82995,261.89
+Kinetic Energy,7.83999,263.948
+Kinetic Energy,7.849989999999999,267.045
+Kinetic Energy,7.859980000000001,269.122
+Kinetic Energy,7.86998,270.83
+Kinetic Energy,7.8799600000000005,272.542
+Kinetic Energy,7.8899799999999995,274.749
+Kinetic Energy,7.899979999999999,276.565
+Kinetic Energy,7.909930000000001,275.593
+Kinetic Energy,7.9199600000000006,273.495
+Kinetic Energy,7.92993,271.804
+Kinetic Energy,7.93997,273.391
+Kinetic Energy,7.949990000000001,274.94
+Kinetic Energy,7.959930000000001,276.052
+Kinetic Energy,7.96999,277.561
+Kinetic Energy,7.97995,277.446
+Kinetic Energy,7.989929999999999,277.031
+Kinetic Energy,7.99999,277.619
+Internal Energy,0.0,2e-20
+Internal Energy,0.00998975,14.1185
+Internal Energy,0.0199783,31.0717
+Internal Energy,0.0299549,49.3595
+Internal Energy,0.0399339,70.8019
+Internal Energy,0.049965300000000004,84.8071
+Internal Energy,0.0599526,103.186
+Internal Energy,0.0699938,118.703
+Internal Energy,0.0799498,136.707
+Internal Energy,0.0899149,150.64
+Internal Energy,0.099977,161.412
+Internal Energy,0.109961,163.194
+Internal Energy,0.11997000000000001,162.211
+Internal Energy,0.129933,157.973
+Internal Energy,0.139976,150.316
+Internal Energy,0.149958,142.502
+Internal Energy,0.15999,134.351
+Internal Energy,0.169965,125.905
+Internal Energy,0.179966,118.014
+Internal Energy,0.18995,115.523
+Internal Energy,0.199969,117.996
+Internal Energy,0.20996599999999999,121.395
+Internal Energy,0.219996,130.89
+Internal Energy,0.229962,138.671
+Internal Energy,0.239966,147.094
+Internal Energy,0.24996699999999997,153.289
+Internal Energy,0.259976,156.975
+Internal Energy,0.269993,164.311
+Internal Energy,0.27996899999999997,169.034
+Internal Energy,0.289958,172.999
+Internal Energy,0.29998600000000003,176.131
+Internal Energy,0.30995300000000003,177.905
+Internal Energy,0.319967,182.958
+Internal Energy,0.329982,188.23
+Internal Energy,0.339939,198.18
+Internal Energy,0.349996,207.448
+Internal Energy,0.359942,214.492
+Internal Energy,0.369951,217.593
+Internal Energy,0.379951,217.982
+Internal Energy,0.389946,214.866
+Internal Energy,0.399944,208.784
+Internal Energy,0.409932,200.685
+Internal Energy,0.419992,192.119
+Internal Energy,0.429991,184.315
+Internal Energy,0.439974,179.585
+Internal Energy,0.44996400000000003,176.823
+Internal Energy,0.459986,174.613
+Internal Energy,0.469932,171.595
+Internal Energy,0.479955,166.618
+Internal Energy,0.489979,159.404
+Internal Energy,0.49992899999999996,152.927
+Internal Energy,0.509977,147.229
+Internal Energy,0.519958,138.679
+Internal Energy,0.529996,128.741
+Internal Energy,0.54,121.223
+Internal Energy,0.549933,114.999
+Internal Energy,0.559952,111.209
+Internal Energy,0.569924,111.023
+Internal Energy,0.579999,113.688
+Internal Energy,0.589974,117.962
+Internal Energy,0.6,122.923
+Internal Energy,0.60996,127.527
+Internal Energy,0.619922,129.713
+Internal Energy,0.629991,131.383
+Internal Energy,0.639962,134.293
+Internal Energy,0.649969,137.489
+Internal Energy,0.659943,144.047
+Internal Energy,0.6699689999999999,151.425
+Internal Energy,0.679992,160.046
+Internal Energy,0.689979,167.891
+Internal Energy,0.6999989999999999,173.712
+Internal Energy,0.709956,182.348
+Internal Energy,0.7199939999999999,189.516
+Internal Energy,0.729929,196.056
+Internal Energy,0.739937,202.627
+Internal Energy,0.749985,206.028
+Internal Energy,0.759995,210.178
+Internal Energy,0.7699630000000001,214.687
+Internal Energy,0.7799769999999999,221.788
+Internal Energy,0.789986,228.15
+Internal Energy,0.799948,233.676
+Internal Energy,0.8099430000000001,239.563
+Internal Energy,0.819947,244.869
+Internal Energy,0.82995,251.481
+Internal Energy,0.8400000000000001,257.544
+Internal Energy,0.8499570000000001,260.432
+Internal Energy,0.859965,262.584
+Internal Energy,0.8699619999999999,263.714
+Internal Energy,0.879964,264.936
+Internal Energy,0.889949,265.647
+Internal Energy,0.899944,263.993
+Internal Energy,0.90999,264.203
+Internal Energy,0.919957,261.094
+Internal Energy,0.929974,256.561
+Internal Energy,0.939959,250.846
+Internal Energy,0.949939,242.053
+Internal Energy,0.959963,235.975
+Internal Energy,0.969981,229.725
+Internal Energy,0.9799419999999999,226.425
+Internal Energy,0.989937,222.246
+Internal Energy,0.999967,218.207
+Internal Energy,1.00996,214.533
+Internal Energy,1.01993,208.87
+Internal Energy,1.02999,203.919
+Internal Energy,1.03997,199.457
+Internal Energy,1.05,195.4
+Internal Energy,1.0599800000000001,190.929
+Internal Energy,1.06994,186.498
+Internal Energy,1.07992,183.265
+Internal Energy,1.08992,180.445
+Internal Energy,1.09998,179.367
+Internal Energy,1.10999,182.322
+Internal Energy,1.1199700000000001,189.26
+Internal Energy,1.12995,198.15
+Internal Energy,1.1399299999999999,206.908
+Internal Energy,1.14993,213.456
+Internal Energy,1.15998,219.796
+Internal Energy,1.1699499999999998,224.254
+Internal Energy,1.1799899999999999,228.542
+Internal Energy,1.1899600000000001,231.824
+Internal Energy,1.19994,235.225
+Internal Energy,1.20996,241.397
+Internal Energy,1.21996,247.88
+Internal Energy,1.22993,254.204
+Internal Energy,1.24,260.864
+Internal Energy,1.24994,268.013
+Internal Energy,1.25999,274.402
+Internal Energy,1.2699600000000002,280.249
+Internal Energy,1.27994,285.467
+Internal Energy,1.28995,289.5
+Internal Energy,1.29999,293.102
+Internal Energy,1.30994,295.673
+Internal Energy,1.31994,298.782
+Internal Energy,1.33,301.559
+Internal Energy,1.33999,305.819
+Internal Energy,1.3499700000000001,312.047
+Internal Energy,1.35995,318.097
+Internal Energy,1.36998,324.757
+Internal Energy,1.37999,330.281
+Internal Energy,1.38995,333.73
+Internal Energy,1.39997,334.466
+Internal Energy,1.40998,332.524
+Internal Energy,1.41994,328.583
+Internal Energy,1.4299899999999999,323.366
+Internal Energy,1.4400000000000002,318.389
+Internal Energy,1.44994,312.854
+Internal Energy,1.45999,305.707
+Internal Energy,1.46997,298.769
+Internal Energy,1.47995,294.143
+Internal Energy,1.49,290.9
+Internal Energy,1.49996,287.787
+Internal Energy,1.50997,282.884
+Internal Energy,1.5199799999999999,276.851
+Internal Energy,1.52994,269.441
+Internal Energy,1.5399800000000001,263.004
+Internal Energy,1.5499699999999998,260.001
+Internal Energy,1.55996,256.165
+Internal Energy,1.5699500000000002,254.016
+Internal Energy,1.57999,253.828
+Internal Energy,1.58993,255.211
+Internal Energy,1.59993,258.791
+Internal Energy,1.60992,262.508
+Internal Energy,1.61995,266.604
+Internal Energy,1.62999,271.011
+Internal Energy,1.64,273.941
+Internal Energy,1.64993,277.956
+Internal Energy,1.65993,280.996
+Internal Energy,1.66993,283.559
+Internal Energy,1.67994,287.727
+Internal Energy,1.68998,293.147
+Internal Energy,1.69994,298.466
+Internal Energy,1.70997,306.334
+Internal Energy,1.71997,314.496
+Internal Energy,1.7299900000000001,322.492
+Internal Energy,1.7399799999999999,329.884
+Internal Energy,1.7499799999999999,338.161
+Internal Energy,1.75995,345.295
+Internal Energy,1.7699799999999999,351.486
+Internal Energy,1.77997,355.996
+Internal Energy,1.78999,359.033
+Internal Energy,1.79999,363.968
+Internal Energy,1.8099699999999999,368.744
+Internal Energy,1.81999,375.265
+Internal Energy,1.82994,382.33
+Internal Energy,1.83994,387.583
+Internal Energy,1.8499700000000001,393.676
+Internal Energy,1.85998,397.359
+Internal Energy,1.8699700000000001,399.414
+Internal Energy,1.87996,399.882
+Internal Energy,1.88997,397.611
+Internal Energy,1.89999,395.287
+Internal Energy,1.90997,393.176
+Internal Energy,1.9199499999999998,392.898
+Internal Energy,1.9299600000000001,393.199
+Internal Energy,1.93997,389.858
+Internal Energy,1.94993,386.124
+Internal Energy,1.9599700000000002,383.173
+Internal Energy,1.96998,379.734
+Internal Energy,1.9799700000000002,375.143
+Internal Energy,1.9899700000000002,369.121
+Internal Energy,1.99995,361.024
+Internal Energy,2.00999,352.737
+Internal Energy,2.0199599999999998,344.197
+Internal Energy,2.02994,335.587
+Internal Energy,2.0399900000000004,328.364
+Internal Energy,2.04997,324.497
+Internal Energy,2.05993,323.227
+Internal Energy,2.06997,324.773
+Internal Energy,2.0799999999999996,327.15
+Internal Energy,2.09,330.018
+Internal Energy,2.0999399999999997,332.73
+Internal Energy,2.10993,333.951
+Internal Energy,2.11992,333.999
+Internal Energy,2.12994,335.602
+Internal Energy,2.14,337.431
+Internal Energy,2.14992,338.96
+Internal Energy,2.1599399999999997,340.818
+Internal Energy,2.17,342.931
+Internal Energy,2.17994,346.285
+Internal Energy,2.18995,350.371
+Internal Energy,2.19995,355.935
+Internal Energy,2.20998,364.898
+Internal Energy,2.21997,373.738
+Internal Energy,2.22999,382.023
+Internal Energy,2.23996,387.746
+Internal Energy,2.24995,392.413
+Internal Energy,2.25997,397.254
+Internal Energy,2.26995,401.59
+Internal Energy,2.27997,407.029
+Internal Energy,2.28998,413.641
+Internal Energy,2.3,420.939
+Internal Energy,2.31,427.266
+Internal Energy,2.31998,433.528
+Internal Energy,2.3299499999999997,440.99
+Internal Energy,2.33993,447.109
+Internal Energy,2.3499499999999998,452.749
+Internal Energy,2.35996,457.637
+Internal Energy,2.3699500000000002,462.323
+Internal Energy,2.3799699999999997,465.522
+Internal Energy,2.38993,465.812
+Internal Energy,2.39996,464.866
+Internal Energy,2.4099500000000003,463.972
+Internal Energy,2.41993,464.081
+Internal Energy,2.42996,462.763
+Internal Energy,2.43996,460.035
+Internal Energy,2.44995,457.012
+Internal Energy,2.45993,452.535
+Internal Energy,2.4699600000000004,448.605
+Internal Energy,2.4799499999999997,443.407
+Internal Energy,2.48995,437.692
+Internal Energy,2.49994,428.977
+Internal Energy,2.50999,420.413
+Internal Energy,2.51997,413.93
+Internal Energy,2.5299799999999997,410.293
+Internal Energy,2.53997,408.323
+Internal Energy,2.54995,404.172
+Internal Energy,2.5599600000000002,402.145
+Internal Energy,2.56993,402.481
+Internal Energy,2.57999,406.135
+Internal Energy,2.58996,411.132
+Internal Energy,2.5999399999999997,417.757
+Internal Energy,2.60999,426.884
+Internal Energy,2.6199399999999997,435.064
+Internal Energy,2.62998,441.681
+Internal Energy,2.63996,447.749
+Internal Energy,2.64997,452.433
+Internal Energy,2.65996,452.259
+Internal Energy,2.66993,450.867
+Internal Energy,2.67992,448.213
+Internal Energy,2.6899200000000003,446.02
+Internal Energy,2.69998,443.387
+Internal Energy,2.70995,439.791
+Internal Energy,2.7199899999999997,437.384
+Internal Energy,2.72998,435.498
+Internal Energy,2.73998,435.546
+Internal Energy,2.74993,436.236
+Internal Energy,2.75996,435.338
+Internal Energy,2.7699700000000003,436.265
+Internal Energy,2.77998,437.764
+Internal Energy,2.7899499999999997,441.242
+Internal Energy,2.79997,444.024
+Internal Energy,2.81,447.025
+Internal Energy,2.81999,449.988
+Internal Energy,2.83,452.764
+Internal Energy,2.8399699999999997,459.513
+Internal Energy,2.84999,467.097
+Internal Energy,2.8599300000000003,474.992
+Internal Energy,2.86999,484.29
+Internal Energy,2.8799300000000003,491.569
+Internal Energy,2.8899899999999996,499.985
+Internal Energy,2.8999300000000003,507.482
+Internal Energy,2.90996,514.269
+Internal Energy,2.91998,520.068
+Internal Energy,2.9299999999999997,522.561
+Internal Energy,2.93994,525.538
+Internal Energy,2.94994,527.716
+Internal Energy,2.9599499999999996,526.172
+Internal Energy,2.96998,526.079
+Internal Energy,2.97994,527.217
+Internal Energy,2.98994,530.033
+Internal Energy,2.99992,532.341
+Internal Energy,3.00992,534.961
+Internal Energy,3.01994,536.79
+Internal Energy,3.02992,535.065
+Internal Energy,3.03993,533.401
+Internal Energy,3.04997,532.392
+Internal Energy,3.05999,531.369
+Internal Energy,3.06998,529.927
+Internal Energy,3.07997,529.764
+Internal Energy,3.08995,531.493
+Internal Energy,3.0999600000000003,534.474
+Internal Energy,3.10998,540.125
+Internal Energy,3.11992,547.024
+Internal Energy,3.12999,552.55
+Internal Energy,3.13999,557.609
+Internal Energy,3.1499800000000002,559.656
+Internal Energy,3.15998,562.452
+Internal Energy,3.1699900000000003,564.823
+Internal Energy,3.17992,566.094
+Internal Energy,3.1899900000000003,567.532
+Internal Energy,3.19998,566.223
+Internal Energy,3.20998,565.112
+Internal Energy,3.21996,564.802
+Internal Energy,3.22995,563.869
+Internal Energy,3.2399199999999997,563.294
+Internal Energy,3.24995,563.403
+Internal Energy,3.2599299999999998,565.029
+Internal Energy,3.2699700000000003,565.77
+Internal Energy,3.27994,565.428
+Internal Energy,3.28994,565.811
+Internal Energy,3.29993,568.357
+Internal Energy,3.3099499999999997,573.105
+Internal Energy,3.31998,579.116
+Internal Energy,3.3299499999999997,584.817
+Internal Energy,3.33992,589.765
+Internal Energy,3.34994,594.484
+Internal Energy,3.3599900000000003,599.308
+Internal Energy,3.3699899999999996,603.694
+Internal Energy,3.3799799999999998,609.076
+Internal Energy,3.3899500000000002,614.458
+Internal Energy,3.39993,618.729
+Internal Energy,3.40994,622.068
+Internal Energy,3.41993,623.573
+Internal Energy,3.4299299999999997,625.172
+Internal Energy,3.43996,627.063
+Internal Energy,3.44997,629.332
+Internal Energy,3.45997,633.065
+Internal Energy,3.46997,637.785
+Internal Energy,3.47993,641.453
+Internal Energy,3.48995,642.47
+Internal Energy,3.49994,642.875
+Internal Energy,3.50994,640.96
+Internal Energy,3.5199900000000004,639.357
+Internal Energy,3.52992,639.797
+Internal Energy,3.53997,642.913
+Internal Energy,3.5499199999999997,646.622
+Internal Energy,3.5599999999999996,650.144
+Internal Energy,3.5699199999999998,652.127
+Internal Energy,3.57994,653.252
+Internal Energy,3.58993,654.876
+Internal Energy,3.59995,656.774
+Internal Energy,3.60999,661.068
+Internal Energy,3.61998,664.368
+Internal Energy,3.6299599999999996,668.027
+Internal Energy,3.63996,671.554
+Internal Energy,3.64995,673.247
+Internal Energy,3.66,674.86
+Internal Energy,3.66993,672.621
+Internal Energy,3.67993,669.248
+Internal Energy,3.6899900000000003,667.1
+Internal Energy,3.69998,668.424
+Internal Energy,3.70994,670.178
+Internal Energy,3.7199899999999997,671.212
+Internal Energy,3.72994,673.21
+Internal Energy,3.7399199999999997,673.963
+Internal Energy,3.74995,672.415
+Internal Energy,3.75992,672.483
+Internal Energy,3.76995,673.75
+Internal Energy,3.77998,675.275
+Internal Energy,3.78994,675.913
+Internal Energy,3.79996,675.603
+Internal Energy,3.80999,673.95
+Internal Energy,3.81995,670.334
+Internal Energy,3.82993,668.958
+Internal Energy,3.8399900000000002,670.971
+Internal Energy,3.84993,673.921
+Internal Energy,3.85995,678.33
+Internal Energy,3.86997,683.624
+Internal Energy,3.87996,687.632
+Internal Energy,3.88997,689.162
+Internal Energy,3.89994,690.088
+Internal Energy,3.90995,691.746
+Internal Energy,3.9199400000000004,693.023
+Internal Energy,3.92995,696.426
+Internal Energy,3.93999,699.872
+Internal Energy,3.94996,701.284
+Internal Energy,3.95997,701.229
+Internal Energy,3.96994,700.19
+Internal Energy,3.9799800000000003,699.441
+Internal Energy,3.98996,698.809
+Internal Energy,3.9999800000000003,699.369
+Internal Energy,4.00999,700.106
+Internal Energy,4.01999,699.265
+Internal Energy,4.02994,698.306
+Internal Energy,4.03999,698.643
+Internal Energy,4.04995,698.923
+Internal Energy,4.059959999999999,699.491
+Internal Energy,4.06998,701.627
+Internal Energy,4.079969999999999,703.511
+Internal Energy,4.08994,704.112
+Internal Energy,4.09995,704.862
+Internal Energy,4.10996,704.728
+Internal Energy,4.11993,704.238
+Internal Energy,4.129930000000001,705.764
+Internal Energy,4.13994,707.603
+Internal Energy,4.1499299999999995,711.46
+Internal Energy,4.1599699999999995,714.599
+Internal Energy,4.16995,715.78
+Internal Energy,4.17995,719.199
+Internal Energy,4.1899299999999995,720.719
+Internal Energy,4.1999699999999995,721.733
+Internal Energy,4.209980000000001,721.263
+Internal Energy,4.21996,718.981
+Internal Energy,4.229970000000001,717.141
+Internal Energy,4.23999,716.036
+Internal Energy,4.24993,713.756
+Internal Energy,4.25999,709.56
+Internal Energy,4.269959999999999,705.848
+Internal Energy,4.27995,701.904
+Internal Energy,4.289969999999999,698.337
+Internal Energy,4.2999600000000004,697.095
+Internal Energy,4.30996,697.146
+Internal Energy,4.31995,700.675
+Internal Energy,4.33,704.427
+Internal Energy,4.3399399999999995,707.224
+Internal Energy,4.3499799999999995,708.969
+Internal Energy,4.35996,709.203
+Internal Energy,4.36994,710.196
+Internal Energy,4.38,713.952
+Internal Energy,4.38994,719.903
+Internal Energy,4.39998,728.522
+Internal Energy,4.40995,736.124
+Internal Energy,4.41998,741.796
+Internal Energy,4.42999,746.298
+Internal Energy,4.43994,747.915
+Internal Energy,4.44997,749.568
+Internal Energy,4.45995,751.435
+Internal Energy,4.47,753.327
+Internal Energy,4.47993,755.813
+Internal Energy,4.4899700000000005,756.757
+Internal Energy,4.49997,757.706
+Internal Energy,4.50996,757.168
+Internal Energy,4.52,755.679
+Internal Energy,4.5299499999999995,756.117
+Internal Energy,4.54,756.511
+Internal Energy,4.54999,759.748
+Internal Energy,4.55996,762.217
+Internal Energy,4.56998,765.804
+Internal Energy,4.579940000000001,770.455
+Internal Energy,4.5899399999999995,777.44
+Internal Energy,4.59999,785.001
+Internal Energy,4.60997,790.113
+Internal Energy,4.62,792.924
+Internal Energy,4.62995,791.358
+Internal Energy,4.63994,790.623
+Internal Energy,4.64999,791.367
+Internal Energy,4.6599900000000005,789.542
+Internal Energy,4.66994,787.168
+Internal Energy,4.67999,786.157
+Internal Energy,4.68994,785.859
+Internal Energy,4.69998,786.963
+Internal Energy,4.70998,788.117
+Internal Energy,4.71997,789.255
+Internal Energy,4.7299500000000005,787.943
+Internal Energy,4.739949999999999,783.161
+Internal Energy,4.75,778.443
+Internal Energy,4.75997,773.603
+Internal Energy,4.76996,769.435
+Internal Energy,4.77997,767.18
+Internal Energy,4.789960000000001,769.081
+Internal Energy,4.79997,774.051
+Internal Energy,4.80994,779.388
+Internal Energy,4.8199499999999995,782.217
+Internal Energy,4.83,781.798
+Internal Energy,4.839989999999999,780.853
+Internal Energy,4.849939999999999,779.881
+Internal Energy,4.85997,779.435
+Internal Energy,4.8699900000000005,776.801
+Internal Energy,4.87992,775.848
+Internal Energy,4.88992,778.454
+Internal Energy,4.89997,779.168
+Internal Energy,4.909949999999999,777.671
+Internal Energy,4.91995,775.415
+Internal Energy,4.92998,770.959
+Internal Energy,4.93999,767.527
+Internal Energy,4.95,766.048
+Internal Energy,4.95997,767.428
+Internal Energy,4.96993,770.187
+Internal Energy,4.97997,775.109
+Internal Energy,4.98997,781.392
+Internal Energy,4.99999,789.314
+Internal Energy,5.00993,794.699
+Internal Energy,5.01995,799.718
+Internal Energy,5.02994,803.201
+Internal Energy,5.039949999999999,806.391
+Internal Energy,5.04995,809.203
+Internal Energy,5.05997,811.109
+Internal Energy,5.06999,812.248
+Internal Energy,5.079969999999999,813.118
+Internal Energy,5.08998,814.031
+Internal Energy,5.09992,816.839
+Internal Energy,5.109970000000001,820.245
+Internal Energy,5.1199699999999995,823.572
+Internal Energy,5.12997,824.522
+Internal Energy,5.13993,823.719
+Internal Energy,5.15,821.8
+Internal Energy,5.15993,820.397
+Internal Energy,5.16993,820.38
+Internal Energy,5.17995,820.686
+Internal Energy,5.18994,821.532
+Internal Energy,5.19994,821.256
+Internal Energy,5.20995,820.849
+Internal Energy,5.21998,820.381
+Internal Energy,5.229959999999999,820.031
+Internal Energy,5.2399700000000005,820.855
+Internal Energy,5.24992,822.202
+Internal Energy,5.25999,826.481
+Internal Energy,5.26994,829.865
+Internal Energy,5.27995,832.64
+Internal Energy,5.28996,833.317
+Internal Energy,5.29994,830.849
+Internal Energy,5.30996,826.961
+Internal Energy,5.3199700000000005,824.881
+Internal Energy,5.33,824.637
+Internal Energy,5.33993,825.872
+Internal Energy,5.34992,826.405
+Internal Energy,5.35994,826.127
+Internal Energy,5.36999,823.315
+Internal Energy,5.37996,821.096
+Internal Energy,5.38995,819.376
+Internal Energy,5.3999299999999995,815.833
+Internal Energy,5.40997,810.342
+Internal Energy,5.419969999999999,805.936
+Internal Energy,5.429930000000001,803.552
+Internal Energy,5.43996,803.246
+Internal Energy,5.44999,804.155
+Internal Energy,5.45994,805.072
+Internal Energy,5.46999,805.431
+Internal Energy,5.47992,805.752
+Internal Energy,5.489929999999999,808.772
+Internal Energy,5.5,811.218
+Internal Energy,5.50993,812.551
+Internal Energy,5.519979999999999,812.806
+Internal Energy,5.529929999999999,813.552
+Internal Energy,5.53998,813.505
+Internal Energy,5.54999,813.021
+Internal Energy,5.55999,815.914
+Internal Energy,5.56997,818.313
+Internal Energy,5.57996,820.656
+Internal Energy,5.58996,821.145
+Internal Energy,5.59998,817.42
+Internal Energy,5.60996,813.369
+Internal Energy,5.62,808.354
+Internal Energy,5.6299399999999995,805.898
+Internal Energy,5.63994,804.779
+Internal Energy,5.64995,804.538
+Internal Energy,5.65997,803.416
+Internal Energy,5.66998,799.369
+Internal Energy,5.67997,794.641
+Internal Energy,5.68998,789.434
+Internal Energy,5.699949999999999,786.161
+Internal Energy,5.70993,784.264
+Internal Energy,5.7199800000000005,784.799
+Internal Energy,5.72994,790.031
+Internal Energy,5.73997,794.334
+Internal Energy,5.74996,797.243
+Internal Energy,5.75998,799.295
+Internal Energy,5.76999,799.077
+Internal Energy,5.7799499999999995,800.729
+Internal Energy,5.789960000000001,803.407
+Internal Energy,5.79995,807.254
+Internal Energy,5.80993,809.869
+Internal Energy,5.81993,809.679
+Internal Energy,5.8299199999999995,807.507
+Internal Energy,5.839989999999999,808.757
+Internal Energy,5.849970000000001,811.179
+Internal Energy,5.85992,810.84
+Internal Energy,5.86997,809.226
+Internal Energy,5.87996,804.822
+Internal Energy,5.88993,796.472
+Internal Energy,5.89999,787.737
+Internal Energy,5.91,782.014
+Internal Energy,5.92,779.531
+Internal Energy,5.92993,779.108
+Internal Energy,5.9399500000000005,781.205
+Internal Energy,5.9499699999999995,784.888
+Internal Energy,5.9599400000000005,788.721
+Internal Energy,5.96997,791.777
+Internal Energy,5.9799500000000005,793.155
+Internal Energy,5.98997,791.973
+Internal Energy,5.99997,788.597
+Internal Energy,6.00998,785.817
+Internal Energy,6.01996,786.776
+Internal Energy,6.02996,787.664
+Internal Energy,6.03997,786.61
+Internal Energy,6.04993,786.84
+Internal Energy,6.05994,784.456
+Internal Energy,6.07,778.884
+Internal Energy,6.0799900000000004,774.166
+Internal Energy,6.08994,773.793
+Internal Energy,6.1000000000000005,774.914
+Internal Energy,6.10998,772.975
+Internal Energy,6.11998,770.869
+Internal Energy,6.1299600000000005,765.773
+Internal Energy,6.13999,761.391
+Internal Energy,6.1499299999999995,755.216
+Internal Energy,6.15996,750.507
+Internal Energy,6.16993,749.875
+Internal Energy,6.17997,751.605
+Internal Energy,6.18992,752.841
+Internal Energy,6.1999200000000005,754.489
+Internal Energy,6.20999,755.404
+Internal Energy,6.21994,758.017
+Internal Energy,6.22994,760.65
+Internal Energy,6.239920000000001,763.218
+Internal Energy,6.24999,766.418
+Internal Energy,6.25999,767.233
+Internal Energy,6.26992,765.357
+Internal Energy,6.279940000000001,761.84
+Internal Energy,6.28996,760.399
+Internal Energy,6.29993,760.135
+Internal Energy,6.30997,758.878
+Internal Energy,6.31996,758.307
+Internal Energy,6.33,757.683
+Internal Energy,6.339980000000001,756.842
+Internal Energy,6.3499300000000005,753.508
+Internal Energy,6.359959999999999,749.16
+Internal Energy,6.36998,748.254
+Internal Energy,6.37993,750.815
+Internal Energy,6.38994,752.176
+Internal Energy,6.3999299999999995,751.131
+Internal Energy,6.40993,751.075
+Internal Energy,6.41998,753.119
+Internal Energy,6.42999,754.114
+Internal Energy,6.43994,752.554
+Internal Energy,6.44992,750.551
+Internal Energy,6.4599899999999995,748.267
+Internal Energy,6.469950000000001,748.083
+Internal Energy,6.47996,747.856
+Internal Energy,6.48994,749.84
+Internal Energy,6.49993,754.619
+Internal Energy,6.50996,757.678
+Internal Energy,6.51997,759.78
+Internal Energy,6.52994,755.037
+Internal Energy,6.5399400000000005,749.44
+Internal Energy,6.550000000000001,744.221
+Internal Energy,6.55995,739.847
+Internal Energy,6.57,736.612
+Internal Energy,6.57997,732.585
+Internal Energy,6.58999,728.403
+Internal Energy,6.599950000000001,724.682
+Internal Energy,6.60994,720.85
+Internal Energy,6.61997,719.786
+Internal Energy,6.62995,718.955
+Internal Energy,6.63998,719.222
+Internal Energy,6.6499999999999995,715.456
+Internal Energy,6.65998,708.921
+Internal Energy,6.669989999999999,707.06
+Internal Energy,6.67993,707.384
+Internal Energy,6.68994,708.889
+Internal Energy,6.69996,709.453
+Internal Energy,6.70998,710.609
+Internal Energy,6.71993,712.392
+Internal Energy,6.72992,712.854
+Internal Energy,6.739979999999999,714.168
+Internal Energy,6.74997,714.162
+Internal Energy,6.75998,712.729
+Internal Energy,6.76998,707.378
+Internal Energy,6.77993,700.993
+Internal Energy,6.78997,697.211
+Internal Energy,6.79995,695.685
+Internal Energy,6.80998,692.926
+Internal Energy,6.81998,692.036
+Internal Energy,6.82995,693.112
+Internal Energy,6.83993,692.197
+Internal Energy,6.84992,690.856
+Internal Energy,6.859920000000001,690.303
+Internal Energy,6.869949999999999,692.054
+Internal Energy,6.87999,690.657
+Internal Energy,6.88995,688.611
+Internal Energy,6.89994,687.204
+Internal Energy,6.9099699999999995,686.082
+Internal Energy,6.91998,685.887
+Internal Energy,6.929989999999999,684.86
+Internal Energy,6.94,685.52
+Internal Energy,6.94993,686.725
+Internal Energy,6.95993,688.233
+Internal Energy,6.96997,692.683
+Internal Energy,6.979939999999999,693.807
+Internal Energy,6.98995,694.441
+Internal Energy,6.99997,694.435
+Internal Energy,7.00998,693.334
+Internal Energy,7.01995,690.643
+Internal Energy,7.02997,688.889
+Internal Energy,7.039980000000001,688.403
+Internal Energy,7.0499600000000004,688.302
+Internal Energy,7.05998,687.027
+Internal Energy,7.06993,685.531
+Internal Energy,7.07993,686.094
+Internal Energy,7.08998,685.775
+Internal Energy,7.09993,685.42
+Internal Energy,7.10993,684.646
+Internal Energy,7.11994,681.791
+Internal Energy,7.12995,677.086
+Internal Energy,7.13995,671.012
+Internal Energy,7.14994,667.325
+Internal Energy,7.15995,665.329
+Internal Energy,7.17,664.594
+Internal Energy,7.179930000000001,665.716
+Internal Energy,7.18999,663.815
+Internal Energy,7.19993,659.823
+Internal Energy,7.209919999999999,656.015
+Internal Energy,7.21997,654.759
+Internal Energy,7.229959999999999,655.186
+Internal Energy,7.239920000000001,654.871
+Internal Energy,7.249969999999999,656.453
+Internal Energy,7.25999,658.142
+Internal Energy,7.26999,657.44
+Internal Energy,7.2799700000000005,656.24
+Internal Energy,7.28994,655.361
+Internal Energy,7.299980000000001,653.991
+Internal Energy,7.3099300000000005,651.933
+Internal Energy,7.31996,650.961
+Internal Energy,7.32997,647.57
+Internal Energy,7.339980000000001,644.304
+Internal Energy,7.34995,641.308
+Internal Energy,7.35992,639.194
+Internal Energy,7.369940000000001,639.407
+Internal Energy,7.37999,637.937
+Internal Energy,7.38992,636.701
+Internal Energy,7.3999299999999995,635.88
+Internal Energy,7.409940000000001,634.162
+Internal Energy,7.419989999999999,631.919
+Internal Energy,7.4299800000000005,630.136
+Internal Energy,7.43993,630.292
+Internal Energy,7.44992,633.179
+Internal Energy,7.45992,635.841
+Internal Energy,7.47,636.477
+Internal Energy,7.47994,633.237
+Internal Energy,7.48994,629.5
+Internal Energy,7.4999400000000005,628.392
+Internal Energy,7.51,628.517
+Internal Energy,7.51998,629.282
+Internal Energy,7.52996,629.45
+Internal Energy,7.5399400000000005,631.741
+Internal Energy,7.54993,632.844
+Internal Energy,7.559950000000001,633.824
+Internal Energy,7.56994,634.19
+Internal Energy,7.57992,632.841
+Internal Energy,7.58997,630.027
+Internal Energy,7.59996,626.73
+Internal Energy,7.60996,622.755
+Internal Energy,7.61997,621.245
+Internal Energy,7.62996,621.711
+Internal Energy,7.639950000000001,622.578
+Internal Energy,7.64999,623.003
+Internal Energy,7.65994,622.422
+Internal Energy,7.66997,622.104
+Internal Energy,7.67997,622.033
+Internal Energy,7.68996,622.011
+Internal Energy,7.69997,622.088
+Internal Energy,7.70993,622.568
+Internal Energy,7.71995,622.814
+Internal Energy,7.7299500000000005,620.348
+Internal Energy,7.739949999999999,617.567
+Internal Energy,7.75,616.585
+Internal Energy,7.75995,617.169
+Internal Energy,7.76994,617.021
+Internal Energy,7.77994,614.316
+Internal Energy,7.7899400000000005,611.157
+Internal Energy,7.79995,608.204
+Internal Energy,7.80998,604.874
+Internal Energy,7.8199700000000005,604.622
+Internal Energy,7.82995,603.713
+Internal Energy,7.83999,601.604
+Internal Energy,7.849989999999999,598.462
+Internal Energy,7.859980000000001,596.31
+Internal Energy,7.86998,594.525
+Internal Energy,7.8799600000000005,592.784
+Internal Energy,7.8899799999999995,590.563
+Internal Energy,7.899979999999999,588.76
+Internal Energy,7.909930000000001,589.728
+Internal Energy,7.9199600000000006,591.812
+Internal Energy,7.92993,593.485
+Internal Energy,7.93997,591.879
+Internal Energy,7.949990000000001,590.312
+Internal Energy,7.959930000000001,589.171
+Internal Energy,7.96999,587.633
+Internal Energy,7.97995,587.724
+Internal Energy,7.989929999999999,588.116
+Internal Energy,7.99999,587.491
+Hourglass Energy,0.0,0.0
+Hourglass Energy,0.00998975,0.0
+Hourglass Energy,0.0199783,0.0
+Hourglass Energy,0.0299549,0.0
+Hourglass Energy,0.0399339,0.0
+Hourglass Energy,0.049965300000000004,0.0
+Hourglass Energy,0.0599526,0.0
+Hourglass Energy,0.0699938,0.0
+Hourglass Energy,0.0799498,0.0
+Hourglass Energy,0.0899149,0.0
+Hourglass Energy,0.099977,0.0
+Hourglass Energy,0.109961,0.0
+Hourglass Energy,0.11997000000000001,0.0
+Hourglass Energy,0.129933,0.0
+Hourglass Energy,0.139976,0.0
+Hourglass Energy,0.149958,0.0
+Hourglass Energy,0.15999,0.0
+Hourglass Energy,0.169965,0.0
+Hourglass Energy,0.179966,0.0
+Hourglass Energy,0.18995,0.0
+Hourglass Energy,0.199969,0.0
+Hourglass Energy,0.20996599999999999,0.0
+Hourglass Energy,0.219996,0.0
+Hourglass Energy,0.229962,0.0
+Hourglass Energy,0.239966,0.0
+Hourglass Energy,0.24996699999999997,0.0
+Hourglass Energy,0.259976,0.0
+Hourglass Energy,0.269993,0.0
+Hourglass Energy,0.27996899999999997,0.0
+Hourglass Energy,0.289958,0.0
+Hourglass Energy,0.29998600000000003,0.0
+Hourglass Energy,0.30995300000000003,0.0
+Hourglass Energy,0.319967,0.0
+Hourglass Energy,0.329982,0.0
+Hourglass Energy,0.339939,0.0
+Hourglass Energy,0.349996,0.0
+Hourglass Energy,0.359942,0.0
+Hourglass Energy,0.369951,0.0
+Hourglass Energy,0.379951,0.0
+Hourglass Energy,0.389946,0.0
+Hourglass Energy,0.399944,0.0
+Hourglass Energy,0.409932,0.0
+Hourglass Energy,0.419992,0.0
+Hourglass Energy,0.429991,0.0
+Hourglass Energy,0.439974,0.0
+Hourglass Energy,0.44996400000000003,0.0
+Hourglass Energy,0.459986,0.0
+Hourglass Energy,0.469932,0.0
+Hourglass Energy,0.479955,0.0
+Hourglass Energy,0.489979,0.0
+Hourglass Energy,0.49992899999999996,0.0
+Hourglass Energy,0.509977,0.0
+Hourglass Energy,0.519958,0.0
+Hourglass Energy,0.529996,0.0
+Hourglass Energy,0.54,0.0
+Hourglass Energy,0.549933,0.0
+Hourglass Energy,0.559952,0.0
+Hourglass Energy,0.569924,0.0
+Hourglass Energy,0.579999,0.0
+Hourglass Energy,0.589974,0.0
+Hourglass Energy,0.6,0.0
+Hourglass Energy,0.60996,0.0
+Hourglass Energy,0.619922,0.0
+Hourglass Energy,0.629991,0.0
+Hourglass Energy,0.639962,0.0
+Hourglass Energy,0.649969,0.0
+Hourglass Energy,0.659943,0.0
+Hourglass Energy,0.6699689999999999,0.0
+Hourglass Energy,0.679992,0.0
+Hourglass Energy,0.689979,0.0
+Hourglass Energy,0.6999989999999999,0.0
+Hourglass Energy,0.709956,0.0
+Hourglass Energy,0.7199939999999999,0.0
+Hourglass Energy,0.729929,0.0
+Hourglass Energy,0.739937,0.0
+Hourglass Energy,0.749985,0.0
+Hourglass Energy,0.759995,0.0
+Hourglass Energy,0.7699630000000001,0.0
+Hourglass Energy,0.7799769999999999,0.0
+Hourglass Energy,0.789986,0.0
+Hourglass Energy,0.799948,0.0
+Hourglass Energy,0.8099430000000001,0.0
+Hourglass Energy,0.819947,0.0
+Hourglass Energy,0.82995,0.0
+Hourglass Energy,0.8400000000000001,0.0
+Hourglass Energy,0.8499570000000001,0.0
+Hourglass Energy,0.859965,0.0
+Hourglass Energy,0.8699619999999999,0.0
+Hourglass Energy,0.879964,0.0
+Hourglass Energy,0.889949,0.0
+Hourglass Energy,0.899944,0.0
+Hourglass Energy,0.90999,0.0
+Hourglass Energy,0.919957,0.0
+Hourglass Energy,0.929974,0.0
+Hourglass Energy,0.939959,0.0
+Hourglass Energy,0.949939,0.0
+Hourglass Energy,0.959963,0.0
+Hourglass Energy,0.969981,0.0
+Hourglass Energy,0.9799419999999999,0.0
+Hourglass Energy,0.989937,0.0
+Hourglass Energy,0.999967,0.0
+Hourglass Energy,1.00996,0.0
+Hourglass Energy,1.01993,0.0
+Hourglass Energy,1.02999,0.0
+Hourglass Energy,1.03997,0.0
+Hourglass Energy,1.05,0.0
+Hourglass Energy,1.0599800000000001,0.0
+Hourglass Energy,1.06994,0.0
+Hourglass Energy,1.07992,0.0
+Hourglass Energy,1.08992,0.0
+Hourglass Energy,1.09998,0.0
+Hourglass Energy,1.10999,0.0
+Hourglass Energy,1.1199700000000001,0.0
+Hourglass Energy,1.12995,0.0
+Hourglass Energy,1.1399299999999999,0.0
+Hourglass Energy,1.14993,0.0
+Hourglass Energy,1.15998,0.0
+Hourglass Energy,1.1699499999999998,0.0
+Hourglass Energy,1.1799899999999999,0.0
+Hourglass Energy,1.1899600000000001,0.0
+Hourglass Energy,1.19994,0.0
+Hourglass Energy,1.20996,0.0
+Hourglass Energy,1.21996,0.0
+Hourglass Energy,1.22993,0.0
+Hourglass Energy,1.24,0.0
+Hourglass Energy,1.24994,0.0
+Hourglass Energy,1.25999,0.0
+Hourglass Energy,1.2699600000000002,0.0
+Hourglass Energy,1.27994,0.0
+Hourglass Energy,1.28995,0.0
+Hourglass Energy,1.29999,0.0
+Hourglass Energy,1.30994,0.0
+Hourglass Energy,1.31994,0.0
+Hourglass Energy,1.33,0.0
+Hourglass Energy,1.33999,0.0
+Hourglass Energy,1.3499700000000001,0.0
+Hourglass Energy,1.35995,0.0
+Hourglass Energy,1.36998,0.0
+Hourglass Energy,1.37999,0.0
+Hourglass Energy,1.38995,0.0
+Hourglass Energy,1.39997,0.0
+Hourglass Energy,1.40998,0.0
+Hourglass Energy,1.41994,0.0
+Hourglass Energy,1.4299899999999999,0.0
+Hourglass Energy,1.4400000000000002,0.0
+Hourglass Energy,1.44994,0.0
+Hourglass Energy,1.45999,0.0
+Hourglass Energy,1.46997,0.0
+Hourglass Energy,1.47995,0.0
+Hourglass Energy,1.49,0.0
+Hourglass Energy,1.49996,0.0
+Hourglass Energy,1.50997,0.0
+Hourglass Energy,1.5199799999999999,0.0
+Hourglass Energy,1.52994,0.0
+Hourglass Energy,1.5399800000000001,0.0
+Hourglass Energy,1.5499699999999998,0.0
+Hourglass Energy,1.55996,0.0
+Hourglass Energy,1.5699500000000002,0.0
+Hourglass Energy,1.57999,0.0
+Hourglass Energy,1.58993,0.0
+Hourglass Energy,1.59993,0.0
+Hourglass Energy,1.60992,0.0
+Hourglass Energy,1.61995,0.0
+Hourglass Energy,1.62999,0.0
+Hourglass Energy,1.64,0.0
+Hourglass Energy,1.64993,0.0
+Hourglass Energy,1.65993,0.0
+Hourglass Energy,1.66993,0.0
+Hourglass Energy,1.67994,0.0
+Hourglass Energy,1.68998,0.0
+Hourglass Energy,1.69994,0.0
+Hourglass Energy,1.70997,0.0
+Hourglass Energy,1.71997,0.0
+Hourglass Energy,1.7299900000000001,0.0
+Hourglass Energy,1.7399799999999999,0.0
+Hourglass Energy,1.7499799999999999,0.0
+Hourglass Energy,1.75995,0.0
+Hourglass Energy,1.7699799999999999,0.0
+Hourglass Energy,1.77997,0.0
+Hourglass Energy,1.78999,0.0
+Hourglass Energy,1.79999,0.0
+Hourglass Energy,1.8099699999999999,0.0
+Hourglass Energy,1.81999,0.0
+Hourglass Energy,1.82994,0.0
+Hourglass Energy,1.83994,0.0
+Hourglass Energy,1.8499700000000001,0.0
+Hourglass Energy,1.85998,0.0
+Hourglass Energy,1.8699700000000001,0.0
+Hourglass Energy,1.87996,0.0
+Hourglass Energy,1.88997,0.0
+Hourglass Energy,1.89999,0.0
+Hourglass Energy,1.90997,0.0
+Hourglass Energy,1.9199499999999998,0.0
+Hourglass Energy,1.9299600000000001,0.0
+Hourglass Energy,1.93997,0.0
+Hourglass Energy,1.94993,0.0
+Hourglass Energy,1.9599700000000002,0.0
+Hourglass Energy,1.96998,0.0
+Hourglass Energy,1.9799700000000002,0.0
+Hourglass Energy,1.9899700000000002,0.0
+Hourglass Energy,1.99995,0.0
+Hourglass Energy,2.00999,0.0
+Hourglass Energy,2.0199599999999998,0.0
+Hourglass Energy,2.02994,0.0
+Hourglass Energy,2.0399900000000004,0.0
+Hourglass Energy,2.04997,0.0
+Hourglass Energy,2.05993,0.0
+Hourglass Energy,2.06997,0.0
+Hourglass Energy,2.0799999999999996,0.0
+Hourglass Energy,2.09,0.0
+Hourglass Energy,2.0999399999999997,0.0
+Hourglass Energy,2.10993,0.0
+Hourglass Energy,2.11992,0.0
+Hourglass Energy,2.12994,0.0
+Hourglass Energy,2.14,0.0
+Hourglass Energy,2.14992,0.0
+Hourglass Energy,2.1599399999999997,0.0
+Hourglass Energy,2.17,0.0
+Hourglass Energy,2.17994,0.0
+Hourglass Energy,2.18995,0.0
+Hourglass Energy,2.19995,0.0
+Hourglass Energy,2.20998,0.0
+Hourglass Energy,2.21997,0.0
+Hourglass Energy,2.22999,0.0
+Hourglass Energy,2.23996,0.0
+Hourglass Energy,2.24995,0.0
+Hourglass Energy,2.25997,0.0
+Hourglass Energy,2.26995,0.0
+Hourglass Energy,2.27997,0.0
+Hourglass Energy,2.28998,0.0
+Hourglass Energy,2.3,0.0
+Hourglass Energy,2.31,0.0
+Hourglass Energy,2.31998,0.0
+Hourglass Energy,2.3299499999999997,0.0
+Hourglass Energy,2.33993,0.0
+Hourglass Energy,2.3499499999999998,0.0
+Hourglass Energy,2.35996,0.0
+Hourglass Energy,2.3699500000000002,0.0
+Hourglass Energy,2.3799699999999997,0.0
+Hourglass Energy,2.38993,0.0
+Hourglass Energy,2.39996,0.0
+Hourglass Energy,2.4099500000000003,0.0
+Hourglass Energy,2.41993,0.0
+Hourglass Energy,2.42996,0.0
+Hourglass Energy,2.43996,0.0
+Hourglass Energy,2.44995,0.0
+Hourglass Energy,2.45993,0.0
+Hourglass Energy,2.4699600000000004,0.0
+Hourglass Energy,2.4799499999999997,0.0
+Hourglass Energy,2.48995,0.0
+Hourglass Energy,2.49994,0.0
+Hourglass Energy,2.50999,0.0
+Hourglass Energy,2.51997,0.0
+Hourglass Energy,2.5299799999999997,0.0
+Hourglass Energy,2.53997,0.0
+Hourglass Energy,2.54995,0.0
+Hourglass Energy,2.5599600000000002,0.0
+Hourglass Energy,2.56993,0.0
+Hourglass Energy,2.57999,0.0
+Hourglass Energy,2.58996,0.0
+Hourglass Energy,2.5999399999999997,0.0
+Hourglass Energy,2.60999,0.0
+Hourglass Energy,2.6199399999999997,0.0
+Hourglass Energy,2.62998,0.0
+Hourglass Energy,2.63996,0.0
+Hourglass Energy,2.64997,0.0
+Hourglass Energy,2.65996,0.0
+Hourglass Energy,2.66993,0.0
+Hourglass Energy,2.67992,0.0
+Hourglass Energy,2.6899200000000003,0.0
+Hourglass Energy,2.69998,0.0
+Hourglass Energy,2.70995,0.0
+Hourglass Energy,2.7199899999999997,0.0
+Hourglass Energy,2.72998,0.0
+Hourglass Energy,2.73998,0.0
+Hourglass Energy,2.74993,0.0
+Hourglass Energy,2.75996,0.0
+Hourglass Energy,2.7699700000000003,0.0
+Hourglass Energy,2.77998,0.0
+Hourglass Energy,2.7899499999999997,0.0
+Hourglass Energy,2.79997,0.0
+Hourglass Energy,2.81,0.0
+Hourglass Energy,2.81999,0.0
+Hourglass Energy,2.83,0.0
+Hourglass Energy,2.8399699999999997,0.0
+Hourglass Energy,2.84999,0.0
+Hourglass Energy,2.8599300000000003,0.0
+Hourglass Energy,2.86999,0.0
+Hourglass Energy,2.8799300000000003,0.0
+Hourglass Energy,2.8899899999999996,0.0
+Hourglass Energy,2.8999300000000003,0.0
+Hourglass Energy,2.90996,0.0
+Hourglass Energy,2.91998,0.0
+Hourglass Energy,2.9299999999999997,0.0
+Hourglass Energy,2.93994,0.0
+Hourglass Energy,2.94994,0.0
+Hourglass Energy,2.9599499999999996,0.0
+Hourglass Energy,2.96998,0.0
+Hourglass Energy,2.97994,0.0
+Hourglass Energy,2.98994,0.0
+Hourglass Energy,2.99992,0.0
+Hourglass Energy,3.00992,0.0
+Hourglass Energy,3.01994,0.0
+Hourglass Energy,3.02992,0.0
+Hourglass Energy,3.03993,0.0
+Hourglass Energy,3.04997,0.0
+Hourglass Energy,3.05999,0.0
+Hourglass Energy,3.06998,0.0
+Hourglass Energy,3.07997,0.0
+Hourglass Energy,3.08995,0.0
+Hourglass Energy,3.0999600000000003,0.0
+Hourglass Energy,3.10998,0.0
+Hourglass Energy,3.11992,0.0
+Hourglass Energy,3.12999,0.0
+Hourglass Energy,3.13999,0.0
+Hourglass Energy,3.1499800000000002,0.0
+Hourglass Energy,3.15998,0.0
+Hourglass Energy,3.1699900000000003,0.0
+Hourglass Energy,3.17992,0.0
+Hourglass Energy,3.1899900000000003,0.0
+Hourglass Energy,3.19998,0.0
+Hourglass Energy,3.20998,0.0
+Hourglass Energy,3.21996,0.0
+Hourglass Energy,3.22995,0.0
+Hourglass Energy,3.2399199999999997,0.0
+Hourglass Energy,3.24995,0.0
+Hourglass Energy,3.2599299999999998,0.0
+Hourglass Energy,3.2699700000000003,0.0
+Hourglass Energy,3.27994,0.0
+Hourglass Energy,3.28994,0.0
+Hourglass Energy,3.29993,0.0
+Hourglass Energy,3.3099499999999997,0.0
+Hourglass Energy,3.31998,0.0
+Hourglass Energy,3.3299499999999997,0.0
+Hourglass Energy,3.33992,0.0
+Hourglass Energy,3.34994,0.0
+Hourglass Energy,3.3599900000000003,0.0
+Hourglass Energy,3.3699899999999996,0.0
+Hourglass Energy,3.3799799999999998,0.0
+Hourglass Energy,3.3899500000000002,0.0
+Hourglass Energy,3.39993,0.0
+Hourglass Energy,3.40994,0.0
+Hourglass Energy,3.41993,0.0
+Hourglass Energy,3.4299299999999997,0.0
+Hourglass Energy,3.43996,0.0
+Hourglass Energy,3.44997,0.0
+Hourglass Energy,3.45997,0.0
+Hourglass Energy,3.46997,0.0
+Hourglass Energy,3.47993,0.0
+Hourglass Energy,3.48995,0.0
+Hourglass Energy,3.49994,0.0
+Hourglass Energy,3.50994,0.0
+Hourglass Energy,3.5199900000000004,0.0
+Hourglass Energy,3.52992,0.0
+Hourglass Energy,3.53997,0.0
+Hourglass Energy,3.5499199999999997,0.0
+Hourglass Energy,3.5599999999999996,0.0
+Hourglass Energy,3.5699199999999998,0.0
+Hourglass Energy,3.57994,0.0
+Hourglass Energy,3.58993,0.0
+Hourglass Energy,3.59995,0.0
+Hourglass Energy,3.60999,0.0
+Hourglass Energy,3.61998,0.0
+Hourglass Energy,3.6299599999999996,0.0
+Hourglass Energy,3.63996,0.0
+Hourglass Energy,3.64995,0.0
+Hourglass Energy,3.66,0.0
+Hourglass Energy,3.66993,0.0
+Hourglass Energy,3.67993,0.0
+Hourglass Energy,3.6899900000000003,0.0
+Hourglass Energy,3.69998,0.0
+Hourglass Energy,3.70994,0.0
+Hourglass Energy,3.7199899999999997,0.0
+Hourglass Energy,3.72994,0.0
+Hourglass Energy,3.7399199999999997,0.0
+Hourglass Energy,3.74995,0.0
+Hourglass Energy,3.75992,0.0
+Hourglass Energy,3.76995,0.0
+Hourglass Energy,3.77998,0.0
+Hourglass Energy,3.78994,0.0
+Hourglass Energy,3.79996,0.0
+Hourglass Energy,3.80999,0.0
+Hourglass Energy,3.81995,0.0
+Hourglass Energy,3.82993,0.0
+Hourglass Energy,3.8399900000000002,0.0
+Hourglass Energy,3.84993,0.0
+Hourglass Energy,3.85995,0.0
+Hourglass Energy,3.86997,0.0
+Hourglass Energy,3.87996,0.0
+Hourglass Energy,3.88997,0.0
+Hourglass Energy,3.89994,0.0
+Hourglass Energy,3.90995,0.0
+Hourglass Energy,3.9199400000000004,0.0
+Hourglass Energy,3.92995,0.0
+Hourglass Energy,3.93999,0.0
+Hourglass Energy,3.94996,0.0
+Hourglass Energy,3.95997,0.0
+Hourglass Energy,3.96994,0.0
+Hourglass Energy,3.9799800000000003,0.0
+Hourglass Energy,3.98996,0.0
+Hourglass Energy,3.9999800000000003,0.0
+Hourglass Energy,4.00999,0.0
+Hourglass Energy,4.01999,0.0
+Hourglass Energy,4.02994,0.0
+Hourglass Energy,4.03999,0.0
+Hourglass Energy,4.04995,0.0
+Hourglass Energy,4.059959999999999,0.0
+Hourglass Energy,4.06998,0.0
+Hourglass Energy,4.079969999999999,0.0
+Hourglass Energy,4.08994,0.0
+Hourglass Energy,4.09995,0.0
+Hourglass Energy,4.10996,0.0
+Hourglass Energy,4.11993,0.0
+Hourglass Energy,4.129930000000001,0.0
+Hourglass Energy,4.13994,0.0
+Hourglass Energy,4.1499299999999995,0.0
+Hourglass Energy,4.1599699999999995,0.0
+Hourglass Energy,4.16995,0.0
+Hourglass Energy,4.17995,0.0
+Hourglass Energy,4.1899299999999995,0.0
+Hourglass Energy,4.1999699999999995,0.0
+Hourglass Energy,4.209980000000001,0.0
+Hourglass Energy,4.21996,0.0
+Hourglass Energy,4.229970000000001,0.0
+Hourglass Energy,4.23999,0.0
+Hourglass Energy,4.24993,0.0
+Hourglass Energy,4.25999,0.0
+Hourglass Energy,4.269959999999999,0.0
+Hourglass Energy,4.27995,0.0
+Hourglass Energy,4.289969999999999,0.0
+Hourglass Energy,4.2999600000000004,0.0
+Hourglass Energy,4.30996,0.0
+Hourglass Energy,4.31995,0.0
+Hourglass Energy,4.33,0.0
+Hourglass Energy,4.3399399999999995,0.0
+Hourglass Energy,4.3499799999999995,0.0
+Hourglass Energy,4.35996,0.0
+Hourglass Energy,4.36994,0.0
+Hourglass Energy,4.38,0.0
+Hourglass Energy,4.38994,0.0
+Hourglass Energy,4.39998,0.0
+Hourglass Energy,4.40995,0.0
+Hourglass Energy,4.41998,0.0
+Hourglass Energy,4.42999,0.0
+Hourglass Energy,4.43994,0.0
+Hourglass Energy,4.44997,0.0
+Hourglass Energy,4.45995,0.0
+Hourglass Energy,4.47,0.0
+Hourglass Energy,4.47993,0.0
+Hourglass Energy,4.4899700000000005,0.0
+Hourglass Energy,4.49997,0.0
+Hourglass Energy,4.50996,0.0
+Hourglass Energy,4.52,0.0
+Hourglass Energy,4.5299499999999995,0.0
+Hourglass Energy,4.54,0.0
+Hourglass Energy,4.54999,0.0
+Hourglass Energy,4.55996,0.0
+Hourglass Energy,4.56998,0.0
+Hourglass Energy,4.579940000000001,0.0
+Hourglass Energy,4.5899399999999995,0.0
+Hourglass Energy,4.59999,0.0
+Hourglass Energy,4.60997,0.0
+Hourglass Energy,4.62,0.0
+Hourglass Energy,4.62995,0.0
+Hourglass Energy,4.63994,0.0
+Hourglass Energy,4.64999,0.0
+Hourglass Energy,4.6599900000000005,0.0
+Hourglass Energy,4.66994,0.0
+Hourglass Energy,4.67999,0.0
+Hourglass Energy,4.68994,0.0
+Hourglass Energy,4.69998,0.0
+Hourglass Energy,4.70998,0.0
+Hourglass Energy,4.71997,0.0
+Hourglass Energy,4.7299500000000005,0.0
+Hourglass Energy,4.739949999999999,0.0
+Hourglass Energy,4.75,0.0
+Hourglass Energy,4.75997,0.0
+Hourglass Energy,4.76996,0.0
+Hourglass Energy,4.77997,0.0
+Hourglass Energy,4.789960000000001,0.0
+Hourglass Energy,4.79997,0.0
+Hourglass Energy,4.80994,0.0
+Hourglass Energy,4.8199499999999995,0.0
+Hourglass Energy,4.83,0.0
+Hourglass Energy,4.839989999999999,0.0
+Hourglass Energy,4.849939999999999,0.0
+Hourglass Energy,4.85997,0.0
+Hourglass Energy,4.8699900000000005,0.0
+Hourglass Energy,4.87992,0.0
+Hourglass Energy,4.88992,0.0
+Hourglass Energy,4.89997,0.0
+Hourglass Energy,4.909949999999999,0.0
+Hourglass Energy,4.91995,0.0
+Hourglass Energy,4.92998,0.0
+Hourglass Energy,4.93999,0.0
+Hourglass Energy,4.95,0.0
+Hourglass Energy,4.95997,0.0
+Hourglass Energy,4.96993,0.0
+Hourglass Energy,4.97997,0.0
+Hourglass Energy,4.98997,0.0
+Hourglass Energy,4.99999,0.0
+Hourglass Energy,5.00993,0.0
+Hourglass Energy,5.01995,0.0
+Hourglass Energy,5.02994,0.0
+Hourglass Energy,5.039949999999999,0.0
+Hourglass Energy,5.04995,0.0
+Hourglass Energy,5.05997,0.0
+Hourglass Energy,5.06999,0.0
+Hourglass Energy,5.079969999999999,0.0
+Hourglass Energy,5.08998,0.0
+Hourglass Energy,5.09992,0.0
+Hourglass Energy,5.109970000000001,0.0
+Hourglass Energy,5.1199699999999995,0.0
+Hourglass Energy,5.12997,0.0
+Hourglass Energy,5.13993,0.0
+Hourglass Energy,5.15,0.0
+Hourglass Energy,5.15993,0.0
+Hourglass Energy,5.16993,0.0
+Hourglass Energy,5.17995,0.0
+Hourglass Energy,5.18994,0.0
+Hourglass Energy,5.19994,0.0
+Hourglass Energy,5.20995,0.0
+Hourglass Energy,5.21998,0.0
+Hourglass Energy,5.229959999999999,0.0
+Hourglass Energy,5.2399700000000005,0.0
+Hourglass Energy,5.24992,0.0
+Hourglass Energy,5.25999,0.0
+Hourglass Energy,5.26994,0.0
+Hourglass Energy,5.27995,0.0
+Hourglass Energy,5.28996,0.0
+Hourglass Energy,5.29994,0.0
+Hourglass Energy,5.30996,0.0
+Hourglass Energy,5.3199700000000005,0.0
+Hourglass Energy,5.33,0.0
+Hourglass Energy,5.33993,0.0
+Hourglass Energy,5.34992,0.0
+Hourglass Energy,5.35994,0.0
+Hourglass Energy,5.36999,0.0
+Hourglass Energy,5.37996,0.0
+Hourglass Energy,5.38995,0.0
+Hourglass Energy,5.3999299999999995,0.0
+Hourglass Energy,5.40997,0.0
+Hourglass Energy,5.419969999999999,0.0
+Hourglass Energy,5.429930000000001,0.0
+Hourglass Energy,5.43996,0.0
+Hourglass Energy,5.44999,0.0
+Hourglass Energy,5.45994,0.0
+Hourglass Energy,5.46999,0.0
+Hourglass Energy,5.47992,0.0
+Hourglass Energy,5.489929999999999,0.0
+Hourglass Energy,5.5,0.0
+Hourglass Energy,5.50993,0.0
+Hourglass Energy,5.519979999999999,0.0
+Hourglass Energy,5.529929999999999,0.0
+Hourglass Energy,5.53998,0.0
+Hourglass Energy,5.54999,0.0
+Hourglass Energy,5.55999,0.0
+Hourglass Energy,5.56997,0.0
+Hourglass Energy,5.57996,0.0
+Hourglass Energy,5.58996,0.0
+Hourglass Energy,5.59998,0.0
+Hourglass Energy,5.60996,0.0
+Hourglass Energy,5.62,0.0
+Hourglass Energy,5.6299399999999995,0.0
+Hourglass Energy,5.63994,0.0
+Hourglass Energy,5.64995,0.0
+Hourglass Energy,5.65997,0.0
+Hourglass Energy,5.66998,0.0
+Hourglass Energy,5.67997,0.0
+Hourglass Energy,5.68998,0.0
+Hourglass Energy,5.699949999999999,0.0
+Hourglass Energy,5.70993,0.0
+Hourglass Energy,5.7199800000000005,0.0
+Hourglass Energy,5.72994,0.0
+Hourglass Energy,5.73997,0.0
+Hourglass Energy,5.74996,0.0
+Hourglass Energy,5.75998,0.0
+Hourglass Energy,5.76999,0.0
+Hourglass Energy,5.7799499999999995,0.0
+Hourglass Energy,5.789960000000001,0.0
+Hourglass Energy,5.79995,0.0
+Hourglass Energy,5.80993,0.0
+Hourglass Energy,5.81993,0.0
+Hourglass Energy,5.8299199999999995,0.0
+Hourglass Energy,5.839989999999999,0.0
+Hourglass Energy,5.849970000000001,0.0
+Hourglass Energy,5.85992,0.0
+Hourglass Energy,5.86997,0.0
+Hourglass Energy,5.87996,0.0
+Hourglass Energy,5.88993,0.0
+Hourglass Energy,5.89999,0.0
+Hourglass Energy,5.91,0.0
+Hourglass Energy,5.92,0.0
+Hourglass Energy,5.92993,0.0
+Hourglass Energy,5.9399500000000005,0.0
+Hourglass Energy,5.9499699999999995,0.0
+Hourglass Energy,5.9599400000000005,0.0
+Hourglass Energy,5.96997,0.0
+Hourglass Energy,5.9799500000000005,0.0
+Hourglass Energy,5.98997,0.0
+Hourglass Energy,5.99997,0.0
+Hourglass Energy,6.00998,0.0
+Hourglass Energy,6.01996,0.0
+Hourglass Energy,6.02996,0.0
+Hourglass Energy,6.03997,0.0
+Hourglass Energy,6.04993,0.0
+Hourglass Energy,6.05994,0.0
+Hourglass Energy,6.07,0.0
+Hourglass Energy,6.0799900000000004,0.0
+Hourglass Energy,6.08994,0.0
+Hourglass Energy,6.1000000000000005,0.0
+Hourglass Energy,6.10998,0.0
+Hourglass Energy,6.11998,0.0
+Hourglass Energy,6.1299600000000005,0.0
+Hourglass Energy,6.13999,0.0
+Hourglass Energy,6.1499299999999995,0.0
+Hourglass Energy,6.15996,0.0
+Hourglass Energy,6.16993,0.0
+Hourglass Energy,6.17997,0.0
+Hourglass Energy,6.18992,0.0
+Hourglass Energy,6.1999200000000005,0.0
+Hourglass Energy,6.20999,0.0
+Hourglass Energy,6.21994,0.0
+Hourglass Energy,6.22994,0.0
+Hourglass Energy,6.239920000000001,0.0
+Hourglass Energy,6.24999,0.0
+Hourglass Energy,6.25999,0.0
+Hourglass Energy,6.26992,0.0
+Hourglass Energy,6.279940000000001,0.0
+Hourglass Energy,6.28996,0.0
+Hourglass Energy,6.29993,0.0
+Hourglass Energy,6.30997,0.0
+Hourglass Energy,6.31996,0.0
+Hourglass Energy,6.33,0.0
+Hourglass Energy,6.339980000000001,0.0
+Hourglass Energy,6.3499300000000005,0.0
+Hourglass Energy,6.359959999999999,0.0
+Hourglass Energy,6.36998,0.0
+Hourglass Energy,6.37993,0.0
+Hourglass Energy,6.38994,0.0
+Hourglass Energy,6.3999299999999995,0.0
+Hourglass Energy,6.40993,0.0
+Hourglass Energy,6.41998,0.0
+Hourglass Energy,6.42999,0.0
+Hourglass Energy,6.43994,0.0
+Hourglass Energy,6.44992,0.0
+Hourglass Energy,6.4599899999999995,0.0
+Hourglass Energy,6.469950000000001,0.0
+Hourglass Energy,6.47996,0.0
+Hourglass Energy,6.48994,0.0
+Hourglass Energy,6.49993,0.0
+Hourglass Energy,6.50996,0.0
+Hourglass Energy,6.51997,0.0
+Hourglass Energy,6.52994,0.0
+Hourglass Energy,6.5399400000000005,0.0
+Hourglass Energy,6.550000000000001,0.0
+Hourglass Energy,6.55995,0.0
+Hourglass Energy,6.57,0.0
+Hourglass Energy,6.57997,0.0
+Hourglass Energy,6.58999,0.0
+Hourglass Energy,6.599950000000001,0.0
+Hourglass Energy,6.60994,0.0
+Hourglass Energy,6.61997,0.0
+Hourglass Energy,6.62995,0.0
+Hourglass Energy,6.63998,0.0
+Hourglass Energy,6.6499999999999995,0.0
+Hourglass Energy,6.65998,0.0
+Hourglass Energy,6.669989999999999,0.0
+Hourglass Energy,6.67993,0.0
+Hourglass Energy,6.68994,0.0
+Hourglass Energy,6.69996,0.0
+Hourglass Energy,6.70998,0.0
+Hourglass Energy,6.71993,0.0
+Hourglass Energy,6.72992,0.0
+Hourglass Energy,6.739979999999999,0.0
+Hourglass Energy,6.74997,0.0
+Hourglass Energy,6.75998,0.0
+Hourglass Energy,6.76998,0.0
+Hourglass Energy,6.77993,0.0
+Hourglass Energy,6.78997,0.0
+Hourglass Energy,6.79995,0.0
+Hourglass Energy,6.80998,0.0
+Hourglass Energy,6.81998,0.0
+Hourglass Energy,6.82995,0.0
+Hourglass Energy,6.83993,0.0
+Hourglass Energy,6.84992,0.0
+Hourglass Energy,6.859920000000001,0.0
+Hourglass Energy,6.869949999999999,0.0
+Hourglass Energy,6.87999,0.0
+Hourglass Energy,6.88995,0.0
+Hourglass Energy,6.89994,0.0
+Hourglass Energy,6.9099699999999995,0.0
+Hourglass Energy,6.91998,0.0
+Hourglass Energy,6.929989999999999,0.0
+Hourglass Energy,6.94,0.0
+Hourglass Energy,6.94993,0.0
+Hourglass Energy,6.95993,0.0
+Hourglass Energy,6.96997,0.0
+Hourglass Energy,6.979939999999999,0.0
+Hourglass Energy,6.98995,0.0
+Hourglass Energy,6.99997,0.0
+Hourglass Energy,7.00998,0.0
+Hourglass Energy,7.01995,0.0
+Hourglass Energy,7.02997,0.0
+Hourglass Energy,7.039980000000001,0.0
+Hourglass Energy,7.0499600000000004,0.0
+Hourglass Energy,7.05998,0.0
+Hourglass Energy,7.06993,0.0
+Hourglass Energy,7.07993,0.0
+Hourglass Energy,7.08998,0.0
+Hourglass Energy,7.09993,0.0
+Hourglass Energy,7.10993,0.0
+Hourglass Energy,7.11994,0.0
+Hourglass Energy,7.12995,0.0
+Hourglass Energy,7.13995,0.0
+Hourglass Energy,7.14994,0.0
+Hourglass Energy,7.15995,0.0
+Hourglass Energy,7.17,0.0
+Hourglass Energy,7.179930000000001,0.0
+Hourglass Energy,7.18999,0.0
+Hourglass Energy,7.19993,0.0
+Hourglass Energy,7.209919999999999,0.0
+Hourglass Energy,7.21997,0.0
+Hourglass Energy,7.229959999999999,0.0
+Hourglass Energy,7.239920000000001,0.0
+Hourglass Energy,7.249969999999999,0.0
+Hourglass Energy,7.25999,0.0
+Hourglass Energy,7.26999,0.0
+Hourglass Energy,7.2799700000000005,0.0
+Hourglass Energy,7.28994,0.0
+Hourglass Energy,7.299980000000001,0.0
+Hourglass Energy,7.3099300000000005,0.0
+Hourglass Energy,7.31996,0.0
+Hourglass Energy,7.32997,0.0
+Hourglass Energy,7.339980000000001,0.0
+Hourglass Energy,7.34995,0.0
+Hourglass Energy,7.35992,0.0
+Hourglass Energy,7.369940000000001,0.0
+Hourglass Energy,7.37999,0.0
+Hourglass Energy,7.38992,0.0
+Hourglass Energy,7.3999299999999995,0.0
+Hourglass Energy,7.409940000000001,0.0
+Hourglass Energy,7.419989999999999,0.0
+Hourglass Energy,7.4299800000000005,0.0
+Hourglass Energy,7.43993,0.0
+Hourglass Energy,7.44992,0.0
+Hourglass Energy,7.45992,0.0
+Hourglass Energy,7.47,0.0
+Hourglass Energy,7.47994,0.0
+Hourglass Energy,7.48994,0.0
+Hourglass Energy,7.4999400000000005,0.0
+Hourglass Energy,7.51,0.0
+Hourglass Energy,7.51998,0.0
+Hourglass Energy,7.52996,0.0
+Hourglass Energy,7.5399400000000005,0.0
+Hourglass Energy,7.54993,0.0
+Hourglass Energy,7.559950000000001,0.0
+Hourglass Energy,7.56994,0.0
+Hourglass Energy,7.57992,0.0
+Hourglass Energy,7.58997,0.0
+Hourglass Energy,7.59996,0.0
+Hourglass Energy,7.60996,0.0
+Hourglass Energy,7.61997,0.0
+Hourglass Energy,7.62996,0.0
+Hourglass Energy,7.639950000000001,0.0
+Hourglass Energy,7.64999,0.0
+Hourglass Energy,7.65994,0.0
+Hourglass Energy,7.66997,0.0
+Hourglass Energy,7.67997,0.0
+Hourglass Energy,7.68996,0.0
+Hourglass Energy,7.69997,0.0
+Hourglass Energy,7.70993,0.0
+Hourglass Energy,7.71995,0.0
+Hourglass Energy,7.7299500000000005,0.0
+Hourglass Energy,7.739949999999999,0.0
+Hourglass Energy,7.75,0.0
+Hourglass Energy,7.75995,0.0
+Hourglass Energy,7.76994,0.0
+Hourglass Energy,7.77994,0.0
+Hourglass Energy,7.7899400000000005,0.0
+Hourglass Energy,7.79995,0.0
+Hourglass Energy,7.80998,0.0
+Hourglass Energy,7.8199700000000005,0.0
+Hourglass Energy,7.82995,0.0
+Hourglass Energy,7.83999,0.0
+Hourglass Energy,7.849989999999999,0.0
+Hourglass Energy,7.859980000000001,0.0
+Hourglass Energy,7.86998,0.0
+Hourglass Energy,7.8799600000000005,0.0
+Hourglass Energy,7.8899799999999995,0.0
+Hourglass Energy,7.899979999999999,0.0
+Hourglass Energy,7.909930000000001,0.0
+Hourglass Energy,7.9199600000000006,0.0
+Hourglass Energy,7.92993,0.0
+Hourglass Energy,7.93997,0.0
+Hourglass Energy,7.949990000000001,0.0
+Hourglass Energy,7.959930000000001,0.0
+Hourglass Energy,7.96999,0.0
+Hourglass Energy,7.97995,0.0
+Hourglass Energy,7.989929999999999,0.0
+Hourglass Energy,7.99999,0.0
+Sliding Interface Energy,0.0,0.0
+Sliding Interface Energy,0.00998975,2.82798
+Sliding Interface Energy,0.0199783,3.96256
+Sliding Interface Energy,0.0299549,3.79765
+Sliding Interface Energy,0.0399339,4.5786
+Sliding Interface Energy,0.049965300000000004,6.33737
+Sliding Interface Energy,0.0599526,7.66425
+Sliding Interface Energy,0.0699938,8.15458
+Sliding Interface Energy,0.0799498,8.51843
+Sliding Interface Energy,0.0899149,8.92961
+Sliding Interface Energy,0.099977,9.47876
+Sliding Interface Energy,0.109961,10.4891
+Sliding Interface Energy,0.11997000000000001,10.5507
+Sliding Interface Energy,0.129933,10.8582
+Sliding Interface Energy,0.139976,11.2949
+Sliding Interface Energy,0.149958,11.4897
+Sliding Interface Energy,0.15999,11.6234
+Sliding Interface Energy,0.169965,11.4222
+Sliding Interface Energy,0.179966,11.4766
+Sliding Interface Energy,0.18995,11.4142
+Sliding Interface Energy,0.199969,11.3447
+Sliding Interface Energy,0.20996599999999999,11.2348
+Sliding Interface Energy,0.219996,11.0898
+Sliding Interface Energy,0.229962,11.1171
+Sliding Interface Energy,0.239966,11.1309
+Sliding Interface Energy,0.24996699999999997,11.1945
+Sliding Interface Energy,0.259976,11.3317
+Sliding Interface Energy,0.269993,11.3904
+Sliding Interface Energy,0.27996899999999997,11.4606
+Sliding Interface Energy,0.289958,11.5261
+Sliding Interface Energy,0.29998600000000003,11.6055
+Sliding Interface Energy,0.30995300000000003,11.6684
+Sliding Interface Energy,0.319967,11.7256
+Sliding Interface Energy,0.329982,11.7646
+Sliding Interface Energy,0.339939,11.8562
+Sliding Interface Energy,0.349996,11.9368
+Sliding Interface Energy,0.359942,11.9629
+Sliding Interface Energy,0.369951,11.9524
+Sliding Interface Energy,0.379951,11.9754
+Sliding Interface Energy,0.389946,11.9997
+Sliding Interface Energy,0.399944,12.0313
+Sliding Interface Energy,0.409932,12.0499
+Sliding Interface Energy,0.419992,12.0499
+Sliding Interface Energy,0.429991,12.0499
+Sliding Interface Energy,0.439974,12.0673
+Sliding Interface Energy,0.44996400000000003,12.1163
+Sliding Interface Energy,0.459986,12.1311
+Sliding Interface Energy,0.469932,12.135
+Sliding Interface Energy,0.479955,12.1301
+Sliding Interface Energy,0.489979,12.1625
+Sliding Interface Energy,0.49992899999999996,12.2151
+Sliding Interface Energy,0.509977,12.2781
+Sliding Interface Energy,0.519958,12.2639
+Sliding Interface Energy,0.529996,12.2566
+Sliding Interface Energy,0.54,12.2594
+Sliding Interface Energy,0.549933,12.2575
+Sliding Interface Energy,0.559952,12.2891
+Sliding Interface Energy,0.569924,12.3102
+Sliding Interface Energy,0.579999,12.3256
+Sliding Interface Energy,0.589974,12.3322
+Sliding Interface Energy,0.6,12.3418
+Sliding Interface Energy,0.60996,12.3546
+Sliding Interface Energy,0.619922,12.3727
+Sliding Interface Energy,0.629991,12.4022
+Sliding Interface Energy,0.639962,12.4217
+Sliding Interface Energy,0.649969,12.45
+Sliding Interface Energy,0.659943,12.4772
+Sliding Interface Energy,0.6699689999999999,12.5057
+Sliding Interface Energy,0.679992,12.553
+Sliding Interface Energy,0.689979,12.6246
+Sliding Interface Energy,0.6999989999999999,12.6833
+Sliding Interface Energy,0.709956,12.7193
+Sliding Interface Energy,0.7199939999999999,12.7687
+Sliding Interface Energy,0.729929,12.8052
+Sliding Interface Energy,0.739937,12.8379
+Sliding Interface Energy,0.749985,12.8863
+Sliding Interface Energy,0.759995,12.9251
+Sliding Interface Energy,0.7699630000000001,12.992
+Sliding Interface Energy,0.7799769999999999,13.0444
+Sliding Interface Energy,0.789986,13.1009
+Sliding Interface Energy,0.799948,13.2124
+Sliding Interface Energy,0.8099430000000001,13.3184
+Sliding Interface Energy,0.819947,13.4321
+Sliding Interface Energy,0.82995,13.5518
+Sliding Interface Energy,0.8400000000000001,13.6295
+Sliding Interface Energy,0.8499570000000001,13.6906
+Sliding Interface Energy,0.859965,13.7564
+Sliding Interface Energy,0.8699619999999999,13.8259
+Sliding Interface Energy,0.879964,13.9158
+Sliding Interface Energy,0.889949,13.9997
+Sliding Interface Energy,0.899944,14.0311
+Sliding Interface Energy,0.90999,14.0772
+Sliding Interface Energy,0.919957,14.099
+Sliding Interface Energy,0.929974,14.1538
+Sliding Interface Energy,0.939959,14.2368
+Sliding Interface Energy,0.949939,14.309
+Sliding Interface Energy,0.959963,14.3545
+Sliding Interface Energy,0.969981,14.4025
+Sliding Interface Energy,0.9799419999999999,14.4119
+Sliding Interface Energy,0.989937,14.4158
+Sliding Interface Energy,0.999967,14.4147
+Sliding Interface Energy,1.00996,14.4091
+Sliding Interface Energy,1.01993,14.414
+Sliding Interface Energy,1.02999,14.4302
+Sliding Interface Energy,1.03997,14.5519
+Sliding Interface Energy,1.05,14.6629
+Sliding Interface Energy,1.0599800000000001,14.7089
+Sliding Interface Energy,1.06994,14.6822
+Sliding Interface Energy,1.07992,14.6644
+Sliding Interface Energy,1.08992,14.6697
+Sliding Interface Energy,1.09998,14.6773
+Sliding Interface Energy,1.10999,14.7082
+Sliding Interface Energy,1.1199700000000001,14.7529
+Sliding Interface Energy,1.12995,14.8067
+Sliding Interface Energy,1.1399299999999999,14.8612
+Sliding Interface Energy,1.14993,14.9057
+Sliding Interface Energy,1.15998,14.9879
+Sliding Interface Energy,1.1699499999999998,15.0591
+Sliding Interface Energy,1.1799899999999999,15.1203
+Sliding Interface Energy,1.1899600000000001,15.1767
+Sliding Interface Energy,1.19994,15.2144
+Sliding Interface Energy,1.20996,15.2225
+Sliding Interface Energy,1.21996,15.2319
+Sliding Interface Energy,1.22993,15.2485
+Sliding Interface Energy,1.24,15.2792
+Sliding Interface Energy,1.24994,15.3195
+Sliding Interface Energy,1.25999,15.3607
+Sliding Interface Energy,1.2699600000000002,15.4299
+Sliding Interface Energy,1.27994,15.4763
+Sliding Interface Energy,1.28995,15.5271
+Sliding Interface Energy,1.29999,15.5591
+Sliding Interface Energy,1.30994,15.5971
+Sliding Interface Energy,1.31994,15.6436
+Sliding Interface Energy,1.33,15.6659
+Sliding Interface Energy,1.33999,15.6962
+Sliding Interface Energy,1.3499700000000001,15.72
+Sliding Interface Energy,1.35995,15.7663
+Sliding Interface Energy,1.36998,15.8154
+Sliding Interface Energy,1.37999,15.8944
+Sliding Interface Energy,1.38995,16.0098
+Sliding Interface Energy,1.39997,16.1732
+Sliding Interface Energy,1.40998,16.382
+Sliding Interface Energy,1.41994,16.4611
+Sliding Interface Energy,1.4299899999999999,16.5006
+Sliding Interface Energy,1.4400000000000002,16.6062
+Sliding Interface Energy,1.44994,16.7234
+Sliding Interface Energy,1.45999,16.8412
+Sliding Interface Energy,1.46997,16.9266
+Sliding Interface Energy,1.47995,16.9834
+Sliding Interface Energy,1.49,16.989
+Sliding Interface Energy,1.49996,17.0134
+Sliding Interface Energy,1.50997,17.0385
+Sliding Interface Energy,1.5199799999999999,17.0566
+Sliding Interface Energy,1.52994,17.1007
+Sliding Interface Energy,1.5399800000000001,17.1524
+Sliding Interface Energy,1.5499699999999998,17.1981
+Sliding Interface Energy,1.55996,17.2658
+Sliding Interface Energy,1.5699500000000002,17.3172
+Sliding Interface Energy,1.57999,17.3915
+Sliding Interface Energy,1.58993,17.5043
+Sliding Interface Energy,1.59993,17.5904
+Sliding Interface Energy,1.60992,17.6253
+Sliding Interface Energy,1.61995,17.6421
+Sliding Interface Energy,1.62999,17.6792
+Sliding Interface Energy,1.64,17.7068
+Sliding Interface Energy,1.64993,17.7501
+Sliding Interface Energy,1.65993,17.7967
+Sliding Interface Energy,1.66993,17.8314
+Sliding Interface Energy,1.67994,17.8458
+Sliding Interface Energy,1.68998,17.8608
+Sliding Interface Energy,1.69994,17.8743
+Sliding Interface Energy,1.70997,17.8857
+Sliding Interface Energy,1.71997,17.8984
+Sliding Interface Energy,1.7299900000000001,17.9092
+Sliding Interface Energy,1.7399799999999999,17.9279
+Sliding Interface Energy,1.7499799999999999,17.9483
+Sliding Interface Energy,1.75995,17.982
+Sliding Interface Energy,1.7699799999999999,18.0131
+Sliding Interface Energy,1.77997,18.0507
+Sliding Interface Energy,1.78999,18.0958
+Sliding Interface Energy,1.79999,18.1489
+Sliding Interface Energy,1.8099699999999999,18.185
+Sliding Interface Energy,1.81999,18.2444
+Sliding Interface Energy,1.82994,18.3293
+Sliding Interface Energy,1.83994,18.3619
+Sliding Interface Energy,1.8499700000000001,18.4029
+Sliding Interface Energy,1.85998,18.4685
+Sliding Interface Energy,1.8699700000000001,18.5347
+Sliding Interface Energy,1.87996,18.5565
+Sliding Interface Energy,1.88997,18.5807
+Sliding Interface Energy,1.89999,18.5927
+Sliding Interface Energy,1.90997,18.6408
+Sliding Interface Energy,1.9199499999999998,18.7108
+Sliding Interface Energy,1.9299600000000001,18.8302
+Sliding Interface Energy,1.93997,18.8948
+Sliding Interface Energy,1.94993,18.9753
+Sliding Interface Energy,1.9599700000000002,19.048
+Sliding Interface Energy,1.96998,19.1055
+Sliding Interface Energy,1.9799700000000002,19.1202
+Sliding Interface Energy,1.9899700000000002,19.1464
+Sliding Interface Energy,1.99995,19.1721
+Sliding Interface Energy,2.00999,19.1832
+Sliding Interface Energy,2.0199599999999998,19.2406
+Sliding Interface Energy,2.02994,19.2628
+Sliding Interface Energy,2.0399900000000004,19.2616
+Sliding Interface Energy,2.04997,19.2733
+Sliding Interface Energy,2.05993,19.3261
+Sliding Interface Energy,2.06997,19.4721
+Sliding Interface Energy,2.0799999999999996,19.5447
+Sliding Interface Energy,2.09,19.579
+Sliding Interface Energy,2.0999399999999997,19.6986
+Sliding Interface Energy,2.10993,19.8383
+Sliding Interface Energy,2.11992,19.9038
+Sliding Interface Energy,2.12994,19.9241
+Sliding Interface Energy,2.14,19.9555
+Sliding Interface Energy,2.14992,19.9668
+Sliding Interface Energy,2.1599399999999997,19.9793
+Sliding Interface Energy,2.17,19.9873
+Sliding Interface Energy,2.17994,20.0076
+Sliding Interface Energy,2.18995,20.0416
+Sliding Interface Energy,2.19995,20.0933
+Sliding Interface Energy,2.20998,20.157
+Sliding Interface Energy,2.21997,20.2347
+Sliding Interface Energy,2.22999,20.297
+Sliding Interface Energy,2.23996,20.3684
+Sliding Interface Energy,2.24995,20.4105
+Sliding Interface Energy,2.25997,20.4542
+Sliding Interface Energy,2.26995,20.5034
+Sliding Interface Energy,2.27997,20.5615
+Sliding Interface Energy,2.28998,20.596
+Sliding Interface Energy,2.3,20.6175
+Sliding Interface Energy,2.31,20.6216
+Sliding Interface Energy,2.31998,20.6203
+Sliding Interface Energy,2.3299499999999997,20.6193
+Sliding Interface Energy,2.33993,20.6527
+Sliding Interface Energy,2.3499499999999998,20.6983
+Sliding Interface Energy,2.35996,20.7599
+Sliding Interface Energy,2.3699500000000002,20.8535
+Sliding Interface Energy,2.3799699999999997,20.9512
+Sliding Interface Energy,2.38993,21.0146
+Sliding Interface Energy,2.39996,21.0449
+Sliding Interface Energy,2.4099500000000003,21.0536
+Sliding Interface Energy,2.41993,21.0743
+Sliding Interface Energy,2.42996,21.0937
+Sliding Interface Energy,2.43996,21.1072
+Sliding Interface Energy,2.44995,21.1416
+Sliding Interface Energy,2.45993,21.1653
+Sliding Interface Energy,2.4699600000000004,21.205
+Sliding Interface Energy,2.4799499999999997,21.2283
+Sliding Interface Energy,2.48995,21.2245
+Sliding Interface Energy,2.49994,21.2287
+Sliding Interface Energy,2.50999,21.2719
+Sliding Interface Energy,2.51997,21.6615
+Sliding Interface Energy,2.5299799999999997,22.8054
+Sliding Interface Energy,2.53997,23.4711
+Sliding Interface Energy,2.54995,23.6628
+Sliding Interface Energy,2.5599600000000002,23.8884
+Sliding Interface Energy,2.56993,24.294
+Sliding Interface Energy,2.57999,24.6943
+Sliding Interface Energy,2.58996,24.9835
+Sliding Interface Energy,2.5999399999999997,25.1188
+Sliding Interface Energy,2.60999,25.0653
+Sliding Interface Energy,2.6199399999999997,25.3997
+Sliding Interface Energy,2.62998,25.8536
+Sliding Interface Energy,2.63996,26.1893
+Sliding Interface Energy,2.64997,26.2965
+Sliding Interface Energy,2.65996,26.448
+Sliding Interface Energy,2.66993,26.8098
+Sliding Interface Energy,2.67992,27.348
+Sliding Interface Energy,2.6899200000000003,27.9599
+Sliding Interface Energy,2.69998,28.2644
+Sliding Interface Energy,2.70995,28.5965
+Sliding Interface Energy,2.7199899999999997,28.7662
+Sliding Interface Energy,2.72998,28.8446
+Sliding Interface Energy,2.73998,29.0348
+Sliding Interface Energy,2.74993,29.1429
+Sliding Interface Energy,2.75996,29.2039
+Sliding Interface Energy,2.7699700000000003,29.1908
+Sliding Interface Energy,2.77998,29.1937
+Sliding Interface Energy,2.7899499999999997,29.2031
+Sliding Interface Energy,2.79997,29.1982
+Sliding Interface Energy,2.81,29.2223
+Sliding Interface Energy,2.81999,29.2526
+Sliding Interface Energy,2.83,29.2874
+Sliding Interface Energy,2.8399699999999997,29.3156
+Sliding Interface Energy,2.84999,29.3565
+Sliding Interface Energy,2.8599300000000003,29.3797
+Sliding Interface Energy,2.86999,29.4076
+Sliding Interface Energy,2.8799300000000003,29.4434
+Sliding Interface Energy,2.8899899999999996,29.4878
+Sliding Interface Energy,2.8999300000000003,29.5126
+Sliding Interface Energy,2.90996,29.552
+Sliding Interface Energy,2.91998,29.5886
+Sliding Interface Energy,2.9299999999999997,29.6197
+Sliding Interface Energy,2.93994,29.6503
+Sliding Interface Energy,2.94994,29.6829
+Sliding Interface Energy,2.9599499999999996,29.6987
+Sliding Interface Energy,2.96998,29.7123
+Sliding Interface Energy,2.97994,29.7226
+Sliding Interface Energy,2.98994,29.7335
+Sliding Interface Energy,2.99992,29.7474
+Sliding Interface Energy,3.00992,29.762
+Sliding Interface Energy,3.01994,29.7772
+Sliding Interface Energy,3.02992,29.7918
+Sliding Interface Energy,3.03993,29.807
+Sliding Interface Energy,3.04997,29.8236
+Sliding Interface Energy,3.05999,29.8414
+Sliding Interface Energy,3.06998,29.8577
+Sliding Interface Energy,3.07997,29.8689
+Sliding Interface Energy,3.08995,29.903
+Sliding Interface Energy,3.0999600000000003,29.9675
+Sliding Interface Energy,3.10998,30.1781
+Sliding Interface Energy,3.11992,30.3696
+Sliding Interface Energy,3.12999,30.5283
+Sliding Interface Energy,3.13999,30.6802
+Sliding Interface Energy,3.1499800000000002,30.7858
+Sliding Interface Energy,3.15998,30.9187
+Sliding Interface Energy,3.1699900000000003,31.0478
+Sliding Interface Energy,3.17992,31.1317
+Sliding Interface Energy,3.1899900000000003,31.214
+Sliding Interface Energy,3.19998,31.3456
+Sliding Interface Energy,3.20998,31.4496
+Sliding Interface Energy,3.21996,31.5025
+Sliding Interface Energy,3.22995,31.5176
+Sliding Interface Energy,3.2399199999999997,31.5722
+Sliding Interface Energy,3.24995,31.6207
+Sliding Interface Energy,3.2599299999999998,31.6368
+Sliding Interface Energy,3.2699700000000003,31.6412
+Sliding Interface Energy,3.27994,31.6423
+Sliding Interface Energy,3.28994,31.6565
+Sliding Interface Energy,3.29993,31.6762
+Sliding Interface Energy,3.3099499999999997,31.6909
+Sliding Interface Energy,3.31998,31.7154
+Sliding Interface Energy,3.3299499999999997,31.75
+Sliding Interface Energy,3.33992,31.7964
+Sliding Interface Energy,3.34994,31.8608
+Sliding Interface Energy,3.3599900000000003,31.9315
+Sliding Interface Energy,3.3699899999999996,31.9744
+Sliding Interface Energy,3.3799799999999998,31.9973
+Sliding Interface Energy,3.3899500000000002,32.0254
+Sliding Interface Energy,3.39993,32.0852
+Sliding Interface Energy,3.40994,32.1772
+Sliding Interface Energy,3.41993,32.1933
+Sliding Interface Energy,3.4299299999999997,32.2105
+Sliding Interface Energy,3.43996,32.2288
+Sliding Interface Energy,3.44997,32.2689
+Sliding Interface Energy,3.45997,32.3143
+Sliding Interface Energy,3.46997,32.3797
+Sliding Interface Energy,3.47993,32.4088
+Sliding Interface Energy,3.48995,32.4404
+Sliding Interface Energy,3.49994,32.5001
+Sliding Interface Energy,3.50994,32.5361
+Sliding Interface Energy,3.5199900000000004,32.5911
+Sliding Interface Energy,3.52992,32.6511
+Sliding Interface Energy,3.53997,32.7513
+Sliding Interface Energy,3.5499199999999997,32.7865
+Sliding Interface Energy,3.5599999999999996,32.793
+Sliding Interface Energy,3.5699199999999998,32.7848
+Sliding Interface Energy,3.57994,32.8033
+Sliding Interface Energy,3.58993,32.8447
+Sliding Interface Energy,3.59995,32.8663
+Sliding Interface Energy,3.60999,32.8816
+Sliding Interface Energy,3.61998,32.8869
+Sliding Interface Energy,3.6299599999999996,32.8989
+Sliding Interface Energy,3.63996,32.9029
+Sliding Interface Energy,3.64995,32.9171
+Sliding Interface Energy,3.66,32.9248
+Sliding Interface Energy,3.66993,32.931
+Sliding Interface Energy,3.67993,32.944
+Sliding Interface Energy,3.6899900000000003,32.9599
+Sliding Interface Energy,3.69998,32.9749
+Sliding Interface Energy,3.70994,32.9996
+Sliding Interface Energy,3.7199899999999997,33.0439
+Sliding Interface Energy,3.72994,33.0885
+Sliding Interface Energy,3.7399199999999997,33.1326
+Sliding Interface Energy,3.74995,33.1708
+Sliding Interface Energy,3.75992,33.2338
+Sliding Interface Energy,3.76995,33.2882
+Sliding Interface Energy,3.77998,33.3248
+Sliding Interface Energy,3.78994,33.363
+Sliding Interface Energy,3.79996,33.4008
+Sliding Interface Energy,3.80999,33.4125
+Sliding Interface Energy,3.81995,33.4173
+Sliding Interface Energy,3.82993,33.4224
+Sliding Interface Energy,3.8399900000000002,33.4346
+Sliding Interface Energy,3.84993,33.4425
+Sliding Interface Energy,3.85995,33.4494
+Sliding Interface Energy,3.86997,33.4589
+Sliding Interface Energy,3.87996,33.4673
+Sliding Interface Energy,3.88997,33.4867
+Sliding Interface Energy,3.89994,33.5194
+Sliding Interface Energy,3.90995,33.5722
+Sliding Interface Energy,3.9199400000000004,33.5921
+Sliding Interface Energy,3.92995,33.6149
+Sliding Interface Energy,3.93999,33.645
+Sliding Interface Energy,3.94996,33.6973
+Sliding Interface Energy,3.95997,33.7631
+Sliding Interface Energy,3.96994,33.8224
+Sliding Interface Energy,3.9799800000000003,33.8839
+Sliding Interface Energy,3.98996,33.9142
+Sliding Interface Energy,3.9999800000000003,33.9522
+Sliding Interface Energy,4.00999,33.9763
+Sliding Interface Energy,4.01999,33.9972
+Sliding Interface Energy,4.02994,34.0185
+Sliding Interface Energy,4.03999,34.0245
+Sliding Interface Energy,4.04995,34.0382
+Sliding Interface Energy,4.059959999999999,34.062
+Sliding Interface Energy,4.06998,34.0971
+Sliding Interface Energy,4.079969999999999,34.1329
+Sliding Interface Energy,4.08994,34.1948
+Sliding Interface Energy,4.09995,34.2854
+Sliding Interface Energy,4.10996,34.3784
+Sliding Interface Energy,4.11993,34.469
+Sliding Interface Energy,4.129930000000001,34.5451
+Sliding Interface Energy,4.13994,34.6769
+Sliding Interface Energy,4.1499299999999995,34.8362
+Sliding Interface Energy,4.1599699999999995,34.9333
+Sliding Interface Energy,4.16995,35.0508
+Sliding Interface Energy,4.17995,35.1571
+Sliding Interface Energy,4.1899299999999995,35.2442
+Sliding Interface Energy,4.1999699999999995,35.3354
+Sliding Interface Energy,4.209980000000001,35.4228
+Sliding Interface Energy,4.21996,35.5146
+Sliding Interface Energy,4.229970000000001,35.5619
+Sliding Interface Energy,4.23999,35.6037
+Sliding Interface Energy,4.24993,35.6387
+Sliding Interface Energy,4.25999,35.6697
+Sliding Interface Energy,4.269959999999999,35.6985
+Sliding Interface Energy,4.27995,35.7422
+Sliding Interface Energy,4.289969999999999,35.7849
+Sliding Interface Energy,4.2999600000000004,35.8273
+Sliding Interface Energy,4.30996,35.8825
+Sliding Interface Energy,4.31995,35.9233
+Sliding Interface Energy,4.33,36.0027
+Sliding Interface Energy,4.3399399999999995,36.0936
+Sliding Interface Energy,4.3499799999999995,36.3038
+Sliding Interface Energy,4.35996,36.6073
+Sliding Interface Energy,4.36994,37.0279
+Sliding Interface Energy,4.38,37.473
+Sliding Interface Energy,4.38994,37.9903
+Sliding Interface Energy,4.39998,38.4675
+Sliding Interface Energy,4.40995,39.0246
+Sliding Interface Energy,4.41998,39.4111
+Sliding Interface Energy,4.42999,39.7479
+Sliding Interface Energy,4.43994,40.3229
+Sliding Interface Energy,4.44997,40.8077
+Sliding Interface Energy,4.45995,41.3962
+Sliding Interface Energy,4.47,41.7222
+Sliding Interface Energy,4.47993,42.1411
+Sliding Interface Energy,4.4899700000000005,42.554
+Sliding Interface Energy,4.49997,42.9596
+Sliding Interface Energy,4.50996,43.4766
+Sliding Interface Energy,4.52,43.9845
+Sliding Interface Energy,4.5299499999999995,44.5214
+Sliding Interface Energy,4.54,45.0933
+Sliding Interface Energy,4.54999,45.6102
+Sliding Interface Energy,4.55996,45.9519
+Sliding Interface Energy,4.56998,46.2707
+Sliding Interface Energy,4.579940000000001,46.4931
+Sliding Interface Energy,4.5899399999999995,46.7147
+Sliding Interface Energy,4.59999,46.8147
+Sliding Interface Energy,4.60997,46.8345
+Sliding Interface Energy,4.62,46.795
+Sliding Interface Energy,4.62995,46.83
+Sliding Interface Energy,4.63994,46.9046
+Sliding Interface Energy,4.64999,46.9221
+Sliding Interface Energy,4.6599900000000005,46.8837
+Sliding Interface Energy,4.66994,46.8853
+Sliding Interface Energy,4.67999,46.9265
+Sliding Interface Energy,4.68994,46.9686
+Sliding Interface Energy,4.69998,47.0242
+Sliding Interface Energy,4.70998,47.0867
+Sliding Interface Energy,4.71997,47.118
+Sliding Interface Energy,4.7299500000000005,47.1579
+Sliding Interface Energy,4.739949999999999,47.199
+Sliding Interface Energy,4.75,47.2357
+Sliding Interface Energy,4.75997,47.2705
+Sliding Interface Energy,4.76996,47.3162
+Sliding Interface Energy,4.77997,47.435
+Sliding Interface Energy,4.789960000000001,48.1474
+Sliding Interface Energy,4.79997,48.5738
+Sliding Interface Energy,4.80994,48.6309
+Sliding Interface Energy,4.8199499999999995,48.5229
+Sliding Interface Energy,4.83,48.5993
+Sliding Interface Energy,4.839989999999999,48.7851
+Sliding Interface Energy,4.849939999999999,49.0981
+Sliding Interface Energy,4.85997,49.4753
+Sliding Interface Energy,4.8699900000000005,49.7196
+Sliding Interface Energy,4.87992,50.095
+Sliding Interface Energy,4.88992,50.2991
+Sliding Interface Energy,4.89997,50.4689
+Sliding Interface Energy,4.909949999999999,50.5953
+Sliding Interface Energy,4.91995,50.6814
+Sliding Interface Energy,4.92998,50.7832
+Sliding Interface Energy,4.93999,50.8217
+Sliding Interface Energy,4.95,50.8975
+Sliding Interface Energy,4.95997,50.9344
+Sliding Interface Energy,4.96993,51.0985
+Sliding Interface Energy,4.97997,51.2755
+Sliding Interface Energy,4.98997,51.3359
+Sliding Interface Energy,4.99999,51.3891
+Sliding Interface Energy,5.00993,51.457
+Sliding Interface Energy,5.01995,51.5282
+Sliding Interface Energy,5.02994,51.6492
+Sliding Interface Energy,5.039949999999999,51.7654
+Sliding Interface Energy,5.04995,51.8201
+Sliding Interface Energy,5.05997,51.8685
+Sliding Interface Energy,5.06999,51.9336
+Sliding Interface Energy,5.079969999999999,51.9848
+Sliding Interface Energy,5.08998,52.0036
+Sliding Interface Energy,5.09992,52.0225
+Sliding Interface Energy,5.109970000000001,52.0598
+Sliding Interface Energy,5.1199699999999995,52.0884
+Sliding Interface Energy,5.12997,52.1095
+Sliding Interface Energy,5.13993,52.1528
+Sliding Interface Energy,5.15,52.2048
+Sliding Interface Energy,5.15993,52.2317
+Sliding Interface Energy,5.16993,52.2543
+Sliding Interface Energy,5.17995,52.2752
+Sliding Interface Energy,5.18994,52.2947
+Sliding Interface Energy,5.19994,52.3169
+Sliding Interface Energy,5.20995,52.351
+Sliding Interface Energy,5.21998,52.5207
+Sliding Interface Energy,5.229959999999999,52.6191
+Sliding Interface Energy,5.2399700000000005,52.6655
+Sliding Interface Energy,5.24992,52.71
+Sliding Interface Energy,5.25999,52.7993
+Sliding Interface Energy,5.26994,52.9464
+Sliding Interface Energy,5.27995,53.0305
+Sliding Interface Energy,5.28996,53.0867
+Sliding Interface Energy,5.29994,53.1439
+Sliding Interface Energy,5.30996,53.2088
+Sliding Interface Energy,5.3199700000000005,53.2703
+Sliding Interface Energy,5.33,53.335
+Sliding Interface Energy,5.33993,53.3736
+Sliding Interface Energy,5.34992,53.4356
+Sliding Interface Energy,5.35994,53.4829
+Sliding Interface Energy,5.36999,53.5058
+Sliding Interface Energy,5.37996,53.5071
+Sliding Interface Energy,5.38995,53.5164
+Sliding Interface Energy,5.3999299999999995,53.5245
+Sliding Interface Energy,5.40997,53.5509
+Sliding Interface Energy,5.419969999999999,53.58
+Sliding Interface Energy,5.429930000000001,53.6238
+Sliding Interface Energy,5.43996,53.673
+Sliding Interface Energy,5.44999,53.7191
+Sliding Interface Energy,5.45994,53.7986
+Sliding Interface Energy,5.46999,53.8585
+Sliding Interface Energy,5.47992,53.9668
+Sliding Interface Energy,5.489929999999999,54.0558
+Sliding Interface Energy,5.5,54.1088
+Sliding Interface Energy,5.50993,54.2029
+Sliding Interface Energy,5.519979999999999,54.319
+Sliding Interface Energy,5.529929999999999,54.4686
+Sliding Interface Energy,5.53998,54.6093
+Sliding Interface Energy,5.54999,54.7812
+Sliding Interface Energy,5.55999,54.9313
+Sliding Interface Energy,5.56997,55.0514
+Sliding Interface Energy,5.57996,55.1028
+Sliding Interface Energy,5.58996,55.1441
+Sliding Interface Energy,5.59998,55.1983
+Sliding Interface Energy,5.60996,55.2676
+Sliding Interface Energy,5.62,55.3563
+Sliding Interface Energy,5.6299399999999995,55.4582
+Sliding Interface Energy,5.63994,55.5172
+Sliding Interface Energy,5.64995,55.5624
+Sliding Interface Energy,5.65997,55.607
+Sliding Interface Energy,5.66998,55.6415
+Sliding Interface Energy,5.67997,55.6523
+Sliding Interface Energy,5.68998,55.6559
+Sliding Interface Energy,5.699949999999999,55.6841
+Sliding Interface Energy,5.70993,55.9749
+Sliding Interface Energy,5.7199800000000005,56.6379
+Sliding Interface Energy,5.72994,57.8701
+Sliding Interface Energy,5.73997,58.2964
+Sliding Interface Energy,5.74996,58.2952
+Sliding Interface Energy,5.75998,58.4219
+Sliding Interface Energy,5.76999,59.0588
+Sliding Interface Energy,5.7799499999999995,59.6512
+Sliding Interface Energy,5.789960000000001,59.8785
+Sliding Interface Energy,5.79995,59.9504
+Sliding Interface Energy,5.80993,60.1192
+Sliding Interface Energy,5.81993,60.6985
+Sliding Interface Energy,5.8299199999999995,61.148
+Sliding Interface Energy,5.839989999999999,61.5071
+Sliding Interface Energy,5.849970000000001,61.8874
+Sliding Interface Energy,5.85992,62.3864
+Sliding Interface Energy,5.86997,62.9105
+Sliding Interface Energy,5.87996,63.3447
+Sliding Interface Energy,5.88993,63.3591
+Sliding Interface Energy,5.89999,63.3181
+Sliding Interface Energy,5.91,63.3361
+Sliding Interface Energy,5.92,63.3097
+Sliding Interface Energy,5.92993,63.339
+Sliding Interface Energy,5.9399500000000005,63.397
+Sliding Interface Energy,5.9499699999999995,63.5487
+Sliding Interface Energy,5.9599400000000005,63.7455
+Sliding Interface Energy,5.96997,63.8985
+Sliding Interface Energy,5.9799500000000005,64.0407
+Sliding Interface Energy,5.98997,64.0894
+Sliding Interface Energy,5.99997,64.0729
+Sliding Interface Energy,6.00998,64.1111
+Sliding Interface Energy,6.01996,64.2123
+Sliding Interface Energy,6.02996,64.2813
+Sliding Interface Energy,6.03997,64.3569
+Sliding Interface Energy,6.04993,64.4208
+Sliding Interface Energy,6.05994,64.4807
+Sliding Interface Energy,6.07,64.5701
+Sliding Interface Energy,6.0799900000000004,64.6648
+Sliding Interface Energy,6.08994,64.7052
+Sliding Interface Energy,6.1000000000000005,64.7571
+Sliding Interface Energy,6.10998,64.8227
+Sliding Interface Energy,6.11998,64.885
+Sliding Interface Energy,6.1299600000000005,64.8987
+Sliding Interface Energy,6.13999,64.9229
+Sliding Interface Energy,6.1499299999999995,64.935
+Sliding Interface Energy,6.15996,64.9487
+Sliding Interface Energy,6.16993,64.9639
+Sliding Interface Energy,6.17997,64.9727
+Sliding Interface Energy,6.18992,65.0868
+Sliding Interface Energy,6.1999200000000005,65.4654
+Sliding Interface Energy,6.20999,65.6287
+Sliding Interface Energy,6.21994,65.6493
+Sliding Interface Energy,6.22994,65.7434
+Sliding Interface Energy,6.239920000000001,65.9112
+Sliding Interface Energy,6.24999,66.1611
+Sliding Interface Energy,6.25999,66.1349
+Sliding Interface Energy,6.26992,66.141
+Sliding Interface Energy,6.279940000000001,66.139
+Sliding Interface Energy,6.28996,66.1613
+Sliding Interface Energy,6.29993,66.1842
+Sliding Interface Energy,6.30997,66.2447
+Sliding Interface Energy,6.31996,66.3035
+Sliding Interface Energy,6.33,66.3945
+Sliding Interface Energy,6.339980000000001,66.4617
+Sliding Interface Energy,6.3499300000000005,66.5372
+Sliding Interface Energy,6.359959999999999,66.6289
+Sliding Interface Energy,6.36998,66.6974
+Sliding Interface Energy,6.37993,66.7566
+Sliding Interface Energy,6.38994,66.8018
+Sliding Interface Energy,6.3999299999999995,66.83
+Sliding Interface Energy,6.40993,66.8321
+Sliding Interface Energy,6.41998,66.8677
+Sliding Interface Energy,6.42999,66.8947
+Sliding Interface Energy,6.43994,66.9173
+Sliding Interface Energy,6.44992,66.9242
+Sliding Interface Energy,6.4599899999999995,66.9246
+Sliding Interface Energy,6.469950000000001,66.9445
+Sliding Interface Energy,6.47996,66.9635
+Sliding Interface Energy,6.48994,66.9966
+Sliding Interface Energy,6.49993,67.1016
+Sliding Interface Energy,6.50996,67.162
+Sliding Interface Energy,6.51997,67.209
+Sliding Interface Energy,6.52994,67.2674
+Sliding Interface Energy,6.5399400000000005,67.3412
+Sliding Interface Energy,6.550000000000001,67.3968
+Sliding Interface Energy,6.55995,67.444
+Sliding Interface Energy,6.57,67.4828
+Sliding Interface Energy,6.57997,67.5222
+Sliding Interface Energy,6.58999,67.5548
+Sliding Interface Energy,6.599950000000001,67.6032
+Sliding Interface Energy,6.60994,67.6497
+Sliding Interface Energy,6.61997,67.6693
+Sliding Interface Energy,6.62995,67.7719
+Sliding Interface Energy,6.63998,67.9256
+Sliding Interface Energy,6.6499999999999995,67.9913
+Sliding Interface Energy,6.65998,68.0524
+Sliding Interface Energy,6.669989999999999,68.0596
+Sliding Interface Energy,6.67993,68.0856
+Sliding Interface Energy,6.68994,68.1271
+Sliding Interface Energy,6.69996,68.1598
+Sliding Interface Energy,6.70998,68.254
+Sliding Interface Energy,6.71993,68.3771
+Sliding Interface Energy,6.72992,68.482
+Sliding Interface Energy,6.739979999999999,68.5851
+Sliding Interface Energy,6.74997,68.6614
+Sliding Interface Energy,6.75998,68.7585
+Sliding Interface Energy,6.76998,68.8446
+Sliding Interface Energy,6.77993,68.8968
+Sliding Interface Energy,6.78997,68.9381
+Sliding Interface Energy,6.79995,68.9835
+Sliding Interface Energy,6.80998,69.0115
+Sliding Interface Energy,6.81998,69.052
+Sliding Interface Energy,6.82995,69.0943
+Sliding Interface Energy,6.83993,69.1256
+Sliding Interface Energy,6.84992,69.151
+Sliding Interface Energy,6.859920000000001,69.1854
+Sliding Interface Energy,6.869949999999999,69.252
+Sliding Interface Energy,6.87999,69.3347
+Sliding Interface Energy,6.88995,69.4351
+Sliding Interface Energy,6.89994,69.6008
+Sliding Interface Energy,6.9099699999999995,69.7374
+Sliding Interface Energy,6.91998,69.9287
+Sliding Interface Energy,6.929989999999999,70.078
+Sliding Interface Energy,6.94,70.3404
+Sliding Interface Energy,6.94993,70.5474
+Sliding Interface Energy,6.95993,70.8153
+Sliding Interface Energy,6.96997,70.9733
+Sliding Interface Energy,6.979939999999999,71.1334
+Sliding Interface Energy,6.98995,71.2302
+Sliding Interface Energy,6.99997,71.3152
+Sliding Interface Energy,7.00998,71.4521
+Sliding Interface Energy,7.01995,71.5968
+Sliding Interface Energy,7.02997,71.7512
+Sliding Interface Energy,7.039980000000001,71.9384
+Sliding Interface Energy,7.0499600000000004,72.378
+Sliding Interface Energy,7.05998,72.8687
+Sliding Interface Energy,7.06993,73.455
+Sliding Interface Energy,7.07993,73.8926
+Sliding Interface Energy,7.08998,74.0286
+Sliding Interface Energy,7.09993,74.0221
+Sliding Interface Energy,7.10993,74.1605
+Sliding Interface Energy,7.11994,74.3421
+Sliding Interface Energy,7.12995,74.5882
+Sliding Interface Energy,7.13995,74.8618
+Sliding Interface Energy,7.14994,75.1306
+Sliding Interface Energy,7.15995,75.378
+Sliding Interface Energy,7.17,75.5193
+Sliding Interface Energy,7.179930000000001,75.5909
+Sliding Interface Energy,7.18999,75.6896
+Sliding Interface Energy,7.19993,75.7993
+Sliding Interface Energy,7.209919999999999,75.9951
+Sliding Interface Energy,7.21997,76.2242
+Sliding Interface Energy,7.229959999999999,76.442
+Sliding Interface Energy,7.239920000000001,76.6344
+Sliding Interface Energy,7.249969999999999,76.8569
+Sliding Interface Energy,7.25999,77.105
+Sliding Interface Energy,7.26999,77.2695
+Sliding Interface Energy,7.2799700000000005,77.5022
+Sliding Interface Energy,7.28994,77.6951
+Sliding Interface Energy,7.299980000000001,77.8808
+Sliding Interface Energy,7.3099300000000005,78.034
+Sliding Interface Energy,7.31996,78.1852
+Sliding Interface Energy,7.32997,78.3264
+Sliding Interface Energy,7.339980000000001,78.4398
+Sliding Interface Energy,7.34995,78.4835
+Sliding Interface Energy,7.35992,78.5331
+Sliding Interface Energy,7.369940000000001,78.6239
+Sliding Interface Energy,7.37999,78.7535
+Sliding Interface Energy,7.38992,78.8674
+Sliding Interface Energy,7.3999299999999995,78.9717
+Sliding Interface Energy,7.409940000000001,79.0476
+Sliding Interface Energy,7.419989999999999,79.1072
+Sliding Interface Energy,7.4299800000000005,79.1229
+Sliding Interface Energy,7.43993,79.1448
+Sliding Interface Energy,7.44992,79.1994
+Sliding Interface Energy,7.45992,79.244
+Sliding Interface Energy,7.47,79.3051
+Sliding Interface Energy,7.47994,79.3317
+Sliding Interface Energy,7.48994,79.3302
+Sliding Interface Energy,7.4999400000000005,79.3231
+Sliding Interface Energy,7.51,79.3244
+Sliding Interface Energy,7.51998,79.3473
+Sliding Interface Energy,7.52996,79.3597
+Sliding Interface Energy,7.5399400000000005,79.4051
+Sliding Interface Energy,7.54993,79.4333
+Sliding Interface Energy,7.559950000000001,79.4367
+Sliding Interface Energy,7.56994,79.4473
+Sliding Interface Energy,7.57992,79.4869
+Sliding Interface Energy,7.58997,79.5076
+Sliding Interface Energy,7.59996,79.5184
+Sliding Interface Energy,7.60996,79.5341
+Sliding Interface Energy,7.61997,79.5442
+Sliding Interface Energy,7.62996,79.5564
+Sliding Interface Energy,7.639950000000001,79.5771
+Sliding Interface Energy,7.64999,79.5962
+Sliding Interface Energy,7.65994,79.6205
+Sliding Interface Energy,7.66997,79.696
+Sliding Interface Energy,7.67997,79.7749
+Sliding Interface Energy,7.68996,79.8146
+Sliding Interface Energy,7.69997,79.8207
+Sliding Interface Energy,7.70993,79.8267
+Sliding Interface Energy,7.71995,79.8321
+Sliding Interface Energy,7.7299500000000005,79.841
+Sliding Interface Energy,7.739949999999999,79.9127
+Sliding Interface Energy,7.75,79.9667
+Sliding Interface Energy,7.75995,80.0013
+Sliding Interface Energy,7.76994,80.0471
+Sliding Interface Energy,7.77994,80.0741
+Sliding Interface Energy,7.7899400000000005,80.112
+Sliding Interface Energy,7.79995,80.1292
+Sliding Interface Energy,7.80998,80.1736
+Sliding Interface Energy,7.8199700000000005,80.2105
+Sliding Interface Energy,7.82995,80.2745
+Sliding Interface Energy,7.83999,80.3242
+Sliding Interface Energy,7.849989999999999,80.37
+Sliding Interface Energy,7.859980000000001,80.4493
+Sliding Interface Energy,7.86998,80.5261
+Sliding Interface Energy,7.8799600000000005,80.5573
+Sliding Interface Energy,7.8899799999999995,80.5709
+Sliding Interface Energy,7.899979999999999,80.5597
+Sliding Interface Energy,7.909930000000001,80.5634
+Sliding Interface Energy,7.9199600000000006,80.576
+Sliding Interface Energy,7.92993,80.5956
+Sliding Interface Energy,7.93997,80.6141
+Sliding Interface Energy,7.949990000000001,80.6304
+Sliding Interface Energy,7.959930000000001,80.6587
+Sliding Interface Energy,7.96999,80.6851
+Sliding Interface Energy,7.97995,80.7061
+Sliding Interface Energy,7.989929999999999,80.729
+Sliding Interface Energy,7.99999,80.7693
+Total Energy,0.0,946.016
+Total Energy,0.00998975,946.011
+Total Energy,0.0199783,945.997
+Total Energy,0.0299549,945.998
+Total Energy,0.0399339,946.011
+Total Energy,0.049965300000000004,945.978
+Total Energy,0.0599526,945.958
+Total Energy,0.0699938,945.965
+Total Energy,0.0799498,945.977
+Total Energy,0.0899149,945.969
+Total Energy,0.099977,945.956
+Total Energy,0.109961,945.936
+Total Energy,0.11997000000000001,945.95
+Total Energy,0.129933,945.955
+Total Energy,0.139976,945.934
+Total Energy,0.149958,945.923
+Total Energy,0.15999,945.926
+Total Energy,0.169965,945.951
+Total Energy,0.179966,945.953
+Total Energy,0.18995,945.969
+Total Energy,0.199969,945.981
+Total Energy,0.20996599999999999,945.993
+Total Energy,0.219996,946.003
+Total Energy,0.229962,946.01
+Total Energy,0.239966,946.015
+Total Energy,0.24996699999999997,946.018
+Total Energy,0.259976,946.019
+Total Energy,0.269993,946.019
+Total Energy,0.27996899999999997,946.018
+Total Energy,0.289958,946.019
+Total Energy,0.29998600000000003,946.021
+Total Energy,0.30995300000000003,946.018
+Total Energy,0.319967,946.014
+Total Energy,0.329982,946.015
+Total Energy,0.339939,946.015
+Total Energy,0.349996,946.017
+Total Energy,0.359942,946.014
+Total Energy,0.369951,946.011
+Total Energy,0.379951,946.013
+Total Energy,0.389946,946.014
+Total Energy,0.399944,946.011
+Total Energy,0.409932,946.009
+Total Energy,0.419992,946.008
+Total Energy,0.429991,946.009
+Total Energy,0.439974,946.015
+Total Energy,0.44996400000000003,946.016
+Total Energy,0.459986,946.009
+Total Energy,0.469932,946.013
+Total Energy,0.479955,946.012
+Total Energy,0.489979,946.009
+Total Energy,0.49992899999999996,946.015
+Total Energy,0.509977,946.016
+Total Energy,0.519958,946.024
+Total Energy,0.529996,946.02
+Total Energy,0.54,946.017
+Total Energy,0.549933,946.018
+Total Energy,0.559952,946.022
+Total Energy,0.569924,946.021
+Total Energy,0.579999,946.017
+Total Energy,0.589974,946.022
+Total Energy,0.6,946.018
+Total Energy,0.60996,946.017
+Total Energy,0.619922,946.017
+Total Energy,0.629991,946.013
+Total Energy,0.639962,946.016
+Total Energy,0.649969,946.022
+Total Energy,0.659943,946.02
+Total Energy,0.6699689999999999,946.018
+Total Energy,0.679992,946.016
+Total Energy,0.689979,946.016
+Total Energy,0.6999989999999999,946.02
+Total Energy,0.709956,946.021
+Total Energy,0.7199939999999999,946.017
+Total Energy,0.729929,946.02
+Total Energy,0.739937,946.02
+Total Energy,0.749985,946.016
+Total Energy,0.759995,946.017
+Total Energy,0.7699630000000001,946.018
+Total Energy,0.7799769999999999,946.018
+Total Energy,0.789986,946.016
+Total Energy,0.799948,946.015
+Total Energy,0.8099430000000001,946.013
+Total Energy,0.819947,946.015
+Total Energy,0.82995,946.015
+Total Energy,0.8400000000000001,946.013
+Total Energy,0.8499570000000001,946.01
+Total Energy,0.859965,946.009
+Total Energy,0.8699619999999999,946.012
+Total Energy,0.879964,946.01
+Total Energy,0.889949,946.01
+Total Energy,0.899944,946.005
+Total Energy,0.90999,946.007
+Total Energy,0.919957,946.005
+Total Energy,0.929974,946.006
+Total Energy,0.939959,946.005
+Total Energy,0.949939,946.005
+Total Energy,0.959963,946.007
+Total Energy,0.969981,946.012
+Total Energy,0.9799419999999999,946.004
+Total Energy,0.989937,946.005
+Total Energy,0.999967,946.009
+Total Energy,1.00996,946.009
+Total Energy,1.01993,946.012
+Total Energy,1.02999,946.013
+Total Energy,1.03997,946.015
+Total Energy,1.05,946.011
+Total Energy,1.0599800000000001,946.006
+Total Energy,1.06994,946.006
+Total Energy,1.07992,946.005
+Total Energy,1.08992,946.008
+Total Energy,1.09998,946.012
+Total Energy,1.10999,946.007
+Total Energy,1.1199700000000001,946.012
+Total Energy,1.12995,946.01
+Total Energy,1.1399299999999999,946.013
+Total Energy,1.14993,946.011
+Total Energy,1.15998,946.013
+Total Energy,1.1699499999999998,946.017
+Total Energy,1.1799899999999999,946.012
+Total Energy,1.1899600000000001,946.011
+Total Energy,1.19994,946.01
+Total Energy,1.20996,946.01
+Total Energy,1.21996,946.018
+Total Energy,1.22993,946.018
+Total Energy,1.24,946.017
+Total Energy,1.24994,946.018
+Total Energy,1.25999,946.015
+Total Energy,1.2699600000000002,946.012
+Total Energy,1.27994,946.011
+Total Energy,1.28995,946.01
+Total Energy,1.29999,946.011
+Total Energy,1.30994,946.01
+Total Energy,1.31994,946.007
+Total Energy,1.33,946.005
+Total Energy,1.33999,946.003
+Total Energy,1.3499700000000001,946.003
+Total Energy,1.35995,946.004
+Total Energy,1.36998,946.004
+Total Energy,1.37999,946.004
+Total Energy,1.38995,946.003
+Total Energy,1.39997,946.004
+Total Energy,1.40998,946.002
+Total Energy,1.41994,946.002
+Total Energy,1.4299899999999999,946.003
+Total Energy,1.4400000000000002,946.005
+Total Energy,1.44994,946.007
+Total Energy,1.45999,946.006
+Total Energy,1.46997,946.001
+Total Energy,1.47995,945.999
+Total Energy,1.49,946.002
+Total Energy,1.49996,945.998
+Total Energy,1.50997,945.998
+Total Energy,1.5199799999999999,945.998
+Total Energy,1.52994,945.997
+Total Energy,1.5399800000000001,945.996
+Total Energy,1.5499699999999998,945.996
+Total Energy,1.55996,945.993
+Total Energy,1.5699500000000002,945.997
+Total Energy,1.57999,946.004
+Total Energy,1.58993,946.005
+Total Energy,1.59993,946.002
+Total Energy,1.60992,946.001
+Total Energy,1.61995,946.002
+Total Energy,1.62999,946.001
+Total Energy,1.64,946.008
+Total Energy,1.64993,946.006
+Total Energy,1.65993,946.01
+Total Energy,1.66993,946.012
+Total Energy,1.67994,946.007
+Total Energy,1.68998,946.006
+Total Energy,1.69994,946.005
+Total Energy,1.70997,946.004
+Total Energy,1.71997,946.006
+Total Energy,1.7299900000000001,946.009
+Total Energy,1.7399799999999999,946.006
+Total Energy,1.7499799999999999,946.006
+Total Energy,1.75995,946.008
+Total Energy,1.7699799999999999,946.0
+Total Energy,1.77997,946.001
+Total Energy,1.78999,946.001
+Total Energy,1.79999,946.0
+Total Energy,1.8099699999999999,946.0
+Total Energy,1.81999,946.002
+Total Energy,1.82994,946.0
+Total Energy,1.83994,946.001
+Total Energy,1.8499700000000001,946.003
+Total Energy,1.85998,946.002
+Total Energy,1.8699700000000001,946.004
+Total Energy,1.87996,946.004
+Total Energy,1.88997,946.004
+Total Energy,1.89999,946.004
+Total Energy,1.90997,946.003
+Total Energy,1.9199499999999998,946.004
+Total Energy,1.9299600000000001,946.005
+Total Energy,1.93997,946.001
+Total Energy,1.94993,946.001
+Total Energy,1.9599700000000002,946.0
+Total Energy,1.96998,946.003
+Total Energy,1.9799700000000002,945.998
+Total Energy,1.9899700000000002,945.997
+Total Energy,1.99995,945.994
+Total Energy,2.00999,945.994
+Total Energy,2.0199599999999998,945.997
+Total Energy,2.02994,945.994
+Total Energy,2.0399900000000004,945.994
+Total Energy,2.04997,945.996
+Total Energy,2.05993,945.994
+Total Energy,2.06997,945.999
+Total Energy,2.0799999999999996,945.996
+Total Energy,2.09,945.996
+Total Energy,2.0999399999999997,946.003
+Total Energy,2.10993,946.007
+Total Energy,2.11992,946.002
+Total Energy,2.12994,946.001
+Total Energy,2.14,946.002
+Total Energy,2.14992,946.003
+Total Energy,2.1599399999999997,946.004
+Total Energy,2.17,946.001
+Total Energy,2.17994,946.001
+Total Energy,2.18995,946.003
+Total Energy,2.19995,946.003
+Total Energy,2.20998,946.001
+Total Energy,2.21997,946.0
+Total Energy,2.22999,945.999
+Total Energy,2.23996,945.998
+Total Energy,2.24995,945.999
+Total Energy,2.25997,945.997
+Total Energy,2.26995,945.998
+Total Energy,2.27997,945.995
+Total Energy,2.28998,945.995
+Total Energy,2.3,945.995
+Total Energy,2.31,945.996
+Total Energy,2.31998,945.996
+Total Energy,2.3299499999999997,945.998
+Total Energy,2.33993,946.0
+Total Energy,2.3499499999999998,945.997
+Total Energy,2.35996,945.995
+Total Energy,2.3699500000000002,945.995
+Total Energy,2.3799699999999997,945.995
+Total Energy,2.38993,945.995
+Total Energy,2.39996,945.996
+Total Energy,2.4099500000000003,945.991
+Total Energy,2.41993,945.989
+Total Energy,2.42996,945.988
+Total Energy,2.43996,945.989
+Total Energy,2.44995,945.988
+Total Energy,2.45993,945.987
+Total Energy,2.4699600000000004,945.99
+Total Energy,2.4799499999999997,945.992
+Total Energy,2.48995,945.993
+Total Energy,2.49994,945.993
+Total Energy,2.50999,945.991
+Total Energy,2.51997,945.984
+Total Energy,2.5299799999999997,945.966
+Total Energy,2.53997,945.969
+Total Energy,2.54995,945.983
+Total Energy,2.5599600000000002,945.982
+Total Energy,2.56993,945.972
+Total Energy,2.57999,945.963
+Total Energy,2.58996,945.963
+Total Energy,2.5999399999999997,945.964
+Total Energy,2.60999,945.969
+Total Energy,2.6199399999999997,945.96
+Total Energy,2.62998,945.954
+Total Energy,2.63996,945.947
+Total Energy,2.64997,945.946
+Total Energy,2.65996,945.934
+Total Energy,2.66993,945.922
+Total Energy,2.67992,945.917
+Total Energy,2.6899200000000003,945.911
+Total Energy,2.69998,945.92
+Total Energy,2.70995,945.93
+Total Energy,2.7199899999999997,945.94
+Total Energy,2.72998,945.95
+Total Energy,2.73998,945.949
+Total Energy,2.74993,945.957
+Total Energy,2.75996,945.965
+Total Energy,2.7699700000000003,945.978
+Total Energy,2.77998,945.988
+Total Energy,2.7899499999999997,945.991
+Total Energy,2.79997,945.993
+Total Energy,2.81,945.991
+Total Energy,2.81999,945.989
+Total Energy,2.83,945.988
+Total Energy,2.8399699999999997,945.986
+Total Energy,2.84999,945.988
+Total Energy,2.8599300000000003,945.988
+Total Energy,2.86999,945.988
+Total Energy,2.8799300000000003,945.985
+Total Energy,2.8899899999999996,945.984
+Total Energy,2.8999300000000003,945.983
+Total Energy,2.90996,945.982
+Total Energy,2.91998,945.981
+Total Energy,2.9299999999999997,945.978
+Total Energy,2.93994,945.982
+Total Energy,2.94994,945.98
+Total Energy,2.9599499999999996,945.984
+Total Energy,2.96998,945.985
+Total Energy,2.97994,945.985
+Total Energy,2.98994,945.988
+Total Energy,2.99992,945.99
+Total Energy,3.00992,945.986
+Total Energy,3.01994,945.987
+Total Energy,3.02992,945.988
+Total Energy,3.03993,945.99
+Total Energy,3.04997,945.988
+Total Energy,3.05999,945.987
+Total Energy,3.06998,945.987
+Total Energy,3.07997,945.988
+Total Energy,3.08995,945.99
+Total Energy,3.0999600000000003,945.991
+Total Energy,3.10998,945.989
+Total Energy,3.11992,945.989
+Total Energy,3.12999,945.986
+Total Energy,3.13999,945.984
+Total Energy,3.1499800000000002,945.985
+Total Energy,3.15998,945.985
+Total Energy,3.1699900000000003,945.987
+Total Energy,3.17992,945.985
+Total Energy,3.1899900000000003,945.983
+Total Energy,3.19998,945.982
+Total Energy,3.20998,945.98
+Total Energy,3.21996,945.985
+Total Energy,3.22995,945.987
+Total Energy,3.2399199999999997,945.989
+Total Energy,3.24995,945.987
+Total Energy,3.2599299999999998,945.99
+Total Energy,3.2699700000000003,945.988
+Total Energy,3.27994,945.986
+Total Energy,3.28994,945.988
+Total Energy,3.29993,945.984
+Total Energy,3.3099499999999997,945.984
+Total Energy,3.31998,945.984
+Total Energy,3.3299499999999997,945.983
+Total Energy,3.33992,945.981
+Total Energy,3.34994,945.979
+Total Energy,3.3599900000000003,945.979
+Total Energy,3.3699899999999996,945.978
+Total Energy,3.3799799999999998,945.975
+Total Energy,3.3899500000000002,945.977
+Total Energy,3.39993,945.977
+Total Energy,3.40994,945.977
+Total Energy,3.41993,945.973
+Total Energy,3.4299299999999997,945.974
+Total Energy,3.43996,945.974
+Total Energy,3.44997,945.972
+Total Energy,3.45997,945.973
+Total Energy,3.46997,945.975
+Total Energy,3.47993,945.974
+Total Energy,3.48995,945.975
+Total Energy,3.49994,945.971
+Total Energy,3.50994,945.972
+Total Energy,3.5199900000000004,945.973
+Total Energy,3.52992,945.974
+Total Energy,3.53997,945.978
+Total Energy,3.5499199999999997,945.979
+Total Energy,3.5599999999999996,945.978
+Total Energy,3.5699199999999998,945.977
+Total Energy,3.57994,945.975
+Total Energy,3.58993,945.973
+Total Energy,3.59995,945.969
+Total Energy,3.60999,945.971
+Total Energy,3.61998,945.973
+Total Energy,3.6299599999999996,945.971
+Total Energy,3.63996,945.97
+Total Energy,3.64995,945.973
+Total Energy,3.66,945.971
+Total Energy,3.66993,945.974
+Total Energy,3.67993,945.974
+Total Energy,3.6899900000000003,945.972
+Total Energy,3.69998,945.974
+Total Energy,3.70994,945.974
+Total Energy,3.7199899999999997,945.974
+Total Energy,3.72994,945.974
+Total Energy,3.7399199999999997,945.976
+Total Energy,3.74995,945.974
+Total Energy,3.75992,945.975
+Total Energy,3.76995,945.974
+Total Energy,3.77998,945.971
+Total Energy,3.78994,945.971
+Total Energy,3.79996,945.972
+Total Energy,3.80999,945.97
+Total Energy,3.81995,945.97
+Total Energy,3.82993,945.968
+Total Energy,3.8399900000000002,945.967
+Total Energy,3.84993,945.969
+Total Energy,3.85995,945.97
+Total Energy,3.86997,945.969
+Total Energy,3.87996,945.974
+Total Energy,3.88997,945.971
+Total Energy,3.89994,945.972
+Total Energy,3.90995,945.969
+Total Energy,3.9199400000000004,945.969
+Total Energy,3.92995,945.97
+Total Energy,3.93999,945.971
+Total Energy,3.94996,945.967
+Total Energy,3.95997,945.966
+Total Energy,3.96994,945.965
+Total Energy,3.9799800000000003,945.966
+Total Energy,3.98996,945.966
+Total Energy,3.9999800000000003,945.968
+Total Energy,4.00999,945.967
+Total Energy,4.01999,945.964
+Total Energy,4.02994,945.967
+Total Energy,4.03999,945.964
+Total Energy,4.04995,945.965
+Total Energy,4.059959999999999,945.967
+Total Energy,4.06998,945.965
+Total Energy,4.079969999999999,945.966
+Total Energy,4.08994,945.97
+Total Energy,4.09995,945.966
+Total Energy,4.10996,945.968
+Total Energy,4.11993,945.967
+Total Energy,4.129930000000001,945.965
+Total Energy,4.13994,945.966
+Total Energy,4.1499299999999995,945.967
+Total Energy,4.1599699999999995,945.964
+Total Energy,4.16995,945.962
+Total Energy,4.17995,945.963
+Total Energy,4.1899299999999995,945.96
+Total Energy,4.1999699999999995,945.96
+Total Energy,4.209980000000001,945.962
+Total Energy,4.21996,945.962
+Total Energy,4.229970000000001,945.962
+Total Energy,4.23999,945.96
+Total Energy,4.24993,945.961
+Total Energy,4.25999,945.96
+Total Energy,4.269959999999999,945.961
+Total Energy,4.27995,945.959
+Total Energy,4.289969999999999,945.958
+Total Energy,4.2999600000000004,945.956
+Total Energy,4.30996,945.959
+Total Energy,4.31995,945.959
+Total Energy,4.33,945.961
+Total Energy,4.3399399999999995,945.961
+Total Energy,4.3499799999999995,945.963
+Total Energy,4.35996,945.962
+Total Energy,4.36994,945.963
+Total Energy,4.38,945.963
+Total Energy,4.38994,945.966
+Total Energy,4.39998,945.963
+Total Energy,4.40995,945.957
+Total Energy,4.41998,945.953
+Total Energy,4.42999,945.95
+Total Energy,4.43994,945.944
+Total Energy,4.44997,945.946
+Total Energy,4.45995,945.944
+Total Energy,4.47,945.941
+Total Energy,4.47993,945.942
+Total Energy,4.4899700000000005,945.938
+Total Energy,4.49997,945.937
+Total Energy,4.50996,945.935
+Total Energy,4.52,945.936
+Total Energy,4.5299499999999995,945.932
+Total Energy,4.54,945.93
+Total Energy,4.54999,945.928
+Total Energy,4.55996,945.928
+Total Energy,4.56998,945.933
+Total Energy,4.579940000000001,945.932
+Total Energy,4.5899399999999995,945.937
+Total Energy,4.59999,945.937
+Total Energy,4.60997,945.939
+Total Energy,4.62,945.941
+Total Energy,4.62995,945.94
+Total Energy,4.63994,945.941
+Total Energy,4.64999,945.942
+Total Energy,4.6599900000000005,945.943
+Total Energy,4.66994,945.946
+Total Energy,4.67999,945.945
+Total Energy,4.68994,945.943
+Total Energy,4.69998,945.944
+Total Energy,4.70998,945.943
+Total Energy,4.71997,945.943
+Total Energy,4.7299500000000005,945.942
+Total Energy,4.739949999999999,945.942
+Total Energy,4.75,945.941
+Total Energy,4.75997,945.941
+Total Energy,4.76996,945.94
+Total Energy,4.77997,945.938
+Total Energy,4.789960000000001,945.929
+Total Energy,4.79997,945.925
+Total Energy,4.80994,945.927
+Total Energy,4.8199499999999995,945.934
+Total Energy,4.83,945.935
+Total Energy,4.839989999999999,945.933
+Total Energy,4.849939999999999,945.933
+Total Energy,4.85997,945.933
+Total Energy,4.8699900000000005,945.932
+Total Energy,4.87992,945.928
+Total Energy,4.88992,945.928
+Total Energy,4.89997,945.928
+Total Energy,4.909949999999999,945.928
+Total Energy,4.91995,945.928
+Total Energy,4.92998,945.927
+Total Energy,4.93999,945.929
+Total Energy,4.95,945.928
+Total Energy,4.95997,945.928
+Total Energy,4.96993,945.926
+Total Energy,4.97997,945.925
+Total Energy,4.98997,945.927
+Total Energy,4.99999,945.926
+Total Energy,5.00993,945.926
+Total Energy,5.01995,945.927
+Total Energy,5.02994,945.925
+Total Energy,5.039949999999999,945.925
+Total Energy,5.04995,945.924
+Total Energy,5.05997,945.925
+Total Energy,5.06999,945.923
+Total Energy,5.079969999999999,945.923
+Total Energy,5.08998,945.923
+Total Energy,5.09992,945.925
+Total Energy,5.109970000000001,945.926
+Total Energy,5.1199699999999995,945.926
+Total Energy,5.12997,945.926
+Total Energy,5.13993,945.927
+Total Energy,5.15,945.928
+Total Energy,5.15993,945.926
+Total Energy,5.16993,945.927
+Total Energy,5.17995,945.925
+Total Energy,5.18994,945.925
+Total Energy,5.19994,945.925
+Total Energy,5.20995,945.923
+Total Energy,5.21998,945.921
+Total Energy,5.229959999999999,945.921
+Total Energy,5.2399700000000005,945.922
+Total Energy,5.24992,945.923
+Total Energy,5.25999,945.926
+Total Energy,5.26994,945.926
+Total Energy,5.27995,945.924
+Total Energy,5.28996,945.925
+Total Energy,5.29994,945.923
+Total Energy,5.30996,945.925
+Total Energy,5.3199700000000005,945.924
+Total Energy,5.33,945.923
+Total Energy,5.33993,945.923
+Total Energy,5.34992,945.921
+Total Energy,5.35994,945.921
+Total Energy,5.36999,945.92
+Total Energy,5.37996,945.919
+Total Energy,5.38995,945.918
+Total Energy,5.3999299999999995,945.916
+Total Energy,5.40997,945.914
+Total Energy,5.419969999999999,945.912
+Total Energy,5.429930000000001,945.913
+Total Energy,5.43996,945.914
+Total Energy,5.44999,945.914
+Total Energy,5.45994,945.916
+Total Energy,5.46999,945.916
+Total Energy,5.47992,945.915
+Total Energy,5.489929999999999,945.917
+Total Energy,5.5,945.919
+Total Energy,5.50993,945.919
+Total Energy,5.519979999999999,945.917
+Total Energy,5.529929999999999,945.917
+Total Energy,5.53998,945.917
+Total Energy,5.54999,945.916
+Total Energy,5.55999,945.916
+Total Energy,5.56997,945.916
+Total Energy,5.57996,945.916
+Total Energy,5.58996,945.916
+Total Energy,5.59998,945.916
+Total Energy,5.60996,945.916
+Total Energy,5.62,945.915
+Total Energy,5.6299399999999995,945.915
+Total Energy,5.63994,945.915
+Total Energy,5.64995,945.914
+Total Energy,5.65997,945.914
+Total Energy,5.66998,945.913
+Total Energy,5.67997,945.914
+Total Energy,5.68998,945.913
+Total Energy,5.699949999999999,945.912
+Total Energy,5.70993,945.918
+Total Energy,5.7199800000000005,945.932
+Total Energy,5.72994,945.947
+Total Energy,5.73997,945.942
+Total Energy,5.74996,945.932
+Total Energy,5.75998,945.929
+Total Energy,5.76999,945.934
+Total Energy,5.7799499999999995,945.934
+Total Energy,5.789960000000001,945.926
+Total Energy,5.79995,945.921
+Total Energy,5.80993,945.918
+Total Energy,5.81993,945.918
+Total Energy,5.8299199999999995,945.915
+Total Energy,5.839989999999999,945.915
+Total Energy,5.849970000000001,945.914
+Total Energy,5.85992,945.91
+Total Energy,5.86997,945.91
+Total Energy,5.87996,945.909
+Total Energy,5.88993,945.903
+Total Energy,5.89999,945.902
+Total Energy,5.91,945.899
+Total Energy,5.92,945.897
+Total Energy,5.92993,945.897
+Total Energy,5.9399500000000005,945.898
+Total Energy,5.9499699999999995,945.898
+Total Energy,5.9599400000000005,945.896
+Total Energy,5.96997,945.896
+Total Energy,5.9799500000000005,945.896
+Total Energy,5.98997,945.895
+Total Energy,5.99997,945.897
+Total Energy,6.00998,945.898
+Total Energy,6.01996,945.899
+Total Energy,6.02996,945.9
+Total Energy,6.03997,945.9
+Total Energy,6.04993,945.901
+Total Energy,6.05994,945.9
+Total Energy,6.07,945.9
+Total Energy,6.0799900000000004,945.902
+Total Energy,6.08994,945.899
+Total Energy,6.1000000000000005,945.896
+Total Energy,6.10998,945.897
+Total Energy,6.11998,945.893
+Total Energy,6.1299600000000005,945.895
+Total Energy,6.13999,945.892
+Total Energy,6.1499299999999995,945.895
+Total Energy,6.15996,945.894
+Total Energy,6.16993,945.897
+Total Energy,6.17997,945.894
+Total Energy,6.18992,945.898
+Total Energy,6.1999200000000005,945.903
+Total Energy,6.20999,945.904
+Total Energy,6.21994,945.901
+Total Energy,6.22994,945.901
+Total Energy,6.239920000000001,945.902
+Total Energy,6.24999,945.902
+Total Energy,6.25999,945.901
+Total Energy,6.26992,945.897
+Total Energy,6.279940000000001,945.898
+Total Energy,6.28996,945.898
+Total Energy,6.29993,945.897
+Total Energy,6.30997,945.895
+Total Energy,6.31996,945.896
+Total Energy,6.33,945.896
+Total Energy,6.339980000000001,945.894
+Total Energy,6.3499300000000005,945.893
+Total Energy,6.359959999999999,945.893
+Total Energy,6.36998,945.893
+Total Energy,6.37993,945.895
+Total Energy,6.38994,945.896
+Total Energy,6.3999299999999995,945.896
+Total Energy,6.40993,945.895
+Total Energy,6.41998,945.892
+Total Energy,6.42999,945.892
+Total Energy,6.43994,945.891
+Total Energy,6.44992,945.892
+Total Energy,6.4599899999999995,945.892
+Total Energy,6.469950000000001,945.892
+Total Energy,6.47996,945.894
+Total Energy,6.48994,945.896
+Total Energy,6.49993,945.895
+Total Energy,6.50996,945.894
+Total Energy,6.51997,945.894
+Total Energy,6.52994,945.895
+Total Energy,6.5399400000000005,945.897
+Total Energy,6.550000000000001,945.895
+Total Energy,6.55995,945.894
+Total Energy,6.57,945.892
+Total Energy,6.57997,945.891
+Total Energy,6.58999,945.89
+Total Energy,6.599950000000001,945.89
+Total Energy,6.60994,945.892
+Total Energy,6.61997,945.891
+Total Energy,6.62995,945.892
+Total Energy,6.63998,945.898
+Total Energy,6.6499999999999995,945.896
+Total Energy,6.65998,945.895
+Total Energy,6.669989999999999,945.895
+Total Energy,6.67993,945.891
+Total Energy,6.68994,945.89
+Total Energy,6.69996,945.892
+Total Energy,6.70998,945.891
+Total Energy,6.71993,945.891
+Total Energy,6.72992,945.89
+Total Energy,6.739979999999999,945.886
+Total Energy,6.74997,945.884
+Total Energy,6.75998,945.887
+Total Energy,6.76998,945.884
+Total Energy,6.77993,945.884
+Total Energy,6.78997,945.888
+Total Energy,6.79995,945.888
+Total Energy,6.80998,945.887
+Total Energy,6.81998,945.886
+Total Energy,6.82995,945.888
+Total Energy,6.83993,945.889
+Total Energy,6.84992,945.887
+Total Energy,6.859920000000001,945.887
+Total Energy,6.869949999999999,945.886
+Total Energy,6.87999,945.886
+Total Energy,6.88995,945.887
+Total Energy,6.89994,945.888
+Total Energy,6.9099699999999995,945.891
+Total Energy,6.91998,945.895
+Total Energy,6.929989999999999,945.894
+Total Energy,6.94,945.897
+Total Energy,6.94993,945.898
+Total Energy,6.95993,945.901
+Total Energy,6.96997,945.901
+Total Energy,6.979939999999999,945.899
+Total Energy,6.98995,945.896
+Total Energy,6.99997,945.893
+Total Energy,7.00998,945.891
+Total Energy,7.01995,945.891
+Total Energy,7.02997,945.892
+Total Energy,7.039980000000001,945.893
+Total Energy,7.0499600000000004,945.9
+Total Energy,7.05998,945.905
+Total Energy,7.06993,945.908
+Total Energy,7.07993,945.906
+Total Energy,7.08998,945.9
+Total Energy,7.09993,945.896
+Total Energy,7.10993,945.897
+Total Energy,7.11994,945.896
+Total Energy,7.12995,945.899
+Total Energy,7.13995,945.898
+Total Energy,7.14994,945.892
+Total Energy,7.15995,945.89
+Total Energy,7.17,945.888
+Total Energy,7.179930000000001,945.883
+Total Energy,7.18999,945.882
+Total Energy,7.19993,945.884
+Total Energy,7.209919999999999,945.885
+Total Energy,7.21997,945.886
+Total Energy,7.229959999999999,945.885
+Total Energy,7.239920000000001,945.884
+Total Energy,7.249969999999999,945.883
+Total Energy,7.25999,945.881
+Total Energy,7.26999,945.885
+Total Energy,7.2799700000000005,945.886
+Total Energy,7.28994,945.883
+Total Energy,7.299980000000001,945.881
+Total Energy,7.3099300000000005,945.884
+Total Energy,7.31996,945.882
+Total Energy,7.32997,945.877
+Total Energy,7.339980000000001,945.879
+Total Energy,7.34995,945.881
+Total Energy,7.35992,945.88
+Total Energy,7.369940000000001,945.88
+Total Energy,7.37999,945.878
+Total Energy,7.38992,945.879
+Total Energy,7.3999299999999995,945.879
+Total Energy,7.409940000000001,945.877
+Total Energy,7.419989999999999,945.877
+Total Energy,7.4299800000000005,945.879
+Total Energy,7.43993,945.879
+Total Energy,7.44992,945.878
+Total Energy,7.45992,945.875
+Total Energy,7.47,945.874
+Total Energy,7.47994,945.874
+Total Energy,7.48994,945.877
+Total Energy,7.4999400000000005,945.873
+Total Energy,7.51,945.874
+Total Energy,7.51998,945.874
+Total Energy,7.52996,945.878
+Total Energy,7.5399400000000005,945.876
+Total Energy,7.54993,945.875
+Total Energy,7.559950000000001,945.876
+Total Energy,7.56994,945.879
+Total Energy,7.57992,945.881
+Total Energy,7.58997,945.879
+Total Energy,7.59996,945.874
+Total Energy,7.60996,945.873
+Total Energy,7.61997,945.878
+Total Energy,7.62996,945.876
+Total Energy,7.639950000000001,945.88
+Total Energy,7.64999,945.878
+Total Energy,7.65994,945.882
+Total Energy,7.66997,945.883
+Total Energy,7.67997,945.881
+Total Energy,7.68996,945.879
+Total Energy,7.69997,945.882
+Total Energy,7.70993,945.881
+Total Energy,7.71995,945.883
+Total Energy,7.7299500000000005,945.883
+Total Energy,7.739949999999999,945.885
+Total Energy,7.75,945.883
+Total Energy,7.75995,945.88
+Total Energy,7.76994,945.879
+Total Energy,7.77994,945.878
+Total Energy,7.7899400000000005,945.88
+Total Energy,7.79995,945.882
+Total Energy,7.80998,945.883
+Total Energy,7.8199700000000005,945.882
+Total Energy,7.82995,945.878
+Total Energy,7.83999,945.876
+Total Energy,7.849989999999999,945.877
+Total Energy,7.859980000000001,945.881
+Total Energy,7.86998,945.881
+Total Energy,7.8799600000000005,945.883
+Total Energy,7.8899799999999995,945.884
+Total Energy,7.899979999999999,945.884
+Total Energy,7.909930000000001,945.885
+Total Energy,7.9199600000000006,945.882
+Total Energy,7.92993,945.884
+Total Energy,7.93997,945.884
+Total Energy,7.949990000000001,945.883
+Total Energy,7.959930000000001,945.882
+Total Energy,7.96999,945.879
+Total Energy,7.97995,945.876
+Total Energy,7.989929999999999,945.876
+Total Energy,7.99999,945.879
+External Work,0.0,0.0
+External Work,0.00998975,0.0
+External Work,0.0199783,0.0
+External Work,0.0299549,0.0
+External Work,0.0399339,0.0
+External Work,0.049965300000000004,0.0
+External Work,0.0599526,0.0
+External Work,0.0699938,0.0
+External Work,0.0799498,0.0
+External Work,0.0899149,0.0
+External Work,0.099977,0.0
+External Work,0.109961,0.0
+External Work,0.11997000000000001,0.0
+External Work,0.129933,0.0
+External Work,0.139976,0.0
+External Work,0.149958,0.0
+External Work,0.15999,0.0
+External Work,0.169965,0.0
+External Work,0.179966,0.0
+External Work,0.18995,0.0
+External Work,0.199969,0.0
+External Work,0.20996599999999999,0.0
+External Work,0.219996,0.0
+External Work,0.229962,0.0
+External Work,0.239966,0.0
+External Work,0.24996699999999997,0.0
+External Work,0.259976,0.0
+External Work,0.269993,0.0
+External Work,0.27996899999999997,0.0
+External Work,0.289958,0.0
+External Work,0.29998600000000003,0.0
+External Work,0.30995300000000003,0.0
+External Work,0.319967,0.0
+External Work,0.329982,0.0
+External Work,0.339939,0.0
+External Work,0.349996,0.0
+External Work,0.359942,0.0
+External Work,0.369951,0.0
+External Work,0.379951,0.0
+External Work,0.389946,0.0
+External Work,0.399944,0.0
+External Work,0.409932,0.0
+External Work,0.419992,0.0
+External Work,0.429991,0.0
+External Work,0.439974,0.0
+External Work,0.44996400000000003,0.0
+External Work,0.459986,0.0
+External Work,0.469932,0.0
+External Work,0.479955,0.0
+External Work,0.489979,0.0
+External Work,0.49992899999999996,0.0
+External Work,0.509977,0.0
+External Work,0.519958,0.0
+External Work,0.529996,0.0
+External Work,0.54,0.0
+External Work,0.549933,0.0
+External Work,0.559952,0.0
+External Work,0.569924,0.0
+External Work,0.579999,0.0
+External Work,0.589974,0.0
+External Work,0.6,0.0
+External Work,0.60996,0.0
+External Work,0.619922,0.0
+External Work,0.629991,0.0
+External Work,0.639962,0.0
+External Work,0.649969,0.0
+External Work,0.659943,0.0
+External Work,0.6699689999999999,0.0
+External Work,0.679992,0.0
+External Work,0.689979,0.0
+External Work,0.6999989999999999,0.0
+External Work,0.709956,0.0
+External Work,0.7199939999999999,0.0
+External Work,0.729929,0.0
+External Work,0.739937,0.0
+External Work,0.749985,0.0
+External Work,0.759995,0.0
+External Work,0.7699630000000001,0.0
+External Work,0.7799769999999999,0.0
+External Work,0.789986,0.0
+External Work,0.799948,0.0
+External Work,0.8099430000000001,0.0
+External Work,0.819947,0.0
+External Work,0.82995,0.0
+External Work,0.8400000000000001,0.0
+External Work,0.8499570000000001,0.0
+External Work,0.859965,0.0
+External Work,0.8699619999999999,0.0
+External Work,0.879964,0.0
+External Work,0.889949,0.0
+External Work,0.899944,0.0
+External Work,0.90999,0.0
+External Work,0.919957,0.0
+External Work,0.929974,0.0
+External Work,0.939959,0.0
+External Work,0.949939,0.0
+External Work,0.959963,0.0
+External Work,0.969981,0.0
+External Work,0.9799419999999999,0.0
+External Work,0.989937,0.0
+External Work,0.999967,0.0
+External Work,1.00996,0.0
+External Work,1.01993,0.0
+External Work,1.02999,0.0
+External Work,1.03997,0.0
+External Work,1.05,0.0
+External Work,1.0599800000000001,0.0
+External Work,1.06994,0.0
+External Work,1.07992,0.0
+External Work,1.08992,0.0
+External Work,1.09998,0.0
+External Work,1.10999,0.0
+External Work,1.1199700000000001,0.0
+External Work,1.12995,0.0
+External Work,1.1399299999999999,0.0
+External Work,1.14993,0.0
+External Work,1.15998,0.0
+External Work,1.1699499999999998,0.0
+External Work,1.1799899999999999,0.0
+External Work,1.1899600000000001,0.0
+External Work,1.19994,0.0
+External Work,1.20996,0.0
+External Work,1.21996,0.0
+External Work,1.22993,0.0
+External Work,1.24,0.0
+External Work,1.24994,0.0
+External Work,1.25999,0.0
+External Work,1.2699600000000002,0.0
+External Work,1.27994,0.0
+External Work,1.28995,0.0
+External Work,1.29999,0.0
+External Work,1.30994,0.0
+External Work,1.31994,0.0
+External Work,1.33,0.0
+External Work,1.33999,0.0
+External Work,1.3499700000000001,0.0
+External Work,1.35995,0.0
+External Work,1.36998,0.0
+External Work,1.37999,0.0
+External Work,1.38995,0.0
+External Work,1.39997,0.0
+External Work,1.40998,0.0
+External Work,1.41994,0.0
+External Work,1.4299899999999999,0.0
+External Work,1.4400000000000002,0.0
+External Work,1.44994,0.0
+External Work,1.45999,0.0
+External Work,1.46997,0.0
+External Work,1.47995,0.0
+External Work,1.49,0.0
+External Work,1.49996,0.0
+External Work,1.50997,0.0
+External Work,1.5199799999999999,0.0
+External Work,1.52994,0.0
+External Work,1.5399800000000001,0.0
+External Work,1.5499699999999998,0.0
+External Work,1.55996,0.0
+External Work,1.5699500000000002,0.0
+External Work,1.57999,0.0
+External Work,1.58993,0.0
+External Work,1.59993,0.0
+External Work,1.60992,0.0
+External Work,1.61995,0.0
+External Work,1.62999,0.0
+External Work,1.64,0.0
+External Work,1.64993,0.0
+External Work,1.65993,0.0
+External Work,1.66993,0.0
+External Work,1.67994,0.0
+External Work,1.68998,0.0
+External Work,1.69994,0.0
+External Work,1.70997,0.0
+External Work,1.71997,0.0
+External Work,1.7299900000000001,0.0
+External Work,1.7399799999999999,0.0
+External Work,1.7499799999999999,0.0
+External Work,1.75995,0.0
+External Work,1.7699799999999999,0.0
+External Work,1.77997,0.0
+External Work,1.78999,0.0
+External Work,1.79999,0.0
+External Work,1.8099699999999999,0.0
+External Work,1.81999,0.0
+External Work,1.82994,0.0
+External Work,1.83994,0.0
+External Work,1.8499700000000001,0.0
+External Work,1.85998,0.0
+External Work,1.8699700000000001,0.0
+External Work,1.87996,0.0
+External Work,1.88997,0.0
+External Work,1.89999,0.0
+External Work,1.90997,0.0
+External Work,1.9199499999999998,0.0
+External Work,1.9299600000000001,0.0
+External Work,1.93997,0.0
+External Work,1.94993,0.0
+External Work,1.9599700000000002,0.0
+External Work,1.96998,0.0
+External Work,1.9799700000000002,0.0
+External Work,1.9899700000000002,0.0
+External Work,1.99995,0.0
+External Work,2.00999,0.0
+External Work,2.0199599999999998,0.0
+External Work,2.02994,0.0
+External Work,2.0399900000000004,0.0
+External Work,2.04997,0.0
+External Work,2.05993,0.0
+External Work,2.06997,0.0
+External Work,2.0799999999999996,0.0
+External Work,2.09,0.0
+External Work,2.0999399999999997,0.0
+External Work,2.10993,0.0
+External Work,2.11992,0.0
+External Work,2.12994,0.0
+External Work,2.14,0.0
+External Work,2.14992,0.0
+External Work,2.1599399999999997,0.0
+External Work,2.17,0.0
+External Work,2.17994,0.0
+External Work,2.18995,0.0
+External Work,2.19995,0.0
+External Work,2.20998,0.0
+External Work,2.21997,0.0
+External Work,2.22999,0.0
+External Work,2.23996,0.0
+External Work,2.24995,0.0
+External Work,2.25997,0.0
+External Work,2.26995,0.0
+External Work,2.27997,0.0
+External Work,2.28998,0.0
+External Work,2.3,0.0
+External Work,2.31,0.0
+External Work,2.31998,0.0
+External Work,2.3299499999999997,0.0
+External Work,2.33993,0.0
+External Work,2.3499499999999998,0.0
+External Work,2.35996,0.0
+External Work,2.3699500000000002,0.0
+External Work,2.3799699999999997,0.0
+External Work,2.38993,0.0
+External Work,2.39996,0.0
+External Work,2.4099500000000003,0.0
+External Work,2.41993,0.0
+External Work,2.42996,0.0
+External Work,2.43996,0.0
+External Work,2.44995,0.0
+External Work,2.45993,0.0
+External Work,2.4699600000000004,0.0
+External Work,2.4799499999999997,0.0
+External Work,2.48995,0.0
+External Work,2.49994,0.0
+External Work,2.50999,0.0
+External Work,2.51997,0.0
+External Work,2.5299799999999997,0.0
+External Work,2.53997,0.0
+External Work,2.54995,0.0
+External Work,2.5599600000000002,0.0
+External Work,2.56993,0.0
+External Work,2.57999,0.0
+External Work,2.58996,0.0
+External Work,2.5999399999999997,0.0
+External Work,2.60999,0.0
+External Work,2.6199399999999997,0.0
+External Work,2.62998,0.0
+External Work,2.63996,0.0
+External Work,2.64997,0.0
+External Work,2.65996,0.0
+External Work,2.66993,0.0
+External Work,2.67992,0.0
+External Work,2.6899200000000003,0.0
+External Work,2.69998,0.0
+External Work,2.70995,0.0
+External Work,2.7199899999999997,0.0
+External Work,2.72998,0.0
+External Work,2.73998,0.0
+External Work,2.74993,0.0
+External Work,2.75996,0.0
+External Work,2.7699700000000003,0.0
+External Work,2.77998,0.0
+External Work,2.7899499999999997,0.0
+External Work,2.79997,0.0
+External Work,2.81,0.0
+External Work,2.81999,0.0
+External Work,2.83,0.0
+External Work,2.8399699999999997,0.0
+External Work,2.84999,0.0
+External Work,2.8599300000000003,0.0
+External Work,2.86999,0.0
+External Work,2.8799300000000003,0.0
+External Work,2.8899899999999996,0.0
+External Work,2.8999300000000003,0.0
+External Work,2.90996,0.0
+External Work,2.91998,0.0
+External Work,2.9299999999999997,0.0
+External Work,2.93994,0.0
+External Work,2.94994,0.0
+External Work,2.9599499999999996,0.0
+External Work,2.96998,0.0
+External Work,2.97994,0.0
+External Work,2.98994,0.0
+External Work,2.99992,0.0
+External Work,3.00992,0.0
+External Work,3.01994,0.0
+External Work,3.02992,0.0
+External Work,3.03993,0.0
+External Work,3.04997,0.0
+External Work,3.05999,0.0
+External Work,3.06998,0.0
+External Work,3.07997,0.0
+External Work,3.08995,0.0
+External Work,3.0999600000000003,0.0
+External Work,3.10998,0.0
+External Work,3.11992,0.0
+External Work,3.12999,0.0
+External Work,3.13999,0.0
+External Work,3.1499800000000002,0.0
+External Work,3.15998,0.0
+External Work,3.1699900000000003,0.0
+External Work,3.17992,0.0
+External Work,3.1899900000000003,0.0
+External Work,3.19998,0.0
+External Work,3.20998,0.0
+External Work,3.21996,0.0
+External Work,3.22995,0.0
+External Work,3.2399199999999997,0.0
+External Work,3.24995,0.0
+External Work,3.2599299999999998,0.0
+External Work,3.2699700000000003,0.0
+External Work,3.27994,0.0
+External Work,3.28994,0.0
+External Work,3.29993,0.0
+External Work,3.3099499999999997,0.0
+External Work,3.31998,0.0
+External Work,3.3299499999999997,0.0
+External Work,3.33992,0.0
+External Work,3.34994,0.0
+External Work,3.3599900000000003,0.0
+External Work,3.3699899999999996,0.0
+External Work,3.3799799999999998,0.0
+External Work,3.3899500000000002,0.0
+External Work,3.39993,0.0
+External Work,3.40994,0.0
+External Work,3.41993,0.0
+External Work,3.4299299999999997,0.0
+External Work,3.43996,0.0
+External Work,3.44997,0.0
+External Work,3.45997,0.0
+External Work,3.46997,0.0
+External Work,3.47993,0.0
+External Work,3.48995,0.0
+External Work,3.49994,0.0
+External Work,3.50994,0.0
+External Work,3.5199900000000004,0.0
+External Work,3.52992,0.0
+External Work,3.53997,0.0
+External Work,3.5499199999999997,0.0
+External Work,3.5599999999999996,0.0
+External Work,3.5699199999999998,0.0
+External Work,3.57994,0.0
+External Work,3.58993,0.0
+External Work,3.59995,0.0
+External Work,3.60999,0.0
+External Work,3.61998,0.0
+External Work,3.6299599999999996,0.0
+External Work,3.63996,0.0
+External Work,3.64995,0.0
+External Work,3.66,0.0
+External Work,3.66993,0.0
+External Work,3.67993,0.0
+External Work,3.6899900000000003,0.0
+External Work,3.69998,0.0
+External Work,3.70994,0.0
+External Work,3.7199899999999997,0.0
+External Work,3.72994,0.0
+External Work,3.7399199999999997,0.0
+External Work,3.74995,0.0
+External Work,3.75992,0.0
+External Work,3.76995,0.0
+External Work,3.77998,0.0
+External Work,3.78994,0.0
+External Work,3.79996,0.0
+External Work,3.80999,0.0
+External Work,3.81995,0.0
+External Work,3.82993,0.0
+External Work,3.8399900000000002,0.0
+External Work,3.84993,0.0
+External Work,3.85995,0.0
+External Work,3.86997,0.0
+External Work,3.87996,0.0
+External Work,3.88997,0.0
+External Work,3.89994,0.0
+External Work,3.90995,0.0
+External Work,3.9199400000000004,0.0
+External Work,3.92995,0.0
+External Work,3.93999,0.0
+External Work,3.94996,0.0
+External Work,3.95997,0.0
+External Work,3.96994,0.0
+External Work,3.9799800000000003,0.0
+External Work,3.98996,0.0
+External Work,3.9999800000000003,0.0
+External Work,4.00999,0.0
+External Work,4.01999,0.0
+External Work,4.02994,0.0
+External Work,4.03999,0.0
+External Work,4.04995,0.0
+External Work,4.059959999999999,0.0
+External Work,4.06998,0.0
+External Work,4.079969999999999,0.0
+External Work,4.08994,0.0
+External Work,4.09995,0.0
+External Work,4.10996,0.0
+External Work,4.11993,0.0
+External Work,4.129930000000001,0.0
+External Work,4.13994,0.0
+External Work,4.1499299999999995,0.0
+External Work,4.1599699999999995,0.0
+External Work,4.16995,0.0
+External Work,4.17995,0.0
+External Work,4.1899299999999995,0.0
+External Work,4.1999699999999995,0.0
+External Work,4.209980000000001,0.0
+External Work,4.21996,0.0
+External Work,4.229970000000001,0.0
+External Work,4.23999,0.0
+External Work,4.24993,0.0
+External Work,4.25999,0.0
+External Work,4.269959999999999,0.0
+External Work,4.27995,0.0
+External Work,4.289969999999999,0.0
+External Work,4.2999600000000004,0.0
+External Work,4.30996,0.0
+External Work,4.31995,0.0
+External Work,4.33,0.0
+External Work,4.3399399999999995,0.0
+External Work,4.3499799999999995,0.0
+External Work,4.35996,0.0
+External Work,4.36994,0.0
+External Work,4.38,0.0
+External Work,4.38994,0.0
+External Work,4.39998,0.0
+External Work,4.40995,0.0
+External Work,4.41998,0.0
+External Work,4.42999,0.0
+External Work,4.43994,0.0
+External Work,4.44997,0.0
+External Work,4.45995,0.0
+External Work,4.47,0.0
+External Work,4.47993,0.0
+External Work,4.4899700000000005,0.0
+External Work,4.49997,0.0
+External Work,4.50996,0.0
+External Work,4.52,0.0
+External Work,4.5299499999999995,0.0
+External Work,4.54,0.0
+External Work,4.54999,0.0
+External Work,4.55996,0.0
+External Work,4.56998,0.0
+External Work,4.579940000000001,0.0
+External Work,4.5899399999999995,0.0
+External Work,4.59999,0.0
+External Work,4.60997,0.0
+External Work,4.62,0.0
+External Work,4.62995,0.0
+External Work,4.63994,0.0
+External Work,4.64999,0.0
+External Work,4.6599900000000005,0.0
+External Work,4.66994,0.0
+External Work,4.67999,0.0
+External Work,4.68994,0.0
+External Work,4.69998,0.0
+External Work,4.70998,0.0
+External Work,4.71997,0.0
+External Work,4.7299500000000005,0.0
+External Work,4.739949999999999,0.0
+External Work,4.75,0.0
+External Work,4.75997,0.0
+External Work,4.76996,0.0
+External Work,4.77997,0.0
+External Work,4.789960000000001,0.0
+External Work,4.79997,0.0
+External Work,4.80994,0.0
+External Work,4.8199499999999995,0.0
+External Work,4.83,0.0
+External Work,4.839989999999999,0.0
+External Work,4.849939999999999,0.0
+External Work,4.85997,0.0
+External Work,4.8699900000000005,0.0
+External Work,4.87992,0.0
+External Work,4.88992,0.0
+External Work,4.89997,0.0
+External Work,4.909949999999999,0.0
+External Work,4.91995,0.0
+External Work,4.92998,0.0
+External Work,4.93999,0.0
+External Work,4.95,0.0
+External Work,4.95997,0.0
+External Work,4.96993,0.0
+External Work,4.97997,0.0
+External Work,4.98997,0.0
+External Work,4.99999,0.0
+External Work,5.00993,0.0
+External Work,5.01995,0.0
+External Work,5.02994,0.0
+External Work,5.039949999999999,0.0
+External Work,5.04995,0.0
+External Work,5.05997,0.0
+External Work,5.06999,0.0
+External Work,5.079969999999999,0.0
+External Work,5.08998,0.0
+External Work,5.09992,0.0
+External Work,5.109970000000001,0.0
+External Work,5.1199699999999995,0.0
+External Work,5.12997,0.0
+External Work,5.13993,0.0
+External Work,5.15,0.0
+External Work,5.15993,0.0
+External Work,5.16993,0.0
+External Work,5.17995,0.0
+External Work,5.18994,0.0
+External Work,5.19994,0.0
+External Work,5.20995,0.0
+External Work,5.21998,0.0
+External Work,5.229959999999999,0.0
+External Work,5.2399700000000005,0.0
+External Work,5.24992,0.0
+External Work,5.25999,0.0
+External Work,5.26994,0.0
+External Work,5.27995,0.0
+External Work,5.28996,0.0
+External Work,5.29994,0.0
+External Work,5.30996,0.0
+External Work,5.3199700000000005,0.0
+External Work,5.33,0.0
+External Work,5.33993,0.0
+External Work,5.34992,0.0
+External Work,5.35994,0.0
+External Work,5.36999,0.0
+External Work,5.37996,0.0
+External Work,5.38995,0.0
+External Work,5.3999299999999995,0.0
+External Work,5.40997,0.0
+External Work,5.419969999999999,0.0
+External Work,5.429930000000001,0.0
+External Work,5.43996,0.0
+External Work,5.44999,0.0
+External Work,5.45994,0.0
+External Work,5.46999,0.0
+External Work,5.47992,0.0
+External Work,5.489929999999999,0.0
+External Work,5.5,0.0
+External Work,5.50993,0.0
+External Work,5.519979999999999,0.0
+External Work,5.529929999999999,0.0
+External Work,5.53998,0.0
+External Work,5.54999,0.0
+External Work,5.55999,0.0
+External Work,5.56997,0.0
+External Work,5.57996,0.0
+External Work,5.58996,0.0
+External Work,5.59998,0.0
+External Work,5.60996,0.0
+External Work,5.62,0.0
+External Work,5.6299399999999995,0.0
+External Work,5.63994,0.0
+External Work,5.64995,0.0
+External Work,5.65997,0.0
+External Work,5.66998,0.0
+External Work,5.67997,0.0
+External Work,5.68998,0.0
+External Work,5.699949999999999,0.0
+External Work,5.70993,0.0
+External Work,5.7199800000000005,0.0
+External Work,5.72994,0.0
+External Work,5.73997,0.0
+External Work,5.74996,0.0
+External Work,5.75998,0.0
+External Work,5.76999,0.0
+External Work,5.7799499999999995,0.0
+External Work,5.789960000000001,0.0
+External Work,5.79995,0.0
+External Work,5.80993,0.0
+External Work,5.81993,0.0
+External Work,5.8299199999999995,0.0
+External Work,5.839989999999999,0.0
+External Work,5.849970000000001,0.0
+External Work,5.85992,0.0
+External Work,5.86997,0.0
+External Work,5.87996,0.0
+External Work,5.88993,0.0
+External Work,5.89999,0.0
+External Work,5.91,0.0
+External Work,5.92,0.0
+External Work,5.92993,0.0
+External Work,5.9399500000000005,0.0
+External Work,5.9499699999999995,0.0
+External Work,5.9599400000000005,0.0
+External Work,5.96997,0.0
+External Work,5.9799500000000005,0.0
+External Work,5.98997,0.0
+External Work,5.99997,0.0
+External Work,6.00998,0.0
+External Work,6.01996,0.0
+External Work,6.02996,0.0
+External Work,6.03997,0.0
+External Work,6.04993,0.0
+External Work,6.05994,0.0
+External Work,6.07,0.0
+External Work,6.0799900000000004,0.0
+External Work,6.08994,0.0
+External Work,6.1000000000000005,0.0
+External Work,6.10998,0.0
+External Work,6.11998,0.0
+External Work,6.1299600000000005,0.0
+External Work,6.13999,0.0
+External Work,6.1499299999999995,0.0
+External Work,6.15996,0.0
+External Work,6.16993,0.0
+External Work,6.17997,0.0
+External Work,6.18992,0.0
+External Work,6.1999200000000005,0.0
+External Work,6.20999,0.0
+External Work,6.21994,0.0
+External Work,6.22994,0.0
+External Work,6.239920000000001,0.0
+External Work,6.24999,0.0
+External Work,6.25999,0.0
+External Work,6.26992,0.0
+External Work,6.279940000000001,0.0
+External Work,6.28996,0.0
+External Work,6.29993,0.0
+External Work,6.30997,0.0
+External Work,6.31996,0.0
+External Work,6.33,0.0
+External Work,6.339980000000001,0.0
+External Work,6.3499300000000005,0.0
+External Work,6.359959999999999,0.0
+External Work,6.36998,0.0
+External Work,6.37993,0.0
+External Work,6.38994,0.0
+External Work,6.3999299999999995,0.0
+External Work,6.40993,0.0
+External Work,6.41998,0.0
+External Work,6.42999,0.0
+External Work,6.43994,0.0
+External Work,6.44992,0.0
+External Work,6.4599899999999995,0.0
+External Work,6.469950000000001,0.0
+External Work,6.47996,0.0
+External Work,6.48994,0.0
+External Work,6.49993,0.0
+External Work,6.50996,0.0
+External Work,6.51997,0.0
+External Work,6.52994,0.0
+External Work,6.5399400000000005,0.0
+External Work,6.550000000000001,0.0
+External Work,6.55995,0.0
+External Work,6.57,0.0
+External Work,6.57997,0.0
+External Work,6.58999,0.0
+External Work,6.599950000000001,0.0
+External Work,6.60994,0.0
+External Work,6.61997,0.0
+External Work,6.62995,0.0
+External Work,6.63998,0.0
+External Work,6.6499999999999995,0.0
+External Work,6.65998,0.0
+External Work,6.669989999999999,0.0
+External Work,6.67993,0.0
+External Work,6.68994,0.0
+External Work,6.69996,0.0
+External Work,6.70998,0.0
+External Work,6.71993,0.0
+External Work,6.72992,0.0
+External Work,6.739979999999999,0.0
+External Work,6.74997,0.0
+External Work,6.75998,0.0
+External Work,6.76998,0.0
+External Work,6.77993,0.0
+External Work,6.78997,0.0
+External Work,6.79995,0.0
+External Work,6.80998,0.0
+External Work,6.81998,0.0
+External Work,6.82995,0.0
+External Work,6.83993,0.0
+External Work,6.84992,0.0
+External Work,6.859920000000001,0.0
+External Work,6.869949999999999,0.0
+External Work,6.87999,0.0
+External Work,6.88995,0.0
+External Work,6.89994,0.0
+External Work,6.9099699999999995,0.0
+External Work,6.91998,0.0
+External Work,6.929989999999999,0.0
+External Work,6.94,0.0
+External Work,6.94993,0.0
+External Work,6.95993,0.0
+External Work,6.96997,0.0
+External Work,6.979939999999999,0.0
+External Work,6.98995,0.0
+External Work,6.99997,0.0
+External Work,7.00998,0.0
+External Work,7.01995,0.0
+External Work,7.02997,0.0
+External Work,7.039980000000001,0.0
+External Work,7.0499600000000004,0.0
+External Work,7.05998,0.0
+External Work,7.06993,0.0
+External Work,7.07993,0.0
+External Work,7.08998,0.0
+External Work,7.09993,0.0
+External Work,7.10993,0.0
+External Work,7.11994,0.0
+External Work,7.12995,0.0
+External Work,7.13995,0.0
+External Work,7.14994,0.0
+External Work,7.15995,0.0
+External Work,7.17,0.0
+External Work,7.179930000000001,0.0
+External Work,7.18999,0.0
+External Work,7.19993,0.0
+External Work,7.209919999999999,0.0
+External Work,7.21997,0.0
+External Work,7.229959999999999,0.0
+External Work,7.239920000000001,0.0
+External Work,7.249969999999999,0.0
+External Work,7.25999,0.0
+External Work,7.26999,0.0
+External Work,7.2799700000000005,0.0
+External Work,7.28994,0.0
+External Work,7.299980000000001,0.0
+External Work,7.3099300000000005,0.0
+External Work,7.31996,0.0
+External Work,7.32997,0.0
+External Work,7.339980000000001,0.0
+External Work,7.34995,0.0
+External Work,7.35992,0.0
+External Work,7.369940000000001,0.0
+External Work,7.37999,0.0
+External Work,7.38992,0.0
+External Work,7.3999299999999995,0.0
+External Work,7.409940000000001,0.0
+External Work,7.419989999999999,0.0
+External Work,7.4299800000000005,0.0
+External Work,7.43993,0.0
+External Work,7.44992,0.0
+External Work,7.45992,0.0
+External Work,7.47,0.0
+External Work,7.47994,0.0
+External Work,7.48994,0.0
+External Work,7.4999400000000005,0.0
+External Work,7.51,0.0
+External Work,7.51998,0.0
+External Work,7.52996,0.0
+External Work,7.5399400000000005,0.0
+External Work,7.54993,0.0
+External Work,7.559950000000001,0.0
+External Work,7.56994,0.0
+External Work,7.57992,0.0
+External Work,7.58997,0.0
+External Work,7.59996,0.0
+External Work,7.60996,0.0
+External Work,7.61997,0.0
+External Work,7.62996,0.0
+External Work,7.639950000000001,0.0
+External Work,7.64999,0.0
+External Work,7.65994,0.0
+External Work,7.66997,0.0
+External Work,7.67997,0.0
+External Work,7.68996,0.0
+External Work,7.69997,0.0
+External Work,7.70993,0.0
+External Work,7.71995,0.0
+External Work,7.7299500000000005,0.0
+External Work,7.739949999999999,0.0
+External Work,7.75,0.0
+External Work,7.75995,0.0
+External Work,7.76994,0.0
+External Work,7.77994,0.0
+External Work,7.7899400000000005,0.0
+External Work,7.79995,0.0
+External Work,7.80998,0.0
+External Work,7.8199700000000005,0.0
+External Work,7.82995,0.0
+External Work,7.83999,0.0
+External Work,7.849989999999999,0.0
+External Work,7.859980000000001,0.0
+External Work,7.86998,0.0
+External Work,7.8799600000000005,0.0
+External Work,7.8899799999999995,0.0
+External Work,7.899979999999999,0.0
+External Work,7.909930000000001,0.0
+External Work,7.9199600000000006,0.0
+External Work,7.92993,0.0
+External Work,7.93997,0.0
+External Work,7.949990000000001,0.0
+External Work,7.959930000000001,0.0
+External Work,7.96999,0.0
+External Work,7.97995,0.0
+External Work,7.989929999999999,0.0
+External Work,7.99999,0.0

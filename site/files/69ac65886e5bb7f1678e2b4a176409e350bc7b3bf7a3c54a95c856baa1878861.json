@@ -1,0 +1,160 @@
+{
+  "status": "same_fixture_response_comparison",
+  "comparison_ready": false,
+  "problems": [],
+  "reference": "baseline-guided-v2",
+  "candidate": "clamshell-4mm-v1",
+  "physical_fixture_verified": true,
+  "response": [
+    {
+      "metric": "Printed pusher mass (kg)",
+      "reference": 0.48874077450771786,
+      "candidate": 0.5797749375819864,
+      "change": 0.09103416307426854,
+      "change_percent": 18.626267302121935
+    },
+    {
+      "metric": "Moving mass (kg)",
+      "reference": 0.6503407745077118,
+      "candidate": 0.7413749375819814,
+      "change": 0.09103416307426959,
+      "change_percent": 13.997917190903442
+    },
+    {
+      "metric": "Initial kinetic energy (J)",
+      "reference": 812.9259681346397,
+      "candidate": 926.7186719774767,
+      "change": 113.792703842837,
+      "change_percent": 13.997917190903442
+    },
+    {
+      "metric": "Peak pusher-to-spreader force (N)",
+      "reference": 174104.5,
+      "candidate": 251546.0,
+      "change": 77441.5,
+      "change_percent": 44.47989569482695
+    },
+    {
+      "metric": "First stop time (s)",
+      "reference": 0.005426767293038121,
+      "candidate": 0.005272747558893482,
+      "change": -0.0001540197341446392,
+      "change_percent": -2.8381488615188633
+    },
+    {
+      "metric": "First stop travel (m)",
+      "reference": 0.11397571244665354,
+      "candidate": 0.12264619652453573,
+      "change": 0.008670484077882193,
+      "change_percent": 7.607308514908762
+    },
+    {
+      "metric": "Maximum moving travel (m)",
+      "reference": 0.1139758083210677,
+      "candidate": 0.12264629172309335,
+      "change": 0.008670483402025655,
+      "change_percent": 7.607301522794274
+    },
+    {
+      "metric": "Left foam compression",
+      "reference": 0.560912922805344,
+      "candidate": 0.6058047461682158,
+      "change": 0.044891823362871786,
+      "change_percent": 8.003349813791116
+    },
+    {
+      "metric": "Right foam compression",
+      "reference": 0.561177371103812,
+      "candidate": 0.6055044568062089,
+      "change": 0.04432708570239685,
+      "change_percent": 7.898943896331279
+    },
+    {
+      "metric": "Global pusher P95 stress (MPa)",
+      "reference": 79.6832666402105,
+      "candidate": 72.88894079285046,
+      "change": -6.794325847360042,
+      "change_percent": -8.526665803045063
+    },
+    {
+      "metric": "Global pusher P99 stress (MPa)",
+      "reference": 112.84967495040581,
+      "candidate": 107.4078255735945,
+      "change": -5.441849376811319,
+      "change_percent": -4.822210944960947
+    }
+  ],
+  "source_geometry_sha256": {
+    "baseline-guided-v2": {
+      "Width_Study_340_Body": "b010993ca64572b012c35b00339259aaafa07996597e1cc2c575d7a546e74668",
+      "Width_Study_Cable_Cap": "95f34cbdc9095ed45e9fe9b1e0bc83af4c747d2b51f397e24232a89ed025a38d",
+      "Width_Study_340_Assembly": "7812f9a6078172fe2a7406d0a6c71e4b4659c769acac453fbf552bfe5f1ffeaa"
+    },
+    "clamshell-4mm-v1": {
+      "Pusher_Impact_Lower": "41acda1085a2c240bbbd2bc102b7c14ae152732630b5f706da61fc3d1c2f73dd",
+      "Pusher_Impact_Upper": "ed0a538fb968ccc2caab71e17c8418a843fadbdc27007f0fc807c45e97838b54",
+      "Pusher_Impact_Clamshell": "21ccd9727da000b672574c62ef6d60820cfa0922b172546def2f64b65bf4d6bb"
+    }
+  },
+  "numerical_checks": {
+    "baseline-guided-v2": {
+      "normal_termination": true,
+      "requested_time_reached": true,
+      "binary_matches_nodout": true,
+      "moving_mass_consistent": true,
+      "initial_energy_error_below_0p5pct": true,
+      "energy_balance_error_below_5pct": true,
+      "hourglass_below_5pct_initial_energy": true,
+      "sum_abs_nonfriction_contact_energy_below_5pct_initial_energy": true,
+      "contact_impulse_momentum_error_below_5pct": true,
+      "no_axial_spc_on_moving_or_guide_nodes": true,
+      "rigid_guides_leave_only_axial_translation_free": true,
+      "no_prescribed_motion": true,
+      "no_detected_deletion": true,
+      "positive_sampled_foam_jacobians": true,
+      "first_stop_captured": true,
+      "foam_compression_below_80pct": true,
+      "mass_scaling_disabled_or_quantified_below_0p1pct_moving_mass": true,
+      "all_transverse_guide_equations_satisfied_and_no_axial_equation": true
+    },
+    "clamshell-4mm-v1": {
+      "normal_termination": true,
+      "requested_time_reached": true,
+      "binary_matches_nodout": true,
+      "moving_mass_consistent": true,
+      "initial_energy_error_below_0p5pct": true,
+      "energy_balance_error_below_5pct": true,
+      "hourglass_below_5pct_initial_energy": true,
+      "sum_abs_nonfriction_contact_energy_below_5pct_initial_energy": true,
+      "contact_impulse_momentum_error_below_5pct": true,
+      "no_axial_spc_on_moving_or_guide_nodes": true,
+      "rigid_guides_leave_only_axial_translation_free": true,
+      "no_prescribed_motion": true,
+      "no_detected_deletion": true,
+      "positive_sampled_foam_jacobians": true,
+      "first_stop_captured": true,
+      "foam_compression_below_80pct": true,
+      "mass_scaling_disabled_or_quantified_below_0p1pct_moving_mass": true,
+      "all_transverse_guide_equations_satisfied_and_no_axial_equation": true
+    }
+  },
+  "evidence_sha256": {
+    "baseline-guided-v2": {
+      "input.k": "c0e809f7756ca88069a97d227691a989c14a1b1b857734dd89403dbceb9d8c65",
+      "model.json": "d8aa0702228f51e5a17ce851dbf8345abaf7d8d74423eeb968c165e12279730b",
+      "execution.json": "4a844c8f6a9b6ef167ea8cb7a2aee1567e54f60f3fa55a620c4649d4fd204db6",
+      "assessment/metrics.json": "402e5bbac0888a1f01f8d7987371f5ca1696119c2ac053dd582405466531f46f"
+    },
+    "clamshell-4mm-v1": {
+      "input.k": "c3dbb04de2ed3882794973e056f9fb13e38c0279c0d37bf8aceeef8074cec581",
+      "model.json": "2b983604b9bc606480e39abe13e4d20d726a206b4b5bd6e6a0990ac019824126",
+      "execution.json": "6a507da59c7548e8b4766da0fdb39538f3ef8587efb021a758b6abb6f51ae3e0",
+      "assessment/metrics.json": "b68cf2db09afdee95ef134ecc79789506901b70b18dec5134b38225e6c3d94a7"
+    }
+  },
+  "limits": [
+    "This compares completed elastic-model responses under the same fixture; it does not rank strength or survival.",
+    "The reference has an unresolved 9.83% targeted cap-deformation mesh sensitivity.",
+    "The candidate seam and shell mesh need their own numerical sensitivity checks before qualified ranking."
+  ]
+}

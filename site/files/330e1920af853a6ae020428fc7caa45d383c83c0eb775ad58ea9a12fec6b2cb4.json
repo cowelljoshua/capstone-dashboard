@@ -1,0 +1,16 @@
+{
+  "element_type": "4-node tetrahedron",
+  "element_count": 321831,
+  "quality_metric": "tetrahedral mean-ratio, 12(3|V|)^(2/3)/sum(edge_length^2)",
+  "quality_scale": "0=degenerate, 1=regular tetrahedron",
+  "mean_ratio_min": 0.0742179354280684,
+  "mean_ratio_p1": 0.5789141360587987,
+  "mean_ratio_p5": 0.6773333451567122,
+  "mean_ratio_median": 0.8639296153286747,
+  "count_below_0p1": 8,
+  "nonpositive_signed_volume_count": 0,
+  "mesh_files_sha256": {
+    "nodes.csv": "52873ea49a71e4218ba5d62b5319d69a58b712e03e689e91a1583097a1f69df2",
+    "elements.csv": "433c8739eb947cf86b524785cc432d69df627da27833d50ba4c60961e8ef1cf1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "case": "baseline-guided-v2",
+  "peaks": {
+    "Pusher \u2192 spreaders": {
+      "maximum_positive_force_N": 174104.5,
+      "time_s": 1.19695e-05,
+      "sampling": "Native ASCII timestamps; no binary-time interpolation"
+    },
+    "Spreaders \u2192 foam": {
+      "maximum_positive_force_N": 10471.119999999999,
+      "time_s": 0.00511393,
+      "sampling": "Native ASCII timestamps; no binary-time interpolation"
+    },
+    "Fixed backing": {
+      "maximum_positive_force_N": 10712.221999999998,
+      "time_s": 0.00566604,
+      "sampling": "Native ASCII timestamps; no binary-time interpolation"
+    }
+  },
+  "interpretation": "The initially stationary rigid spreaders have finite inertia. Pusher contact, foam contact, and backing reactions need not coincide during transients. Curves use the full native ASCII sampling, approximately 2 microseconds.",
+  "scope": "Signed +Z contact surface-A resultants; fixed-backing SPC forces. These are force histories, not structural strength or support-frame qualification."
+}

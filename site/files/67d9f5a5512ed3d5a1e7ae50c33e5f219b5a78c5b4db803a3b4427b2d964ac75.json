@@ -1,0 +1,27 @@
+{
+  "status": "completed_unassessed",
+  "run_directory": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\offset_clamshell_impact_20260922\\cases\\clamshell-contact-diagnostic-v2\\runs\\solve",
+  "execution": {
+    "status": "process_exited_zero",
+    "started_at": "2026-09-23T02:17:54.142340+00:00",
+    "finished_at": "2026-09-23T02:21:19.366880+00:00",
+    "duration_seconds": 205.21899999999732,
+    "exit_code": 0,
+    "process_id": 46060,
+    "timed_out": false,
+    "cancelled": false,
+    "termination_state": "normal_termination_confirmed",
+    "termination_evidence_sources": [
+      "d3hsp",
+      "messag",
+      "stdout.log"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "process_exit_and_termination_evidence_are_distinct": true,
+    "physics_validated": false,
+    "results_interpreted": false
+  },
+  "requested_time_s": 0.0003,
+  "reached_time_s": 0.000299978
+}

@@ -1,0 +1,112 @@
+{
+  "changed_top_level_metrics": [
+    "cable_guide_motion",
+    "numerical_checks",
+    "numerical_checks_passed",
+    "rendering_status",
+    "solver_messages"
+  ],
+  "physical_numerical_result_fields_unchanged": true,
+  "check_change_before": false,
+  "check_change_after": true,
+  "numerical_checks_passed": true,
+  "rendering_status": "completed",
+  "files": {
+    "metrics_before_final_render.json": {
+      "sha256": "ff39eb081ab5cbcaf9aee71871cdc26af19c3146ce0aea4bb02715545143bd58",
+      "bytes": 21142
+    },
+    "metrics.json": {
+      "sha256": "402e5bbac0888a1f01f8d7987371f5ca1696119c2ac053dd582405466531f46f",
+      "bytes": 22483
+    },
+    "stress-transient.gif": {
+      "sha256": "b152c1887b45c1dc991f5ae77d69d09ebf1dabcefaadd1736e3c763355624d37",
+      "bytes": 6543332
+    },
+    "world-motion.gif": {
+      "sha256": "651394318739e4a5b817c1db09b86cc58929545b7af736bf7a5c8af5bff353d4",
+      "bytes": 1451469
+    }
+  },
+  "animations": {
+    "stress-transient.gif": {
+      "frames": 59,
+      "size": [
+        1300,
+        780
+      ]
+    },
+    "world-motion.gif": {
+      "frames": 31,
+      "size": [
+        1300,
+        900
+      ]
+    }
+  },
+  "changed_fields": [
+    {
+      "field": "cable_guide_motion.rotation_interpretation",
+      "before": null,
+      "after": "Mass-weighted best-fit rigid motion of the entire deformable pusher; this is not a direct measurement of guided bore-axis rotation. Use actual bore coordinates and weighted guide residuals for guidance checks."
+    },
+    {
+      "field": "numerical_checks.normal_termination",
+      "before": false,
+      "after": true
+    },
+    {
+      "field": "numerical_checks_passed",
+      "before": false,
+      "after": true
+    },
+    {
+      "field": "rendering_status",
+      "before": null,
+      "after": "completed"
+    },
+    {
+      "field": "solver_messages.normal_termination_evidence",
+      "before": null,
+      "after": [
+        {
+          "file": "messag",
+          "line": 1929,
+          "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 10:28:54"
+        },
+        {
+          "file": "messag",
+          "line": 1991,
+          "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 10:28:54"
+        },
+        {
+          "file": "d3hsp",
+          "line": 305627,
+          "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 10:28:54"
+        },
+        {
+          "file": "d3hsp",
+          "line": 305689,
+          "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 10:28:54"
+        },
+        {
+          "file": "stdout.log",
+          "line": 1013,
+          "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 10:28:54"
+        },
+        {
+          "file": "stdout.log",
+          "line": 1073,
+          "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 10:28:54"
+        }
+      ]
+    },
+    {
+      "field": "solver_messages.normal_termination_text_found",
+      "before": false,
+      "after": true
+    }
+  ],
+  "visual_inspection": "Inspected histories, regional propagation/deformation plot, 0.850 ms stress contour, 5.540 ms deformation contour, and world motion frames at 4.140 and 8.000 ms. Axes, scales and labels are legible; original outline visible; full stress scale is unclipped. World motion shows genuine compression and rebound. GIF frame counts verified."
+}

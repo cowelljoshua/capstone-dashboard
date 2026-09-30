@@ -1,0 +1,10 @@
+{
+  "evidence_sources": [
+    "d3hsp",
+    "messag",
+    "stdout.log"
+  ],
+  "physics_validated": false,
+  "results_interpreted": false,
+  "state": "normal_termination_confirmed"
+}

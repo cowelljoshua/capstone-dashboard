@@ -1,0 +1,280 @@
+{
+  "parts": [
+    {
+      "part": "body",
+      "source": "cad/components/body.step",
+      "source_sha256": "a64d64fe6cd769a331907e64d3cb2567b7f2f4ee74c7af7fe77cba5e88f5913f",
+      "stl": "print\\r2\\body\\body.stl",
+      "stl_sha256": "f2630ba879369dd7d08f24b0ed17778400e785a0a2db2e3263cba39afa8140b2",
+      "rotation_x_degrees": 0,
+      "rotation_z_degrees": 135,
+      "translation_after_rotation_mm": [
+        116.54268937122609,
+        116.5426893712261,
+        1e-07
+      ],
+      "model_bounds_mm": [
+        233.08537874245218,
+        233.0853787424522,
+        76.20000019999999
+      ],
+      "process_exit_code": 0,
+      "bambu_result": {
+        "error_string": "Success.",
+        "export_time": 2930,
+        "layer_height": 0.20000000298023224,
+        "plate_index": 0,
+        "prepare_time": 70,
+        "return_code": 0,
+        "sliced_plates": [
+          {
+            "feature_type_times": {
+              "Bottom surface": 353.3819885253906,
+              "Bridge": 1258.7158203125,
+              "Brim": 12.47720718383789,
+              "Custom": 36.063385009765625,
+              "Gap infill": 322.0716247558594,
+              "Inner wall": 10611.921875,
+              "Internal solid infill": 3108.3076171875,
+              "Outer wall": 2431.014892578125,
+              "Overhang wall": 405.8395080566406,
+              "Sparse infill": 26560.380859375,
+              "Support": 7831.48193359375,
+              "Support interface": 876.3054809570312,
+              "Support transition": 237.29348754882812,
+              "Top surface": 559.02587890625,
+              "Travel": 7802.85498046875,
+              "Undefined": 7786.7724609375
+            },
+            "filament_change_times": 0,
+            "filaments": [
+              {
+                "filament_id": "GFL52",
+                "id": 1,
+                "main_used_g": 487.19708251953125,
+                "total_used_g": 565.3927001953125
+              }
+            ],
+            "generate_support_material_time": 2272,
+            "id": 1,
+            "infill_time": 978,
+            "layer_filament_change": 0,
+            "main_predication": 62443.1171875,
+            "make_perimeters_time": 1531,
+            "obj_cached_cnt": 0,
+            "objects": [
+              {
+                "bbox": {
+                  "depth": 233.08526611328125,
+                  "height": 76.19999694824219,
+                  "width": 233.0852813720703,
+                  "x": 11.457350730895996,
+                  "y": 11.457361221313477,
+                  "z": 0.0
+                },
+                "id": 5,
+                "name": "body.stl",
+                "triangle_count": 52224
+              }
+            ],
+            "sliced_time": 12784,
+            "sliced_time_with_cache": 5644,
+            "total_predication": 62463.06640625,
+            "triangle_count": 52224,
+            "warning_message": ""
+          }
+        ],
+        "sparse_infill_density": 99.0,
+        "wall_loops": 6
+      },
+      "passed": true,
+      "project": "print\\r2\\body\\body.3mf"
+    },
+    {
+      "part": "closure_left",
+      "source": "cad/components/closure_left.step",
+      "source_sha256": "98df4410571b35ffe52ed99530e9b406354493d25dd8a21b799d56b4900c2589",
+      "stl": "print\\r2\\closure_left\\closure_left.stl",
+      "stl_sha256": "6895c613ceebb2beb1374915817ca31373833038ea1d87b83499dfbc55bd6612",
+      "rotation_x_degrees": 0,
+      "rotation_z_degrees": 0,
+      "translation_after_rotation_mm": [
+        116.2,
+        -0.09999999999976314,
+        1e-07
+      ],
+      "model_bounds_mm": [
+        29.200000100002683,
+        22.150000000000237,
+        76.20000019999999
+      ],
+      "process_exit_code": 0,
+      "bambu_result": {
+        "error_string": "Success.",
+        "export_time": 714,
+        "layer_height": 0.20000000298023224,
+        "plate_index": 0,
+        "prepare_time": 38,
+        "return_code": 0,
+        "sliced_plates": [
+          {
+            "feature_type_times": {
+              "Bottom surface": 11.866531372070312,
+              "Bridge": 55.49734115600586,
+              "Brim": 10.274600982666016,
+              "Custom": 35.23847579956055,
+              "Gap infill": 209.6636199951172,
+              "Inner wall": 966.7984008789062,
+              "Internal solid infill": 145.4722442626953,
+              "Outer wall": 335.9515686035156,
+              "Overhang wall": 31.02964973449707,
+              "Sparse infill": 805.0463256835938,
+              "Support": 476.8411865234375,
+              "Support interface": 50.348236083984375,
+              "Support transition": 13.544646263122559,
+              "Top surface": 40.02068328857422,
+              "Travel": 838.010498046875,
+              "Undefined": 822.6198120117188
+            },
+            "filament_change_times": 0,
+            "filaments": [
+              {
+                "filament_id": "GFL52",
+                "id": 1,
+                "main_used_g": 21.233720779418945,
+                "total_used_g": 25.261510848999023
+              }
+            ],
+            "generate_support_material_time": 462,
+            "id": 1,
+            "infill_time": 113,
+            "layer_filament_change": 0,
+            "main_predication": 3990.576904296875,
+            "make_perimeters_time": 359,
+            "obj_cached_cnt": 0,
+            "objects": [
+              {
+                "bbox": {
+                  "depth": 22.149999618530273,
+                  "height": 76.19999694824219,
+                  "width": 29.200002670288086,
+                  "x": 113.39997863769531,
+                  "y": 116.92501068115234,
+                  "z": 0.0
+                },
+                "id": 5,
+                "name": "closure_left.stl",
+                "triangle_count": 5684
+              }
+            ],
+            "sliced_time": 2088,
+            "sliced_time_with_cache": 1059,
+            "total_predication": 4010.39404296875,
+            "triangle_count": 5684,
+            "warning_message": ""
+          }
+        ],
+        "sparse_infill_density": 99.0,
+        "wall_loops": 6
+      },
+      "passed": true,
+      "project": "print\\r2\\closure_left\\closure_left.3mf"
+    },
+    {
+      "part": "closure_right",
+      "source": "cad/components/closure_right.step",
+      "source_sha256": "16aae36949a9efd17fb3903621890838b9470f108c2f4d8095dad461847200bf",
+      "stl": "print\\r2\\closure_right\\closure_right.stl",
+      "stl_sha256": "bc8e9c166a9e38a497743e2fa7119baa22bf2cfaed11db9a0c254842405043c1",
+      "rotation_x_degrees": 0,
+      "rotation_z_degrees": 0,
+      "translation_after_rotation_mm": [
+        -86.99999989999745,
+        -0.09999999999999984,
+        1e-07
+      ],
+      "model_bounds_mm": [
+        29.200000100002555,
+        22.150000000000006,
+        76.20000019999999
+      ],
+      "process_exit_code": 0,
+      "bambu_result": {
+        "error_string": "Success.",
+        "export_time": 665,
+        "layer_height": 0.20000000298023224,
+        "plate_index": 0,
+        "prepare_time": 57,
+        "return_code": 0,
+        "sliced_plates": [
+          {
+            "feature_type_times": {
+              "Bottom surface": 11.930879592895508,
+              "Bridge": 55.79201126098633,
+              "Brim": 10.141023635864258,
+              "Custom": 35.20951461791992,
+              "Gap infill": 210.21583557128906,
+              "Inner wall": 966.6702270507812,
+              "Internal solid infill": 146.43690490722656,
+              "Outer wall": 339.03240966796875,
+              "Overhang wall": 31.029638290405273,
+              "Sparse infill": 814.3414916992188,
+              "Support": 489.1746520996094,
+              "Support interface": 49.86846160888672,
+              "Support transition": 13.457679748535156,
+              "Top surface": 40.00590515136719,
+              "Travel": 838.6478271484375,
+              "Undefined": 823.2571411132812
+            },
+            "filament_change_times": 0,
+            "filaments": [
+              {
+                "filament_id": "GFL52",
+                "id": 1,
+                "main_used_g": 21.240493774414062,
+                "total_used_g": 25.399208068847656
+              }
+            ],
+            "generate_support_material_time": 337,
+            "id": 1,
+            "infill_time": 108,
+            "layer_filament_change": 0,
+            "main_predication": 4016.94482421875,
+            "make_perimeters_time": 305,
+            "obj_cached_cnt": 0,
+            "objects": [
+              {
+                "bbox": {
+                  "depth": 22.149999618530273,
+                  "height": 76.19999694824219,
+                  "width": 29.20000457763672,
+                  "x": 113.39998626708984,
+                  "y": 116.92501068115234,
+                  "z": 0.0
+                },
+                "id": 5,
+                "name": "closure_right.stl",
+                "triangle_count": 5692
+              }
+            ],
+            "sliced_time": 1860,
+            "sliced_time_with_cache": 1026,
+            "total_predication": 4036.733154296875,
+            "triangle_count": 5692,
+            "warning_message": ""
+          }
+        ],
+        "sparse_infill_density": 99.0,
+        "wall_loops": 6
+      },
+      "passed": true,
+      "project": "print\\r2\\closure_right\\closure_right.3mf"
+    }
+  ],
+  "settings_sha256": {
+    "machine.json": "3210f0236111d1992bf6bf3ba28f228ee51459eb4730a682a6c70d2d19a1948e",
+    "process.json": "c1752dcd3f27bf92ba39c4864b6d0196ec0593e51c36f5e3fddfc0d43c9609f6",
+    "filament.json": "6cdcb4d28aba27fd4d28ba9ad3ac09f3cf73cf47b592bbdd4a5979903e2f7989"
+  },
+  "scope": "Actual Bambu slice/fit, not impact strength or print quality qualification"
+}

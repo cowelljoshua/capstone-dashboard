@@ -1,0 +1,493 @@
+{
+  "case": "cap-nested-v1",
+  "execution_status": "stopped_early",
+  "qualification": "Intentionally stopped; not a mesh qualification. Startup-only added mass audit.",
+  "sample_time_s": 0.0,
+  "regions": {
+    "body_with_motor_masses": {
+      "physical_nodal_mass_kg": 0.5778759828917694,
+      "structural_nodal_mass_kg": 0.4162503828917694,
+      "added_mass_kg": 3.0959540411002295e-06,
+      "added_fraction_of_local_physical_mass": 5.35747138271374e-06,
+      "share_of_global_added_mass": 0.0011554045569431902,
+      "nodes": 15734,
+      "nodes_with_added_mass": 21,
+      "max_nodal_added_fraction": 0.09682528150672287,
+      "worst_nodes": [
+        {
+          "id": 13062,
+          "xyz_m": [
+            0.17,
+            0.003171572875,
+            0.02176660156
+          ],
+          "physical_mass_kg": 3.812053291567731e-06,
+          "added_mass_kg": 3.691031330746751e-07,
+          "ratio": 0.09682528150672287
+        },
+        {
+          "id": 6182,
+          "xyz_m": [
+            0.1695899907,
+            0.003297320748,
+            0.0178523917
+          ],
+          "physical_mass_kg": 1.040965997917454e-05,
+          "added_mass_kg": 3.6910313307467424e-07,
+          "ratio": 0.03545775114778948
+        },
+        {
+          "id": 3262,
+          "xyz_m": [
+            0.1674457727,
+            0.003072044296,
+            0.02360189875
+          ],
+          "physical_mass_kg": 1.9850798408588837e-05,
+          "added_mass_kg": 3.6910313307467763e-07,
+          "ratio": 0.01859386839145865
+        },
+        {
+          "id": 3313,
+          "xyz_m": [
+            0.1142500001,
+            -0.01825,
+            0.06004642659
+          ],
+          "physical_mass_kg": 9.971381386700035e-06,
+          "added_mass_kg": 1.7876542092661446e-07,
+          "ratio": 0.01792784911076155
+        },
+        {
+          "id": 5600,
+          "xyz_m": [
+            0.11075,
+            -0.015875,
+            0.060325
+          ],
+          "physical_mass_kg": 1.2499693484156695e-05,
+          "added_mass_kg": 1.7876542092661615e-07,
+          "ratio": 0.014301584367104722
+        }
+      ]
+    },
+    "cap_all": {
+      "physical_nodal_mass_kg": 0.07249039158283299,
+      "structural_nodal_mass_kg": 0.07249039158283299,
+      "added_mass_kg": 0.002676445183732389,
+      "added_fraction_of_local_physical_mass": 0.03692137847916135,
+      "share_of_global_added_mass": 0.9988445954430569,
+      "nodes": 50546,
+      "nodes_with_added_mass": 45786,
+      "max_nodal_added_fraction": 522.3871591725449,
+      "worst_nodes": [
+        {
+          "id": 66133,
+          "xyz_m": [
+            -0.0842366246,
+            0.000831493718,
+            0.02208214115
+          ],
+          "physical_mass_kg": 2.7979775727718427e-10,
+          "added_mass_kg": 1.4616275556687754e-07,
+          "ratio": 522.3871591725449
+        },
+        {
+          "id": 65376,
+          "xyz_m": [
+            -0.08421116005,
+            0.0009265187216,
+            0.02218102371
+          ],
+          "physical_mass_kg": 5.595954827104193e-10,
+          "added_mass_kg": 2.8336688304141075e-07,
+          "ratio": 506.3780745136001
+        },
+        {
+          "id": 65373,
+          "xyz_m": [
+            -0.0842387611,
+            0.000980321843,
+            0.02216737275
+          ],
+          "physical_mass_kg": 1.2435455491119996e-09,
+          "added_mass_kg": 3.6789563516231994e-07,
+          "ratio": 295.84411718978015
+        },
+        {
+          "id": 66275,
+          "xyz_m": [
+            -0.08426825701,
+            0.001633631211,
+            0.02233188455
+          ],
+          "physical_mass_kg": 5.59595467265664e-10,
+          "added_mass_kg": 1.1998244221507912e-07,
+          "ratio": 214.40924602435763
+        },
+        {
+          "id": 65372,
+          "xyz_m": [
+            -0.0842524408,
+            0.001232562464,
+            0.02220701285
+          ],
+          "physical_mass_kg": 1.0725580089568722e-09,
+          "added_mass_kg": 1.9388559062959844e-07,
+          "ratio": 180.76932810204266
+        }
+      ]
+    },
+    "central_lower_rail_nodes": {
+      "physical_nodal_mass_kg": 0.004632053966807264,
+      "structural_nodal_mass_kg": 0.004632053966807264,
+      "added_mass_kg": 0.0012187728355693153,
+      "added_fraction_of_local_physical_mass": 0.2631171493905065,
+      "share_of_global_added_mass": 0.45484386053577447,
+      "nodes": 23173,
+      "nodes_with_added_mass": 22009,
+      "max_nodal_added_fraction": 522.3871591725449,
+      "worst_nodes": [
+        {
+          "id": 66133,
+          "xyz_m": [
+            -0.0842366246,
+            0.000831493718,
+            0.02208214115
+          ],
+          "physical_mass_kg": 2.7979775727718427e-10,
+          "added_mass_kg": 1.4616275556687754e-07,
+          "ratio": 522.3871591725449
+        },
+        {
+          "id": 65376,
+          "xyz_m": [
+            -0.08421116005,
+            0.0009265187216,
+            0.02218102371
+          ],
+          "physical_mass_kg": 5.595954827104193e-10,
+          "added_mass_kg": 2.8336688304141075e-07,
+          "ratio": 506.3780745136001
+        },
+        {
+          "id": 65373,
+          "xyz_m": [
+            -0.0842387611,
+            0.000980321843,
+            0.02216737275
+          ],
+          "physical_mass_kg": 1.2435455491119996e-09,
+          "added_mass_kg": 3.6789563516231994e-07,
+          "ratio": 295.84411718978015
+        },
+        {
+          "id": 66275,
+          "xyz_m": [
+            -0.08426825701,
+            0.001633631211,
+            0.02233188455
+          ],
+          "physical_mass_kg": 5.59595467265664e-10,
+          "added_mass_kg": 1.1998244221507912e-07,
+          "ratio": 214.40924602435763
+        },
+        {
+          "id": 65372,
+          "xyz_m": [
+            -0.0842524408,
+            0.001232562464,
+            0.02220701285
+          ],
+          "physical_mass_kg": 1.0725580089568722e-09,
+          "added_mass_kg": 1.9388559062959844e-07,
+          "ratio": 180.76932810204266
+        }
+      ]
+    },
+    "central_upper_rail_nodes": {
+      "physical_nodal_mass_kg": 0.004633836786953323,
+      "structural_nodal_mass_kg": 0.004633836786953323,
+      "added_mass_kg": 0.0014362346219692335,
+      "added_fraction_of_local_physical_mass": 0.3099450170564889,
+      "share_of_global_added_mass": 0.5360002135151558,
+      "nodes": 24381,
+      "nodes_with_added_mass": 23401,
+      "max_nodal_added_fraction": 180.29909629578972,
+      "worst_nodes": [
+        {
+          "id": 59537,
+          "xyz_m": [
+            0.06958780227,
+            0.0008062044239,
+            0.05192583699
+          ],
+          "physical_mass_kg": 1.6231734098099577e-09,
+          "added_mass_kg": 2.9265669892009093e-07,
+          "ratio": 180.29909629578972
+        },
+        {
+          "id": 65892,
+          "xyz_m": [
+            0.0707634068,
+            0.001624863272,
+            0.0518878098
+          ],
+          "physical_mass_kg": 6.086900637437125e-10,
+          "added_mass_kg": 1.0182696639553553e-07,
+          "ratio": 167.28869495462888
+        },
+        {
+          "id": 65891,
+          "xyz_m": [
+            0.07060120906,
+            0.001538098946,
+            0.05187278624
+          ],
+          "physical_mass_kg": 1.2173801757535744e-09,
+          "added_mass_kg": 1.583546708683064e-07,
+          "ratio": 130.07824016050103
+        },
+        {
+          "id": 66160,
+          "xyz_m": [
+            0.02612423794,
+            0.0004464207946,
+            0.05203703212
+          ],
+          "physical_mass_kg": 3.3650791270891065e-09,
+          "added_mass_kg": 3.1224804799935373e-07,
+          "ratio": 92.79070007172686
+        },
+        {
+          "id": 59536,
+          "xyz_m": [
+            0.07017560453,
+            0.001215533848,
+            0.0519068234
+          ],
+          "physical_mass_kg": 2.1304152851736188e-09,
+          "added_mass_kg": 1.9491872790366323e-07,
+          "ratio": 91.49330145168305
+        }
+      ]
+    },
+    "central_rails_combined": {
+      "physical_nodal_mass_kg": 0.009265890753760588,
+      "structural_nodal_mass_kg": 0.009265890753760588,
+      "added_mass_kg": 0.0026550074575385487,
+      "added_fraction_of_local_physical_mass": 0.2865355882229678,
+      "share_of_global_added_mass": 0.9908440740509302,
+      "nodes": 47554,
+      "nodes_with_added_mass": 45410,
+      "max_nodal_added_fraction": 522.3871591725449,
+      "worst_nodes": [
+        {
+          "id": 66133,
+          "xyz_m": [
+            -0.0842366246,
+            0.000831493718,
+            0.02208214115
+          ],
+          "physical_mass_kg": 2.7979775727718427e-10,
+          "added_mass_kg": 1.4616275556687754e-07,
+          "ratio": 522.3871591725449
+        },
+        {
+          "id": 65376,
+          "xyz_m": [
+            -0.08421116005,
+            0.0009265187216,
+            0.02218102371
+          ],
+          "physical_mass_kg": 5.595954827104193e-10,
+          "added_mass_kg": 2.8336688304141075e-07,
+          "ratio": 506.3780745136001
+        },
+        {
+          "id": 65373,
+          "xyz_m": [
+            -0.0842387611,
+            0.000980321843,
+            0.02216737275
+          ],
+          "physical_mass_kg": 1.2435455491119996e-09,
+          "added_mass_kg": 3.6789563516231994e-07,
+          "ratio": 295.84411718978015
+        },
+        {
+          "id": 66275,
+          "xyz_m": [
+            -0.08426825701,
+            0.001633631211,
+            0.02233188455
+          ],
+          "physical_mass_kg": 5.59595467265664e-10,
+          "added_mass_kg": 1.1998244221507912e-07,
+          "ratio": 214.40924602435763
+        },
+        {
+          "id": 65372,
+          "xyz_m": [
+            -0.0842524408,
+            0.001232562464,
+            0.02220701285
+          ],
+          "physical_mass_kg": 1.0725580089568722e-09,
+          "added_mass_kg": 1.9388559062959844e-07,
+          "ratio": 180.76932810204266
+        }
+      ]
+    },
+    "cap_outside_selected_rails": {
+      "physical_nodal_mass_kg": 0.06322450082907238,
+      "structural_nodal_mass_kg": 0.06322450082907238,
+      "added_mass_kg": 2.143772619383989e-05,
+      "added_fraction_of_local_physical_mass": 0.00033907307946640563,
+      "share_of_global_added_mass": 0.008000521392126541,
+      "nodes": 2992,
+      "nodes_with_added_mass": 376,
+      "max_nodal_added_fraction": 13.425125228403,
+      "worst_nodes": [
+        {
+          "id": 65607,
+          "xyz_m": [
+            0.08609255577,
+            0.0009657785242,
+            0.05349703984
+          ],
+          "physical_mass_kg": 1.0821538791883326e-08,
+          "added_mass_kg": 1.4528051344505456e-07,
+          "ratio": 13.425125228403
+        },
+        {
+          "id": 65602,
+          "xyz_m": [
+            0.08644548973,
+            0.001327945471,
+            0.05334902123
+          ],
+          "physical_mass_kg": 1.9978225644062404e-08,
+          "added_mass_kg": 2.2881877274835776e-07,
+          "ratio": 11.453408166723928
+        },
+        {
+          "id": 65603,
+          "xyz_m": [
+            0.08621020042,
+            0.00108650084,
+            0.0534477003
+          ],
+          "physical_mass_kg": 1.4983668825159288e-08,
+          "added_mass_kg": 1.5198680453110853e-07,
+          "ratio": 10.14349731728623
+        },
+        {
+          "id": 65604,
+          "xyz_m": [
+            0.08625060279,
+            0.001051792786,
+            0.05354995868
+          ],
+          "physical_mass_kg": 1.3318817040072137e-08,
+          "added_mass_kg": 1.241856183718039e-07,
+          "ratio": 9.324072700913932
+        },
+        {
+          "id": 62313,
+          "xyz_m": [
+            -0.08652245427,
+            0.001207399986,
+            0.02338381976
+          ],
+          "physical_mass_kg": 4.560333162109371e-08,
+          "added_mass_kg": 2.607892435838749e-07,
+          "ratio": 5.7186445444535785
+        }
+      ]
+    },
+    "moving_all": {
+      "physical_nodal_mass_kg": 0.6503663744746025,
+      "structural_nodal_mass_kg": 0.48874077447460246,
+      "added_mass_kg": 0.002679541137773489,
+      "added_fraction_of_local_physical_mass": 0.004120048703222322,
+      "share_of_global_added_mass": 1.0,
+      "nodes": 66280,
+      "nodes_with_added_mass": 45807,
+      "max_nodal_added_fraction": 522.3871591725449,
+      "worst_nodes": [
+        {
+          "id": 66133,
+          "xyz_m": [
+            -0.0842366246,
+            0.000831493718,
+            0.02208214115
+          ],
+          "physical_mass_kg": 2.7979775727718427e-10,
+          "added_mass_kg": 1.4616275556687754e-07,
+          "ratio": 522.3871591725449
+        },
+        {
+          "id": 65376,
+          "xyz_m": [
+            -0.08421116005,
+            0.0009265187216,
+            0.02218102371
+          ],
+          "physical_mass_kg": 5.595954827104193e-10,
+          "added_mass_kg": 2.8336688304141075e-07,
+          "ratio": 506.3780745136001
+        },
+        {
+          "id": 65373,
+          "xyz_m": [
+            -0.0842387611,
+            0.000980321843,
+            0.02216737275
+          ],
+          "physical_mass_kg": 1.2435455491119996e-09,
+          "added_mass_kg": 3.6789563516231994e-07,
+          "ratio": 295.84411718978015
+        },
+        {
+          "id": 66275,
+          "xyz_m": [
+            -0.08426825701,
+            0.001633631211,
+            0.02233188455
+          ],
+          "physical_mass_kg": 5.59595467265664e-10,
+          "added_mass_kg": 1.1998244221507912e-07,
+          "ratio": 214.40924602435763
+        },
+        {
+          "id": 65372,
+          "xyz_m": [
+            -0.0842524408,
+            0.001232562464,
+            0.02220701285
+          ],
+          "physical_mass_kg": 1.0725580089568722e-09,
+          "added_mass_kg": 1.9388559062959844e-07,
+          "ratio": 180.76932810204266
+        }
+      ]
+    }
+  },
+  "global_binary_added_kg": 0.002679541137773489,
+  "reported_added_kg": 0.0026795,
+  "binary_reported_relative_difference": 1.5352779805466454e-05,
+  "unchanged_global_added_mass_limit_fraction": 0.001,
+  "global_gate_passed": false,
+  "region_definition": "Original cap nodes with |X| <= 86 mm and Z in 20\u201328 mm or 48\u201356 mm; nodal lumped-mass control volumes, not clipped exact geometric volumes.",
+  "local_mass_limits": {
+    "adopted_global_limit_fraction": 0.001,
+    "separate_adopted_local_limit": null,
+    "reason": "No prior local acceptance threshold is defined. Regional values and maximum nodal ratios are reported without retroactively relaxing or creating an acceptance gate.",
+    "fixed_shape_modal_added_mass_formula": "r_mode = sum(delta_m_i * |phi_i|^2) / sum(m_i * |phi_i|^2). With unchanged stiffness and fixed shape, omega_scaled / omega_physical = 1/sqrt(1+r_mode).",
+    "selected_rail_max_nodal_ratio_bound": 522.3871591725449,
+    "selected_rail_fixed_shape_frequency_reduction_upper_bound": 0.956289228863423,
+    "uniform_amplitude_rail_frequency_reduction_illustration": 0.1183644417162878,
+    "limits": "The maximum nodal bound applies to a fixed mode supported on the selected rail nodes; it is conservative and is not a computed eigenfrequency. Regional mean-mass estimates assume equal nodal motion amplitude and do not validate weak modes. Actual mode shape weighting or lower-scaling sensitivity is needed for a tighter claim."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "status": "completed_unassessed",
+  "run_directory": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\offset_clamshell_impact_20260922\\cases\\clamshell-3mm-v1\\runs\\solve",
+  "execution": {
+    "status": "process_exited_zero",
+    "started_at": "2026-09-23T03:30:12.491026+00:00",
+    "finished_at": "2026-09-23T04:21:33.138182+00:00",
+    "duration_seconds": 3080.6399999999994,
+    "exit_code": 0,
+    "process_id": 46048,
+    "timed_out": false,
+    "cancelled": false,
+    "termination_state": "normal_termination_confirmed",
+    "termination_evidence_sources": [
+      "d3hsp",
+      "messag",
+      "stdout.log"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "process_exit_and_termination_evidence_are_distinct": true,
+    "physics_validated": false,
+    "results_interpreted": false
+  },
+  "requested_time_s": 0.008,
+  "reached_time_s": 0.00799992
+}

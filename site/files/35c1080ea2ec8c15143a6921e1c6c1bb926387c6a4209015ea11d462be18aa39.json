@@ -1,0 +1,129 @@
+{
+  "status": "pre_solve_setup_verified",
+  "source_sha256": {
+    "Pusher_Impact_Lower": "41acda1085a2c240bbbd2bc102b7c14ae152732630b5f706da61fc3d1c2f73dd",
+    "Pusher_Impact_Upper": "ed0a538fb968ccc2caab71e17c8418a843fadbdc27007f0fc807c45e97838b54",
+    "Pusher_Impact_Clamshell": "21ccd9727da000b672574c62ef6d60820cfa0922b172546def2f64b65bf4d6bb"
+  },
+  "mesh_sha256": {
+    "nodes.csv": "9cd560bf6afd8a622ada76f2ce018fd83a718cc6e06f02a6fa822eb6b6f84354",
+    "elements.csv": "6ad09079f80742d270ebdc4de239b102ccddfe0de827eac0bafacb58554e9dcb"
+  },
+  "deck_sha256": "9d3be2e5ab8830c2357a436b5bd417acb04af6e4265160b9d5ba3f88d318ea9a",
+  "mesh_topology": {
+    "node_count": 40753,
+    "tetra_count": 149231,
+    "part_count": 2,
+    "part_volumes_m3": {
+      "1": 0.00027270859294365927,
+      "2": 0.0002726816259241895
+    },
+    "bounds_m": [
+      [
+        -0.175000000012,
+        -0.02225,
+        0.0
+      ],
+      [
+        0.175000000012,
+        0.02225,
+        0.0762
+      ]
+    ],
+    "nonpositive_tetra_count": 0,
+    "shared_nodes_between_halves": 0,
+    "mean_ratio_min": 0.10647485111260775,
+    "mean_ratio_mean": 0.8235158332951914,
+    "mean_ratio_below_0_1": 0,
+    "duplicate_tetra_count": 0,
+    "nonmanifold_face_count": 0,
+    "unused_node_count": 0,
+    "topology_valid": true,
+    "quality_note": "Mean ratio is a shape diagnostic; no convergence or stress accuracy is inferred."
+  },
+  "component_volume_errors": [
+    {
+      "component": 1,
+      "name": "Pusher_Impact_Lower",
+      "nodes": 20417,
+      "elements": 74806,
+      "cad_volume_m3": 0.00027138123267046597,
+      "mesh_volume_m3": 0.00027270859294365927,
+      "relative_volume_error": 0.004891127732495448,
+      "minimum_tetrahedron_volume_m3": 8.904916396596311e-11,
+      "all_positive": true
+    },
+    {
+      "component": 2,
+      "name": "Pusher_Impact_Upper",
+      "nodes": 20336,
+      "elements": 74425,
+      "cad_volume_m3": 0.00027138123670791803,
+      "mesh_volume_m3": 0.0002726816259241895,
+      "relative_volume_error": 0.0047917432761610534,
+      "minimum_tetrahedron_volume_m3": 8.324737339301337e-11,
+      "all_positive": true
+    }
+  ],
+  "bolt_groups": [
+    {
+      "x_mm": -112.5,
+      "z_mm": 7.9375,
+      "lower_nodes": 14,
+      "upper_nodes": 14
+    },
+    {
+      "x_mm": -112.5,
+      "z_mm": 68.2625,
+      "lower_nodes": 14,
+      "upper_nodes": 14
+    },
+    {
+      "x_mm": 112.5,
+      "z_mm": 7.9375,
+      "lower_nodes": 14,
+      "upper_nodes": 14
+    },
+    {
+      "x_mm": 112.5,
+      "z_mm": 68.2625,
+      "lower_nodes": 14,
+      "upper_nodes": 14
+    }
+  ],
+  "motor_groups": [
+    {
+      "x_mm": -133.25,
+      "shell_part": 1,
+      "attachment_nodes": 978,
+      "mass_kg": 0.0808
+    },
+    {
+      "x_mm": 133.25,
+      "shell_part": 2,
+      "attachment_nodes": 973,
+      "mass_kg": 0.0808
+    }
+  ],
+  "impact_patches": [
+    {
+      "shell_part": 1,
+      "spreader_center_x_mm": -152.3825,
+      "front_contact_nodes": 320,
+      "initial_front_gap_mm": 0.1
+    },
+    {
+      "shell_part": 2,
+      "spreader_center_x_mm": 152.3825,
+      "front_contact_nodes": 321,
+      "initial_front_gap_mm": 0.1
+    }
+  ],
+  "guide_equation_count": 8,
+  "shared_seam_node_count": 0,
+  "initial_clearance_mm": 0.1,
+  "limitations": [
+    "Nodal contact patch count verifies engagement, not exact contact area or pressure.",
+    "The ideal clamped bolt collars do not verify bolt preload, slip or strength."
+  ]
+}

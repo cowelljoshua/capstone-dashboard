@@ -1,0 +1,63 @@
+{
+  "case": "foam-coupon-v3",
+  "checks": {
+    "requested_time_reached": true,
+    "hold_strains_correct": true,
+    "held_loading_curve_within_3pct": true,
+    "reaction_element_agree_within_1pct": true,
+    "unloading_below_loading_at_40pct": true,
+    "energy_error_below_1pct_work": true
+  },
+  "passed": true,
+  "samples": [
+    {
+      "requested_time_s": 0.0049,
+      "actual_time_s": 0.004899,
+      "expected_strain": 0.25,
+      "measured_strain": 0.25,
+      "expected_nominal_stress_Pa": 303370.0,
+      "element_compression_stress_Pa": 303390.0,
+      "reaction_nominal_stress_Pa": 303390.0,
+      "element_curve_relative_error": 6.59260968454145e-05,
+      "reaction_curve_relative_error": 6.59260968454145e-05,
+      "reaction_element_relative_difference": 0.0
+    },
+    {
+      "requested_time_s": 0.0099,
+      "actual_time_s": 0.0099,
+      "expected_strain": 0.65,
+      "measured_strain": 0.6499999999999999,
+      "expected_nominal_stress_Pa": 1400000.0,
+      "element_compression_stress_Pa": 1401000.0,
+      "reaction_nominal_stress_Pa": 1400999.9999999998,
+      "element_curve_relative_error": 0.0007142857142856673,
+      "reaction_curve_relative_error": 0.0007142857142854453,
+      "reaction_element_relative_difference": 1.6630760260990688e-16
+    }
+  ],
+  "loading_40pct": {
+    "time_s": 0.006499,
+    "compression_stress_Pa": 466430.0,
+    "reported_stress_rows": 1
+  },
+  "unloading_40pct": {
+    "time_s": 0.01154,
+    "compression_stress_Pa": 231810.0,
+    "reported_stress_rows": 1
+  },
+  "energy_error_fraction_external_work": 0.0006962935264043338,
+  "max_external_work_J": 0.310214,
+  "scope": "Loading/unloading implementation and independent reaction verification only; no product, high-rate or contact validation.",
+  "unloading_assumption": "MAT057 HU=.05 SHAPE=1 BETA=0 DAMP=.1. Reload follows unloading branch; no recovery to virgin curve. No failure/deletion.",
+  "inputs_sha256": {
+    "input.k": "aaaeeb8bfb3d18c601c6c798f22cc58cd5f8501a6150d38b4679fa77dd0eb38e",
+    "model.json": "c8ad1081b0f02da308be64e57e5dd5f521e64a96fa564dc7d8e7d45301ca5ee1"
+  },
+  "source_paths": {
+    "elout": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\compliant_stop_340\\cases\\foam-coupon-v3\\runs\\solve\\elout",
+    "spcforc": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\compliant_stop_340\\cases\\foam-coupon-v3\\runs\\solve\\spcforc",
+    "nodout": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\compliant_stop_340\\cases\\foam-coupon-v3\\runs\\solve\\nodout",
+    "glstat": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\compliant_stop_340\\cases\\foam-coupon-v3\\runs\\solve\\glstat",
+    "termination.json": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\compliant_stop_340\\cases\\foam-coupon-v3\\runs\\solve\\termination.json"
+  }
+}

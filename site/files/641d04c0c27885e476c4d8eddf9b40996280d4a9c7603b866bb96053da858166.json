@@ -1,0 +1,22 @@
+{
+  "case": "stem-5p5-5mm-v1",
+  "peaks": {
+    "Pusher to spreaders": {
+      "maximum_positive_force_N": 98449.1,
+      "time_s": 5.99526e-05,
+      "sampling": "native ASCII timestamps; no binary interpolation"
+    },
+    "Spreaders to foam": {
+      "maximum_positive_force_N": 16181.0,
+      "time_s": 0.00457994,
+      "sampling": "native ASCII timestamps; no binary interpolation"
+    },
+    "Fixed backing": {
+      "maximum_positive_force_N": 17007.882000000038,
+      "time_s": 0.00511005,
+      "sampling": "native ASCII timestamps; no binary interpolation"
+    }
+  },
+  "interpretation": "Initially stationary spreaders carry inertia; contact and backing peaks need not coincide.",
+  "scope": "Signed +Z contact surface-A resultants and fixed-backing SPC reaction; numerical force path only."
+}

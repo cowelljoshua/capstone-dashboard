@@ -1,0 +1,226 @@
+{
+  "status": "screen_failed",
+  "passed": false,
+  "comparison_ready": false,
+  "cases": [
+    "clamshell-4mm-v1",
+    "clamshell-3mm-v1"
+  ],
+  "problems": [],
+  "metrics": [
+    {
+      "metric": "Printed pusher mass",
+      "coarse": 0.5797749375819864,
+      "fine": 0.5781136319999194,
+      "relative_change": 0.002865431867399548,
+      "screen_tolerance": 0.01,
+      "passed": true
+    },
+    {
+      "metric": "Peak stopping force",
+      "coarse": 251546.0,
+      "fine": 255259.0,
+      "relative_change": 0.01476071970931758,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "First stop travel",
+      "coarse": 0.12264619652453573,
+      "fine": 0.1227703897610371,
+      "relative_change": 0.0010126138438913879,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "First stop time",
+      "coarse": 0.005272747558893482,
+      "fine": 0.005261016580017076,
+      "relative_change": 0.002224832261620295,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "Maximum moving travel",
+      "coarse": 0.12264629172309335,
+      "fine": 0.12277048453224998,
+      "relative_change": 0.0010126095735289258,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "Maximum nonrigid deformation",
+      "coarse": 0.0070888603386386265,
+      "fine": 0.007380590926237657,
+      "relative_change": 0.04115338343018559,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "Maximum nonrigid RMS",
+      "coarse": 0.0027068543407619814,
+      "fine": 0.002790967099553087,
+      "relative_change": 0.03107398781104253,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "Left foam compression",
+      "coarse": 0.6058047461682158,
+      "fine": 0.6053589609458452,
+      "relative_change": 0.0007358562724875311,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "Right foam compression",
+      "coarse": 0.6055044568062089,
+      "fine": 0.6054794802528437,
+      "relative_change": 4.124916519514671e-05,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "lower_shell P95",
+      "coarse": 72.72113090910126,
+      "fine": 72.69716008835735,
+      "relative_change": 0.00032962662219699056,
+      "screen_tolerance": 0.1,
+      "passed": true
+    },
+    {
+      "metric": "lower_shell P99",
+      "coarse": 107.31072071159024,
+      "fine": 108.89188175604221,
+      "relative_change": 0.014734418275891786,
+      "screen_tolerance": 0.1,
+      "passed": true
+    },
+    {
+      "metric": "upper_shell P95",
+      "coarse": 72.98046409763413,
+      "fine": 72.51977500599114,
+      "relative_change": 0.006312498794563366,
+      "screen_tolerance": 0.1,
+      "passed": true
+    },
+    {
+      "metric": "upper_shell P99",
+      "coarse": 107.74633106544267,
+      "fine": 108.29236783170673,
+      "relative_change": 0.005067799161833194,
+      "screen_tolerance": 0.1,
+      "passed": true
+    },
+    {
+      "metric": "pad_root P95",
+      "coarse": 93.92771053321965,
+      "fine": 94.96653357241026,
+      "relative_change": 0.011059814332674492,
+      "screen_tolerance": 0.1,
+      "passed": true
+    },
+    {
+      "metric": "pad_root P99",
+      "coarse": 119.8164622464567,
+      "fine": 117.51217902634384,
+      "relative_change": 0.019231774807146707,
+      "screen_tolerance": 0.1,
+      "passed": true
+    },
+    {
+      "metric": "body P95",
+      "coarse": 54.17758885930256,
+      "fine": 55.01258009057865,
+      "relative_change": 0.015412115024988233,
+      "screen_tolerance": 0.1,
+      "passed": true
+    },
+    {
+      "metric": "body P99",
+      "coarse": 100.77029511024574,
+      "fine": 100.38552081935597,
+      "relative_change": 0.003818330495795523,
+      "screen_tolerance": 0.1,
+      "passed": true
+    },
+    {
+      "metric": "Central seam maximum opening",
+      "coarse": 9.87783168583444,
+      "fine": 10.363542001028444,
+      "relative_change": 0.0491717545552582,
+      "screen_tolerance": 0.05,
+      "passed": true
+    },
+    {
+      "metric": "Bolt-collar mean relative motion",
+      "coarse": 0.15629577065359074,
+      "fine": 0.2475285255452002,
+      "relative_change": 0.583718641330449,
+      "screen_tolerance": 0.05,
+      "passed": false
+    }
+  ],
+  "numerical_checks": {
+    "clamshell-4mm-v1": {
+      "normal_termination": true,
+      "requested_time_reached": true,
+      "binary_matches_nodout": true,
+      "moving_mass_consistent": true,
+      "initial_energy_error_below_0p5pct": true,
+      "energy_balance_error_below_5pct": true,
+      "hourglass_below_5pct_initial_energy": true,
+      "sum_abs_nonfriction_contact_energy_below_5pct_initial_energy": true,
+      "contact_impulse_momentum_error_below_5pct": true,
+      "no_axial_spc_on_moving_or_guide_nodes": true,
+      "rigid_guides_leave_only_axial_translation_free": true,
+      "no_prescribed_motion": true,
+      "no_detected_deletion": true,
+      "positive_sampled_foam_jacobians": true,
+      "first_stop_captured": true,
+      "foam_compression_below_80pct": true,
+      "mass_scaling_disabled_or_quantified_below_0p1pct_moving_mass": true,
+      "all_transverse_guide_equations_satisfied_and_no_axial_equation": true
+    },
+    "clamshell-3mm-v1": {
+      "normal_termination": true,
+      "requested_time_reached": true,
+      "binary_matches_nodout": true,
+      "moving_mass_consistent": true,
+      "initial_energy_error_below_0p5pct": true,
+      "energy_balance_error_below_5pct": true,
+      "hourglass_below_5pct_initial_energy": true,
+      "sum_abs_nonfriction_contact_energy_below_5pct_initial_energy": true,
+      "contact_impulse_momentum_error_below_5pct": true,
+      "no_axial_spc_on_moving_or_guide_nodes": true,
+      "rigid_guides_leave_only_axial_translation_free": true,
+      "no_prescribed_motion": true,
+      "no_detected_deletion": true,
+      "positive_sampled_foam_jacobians": true,
+      "first_stop_captured": true,
+      "foam_compression_below_80pct": true,
+      "mass_scaling_disabled_or_quantified_below_0p1pct_moving_mass": true,
+      "all_transverse_guide_equations_satisfied_and_no_axial_equation": true
+    }
+  },
+  "source_geometry_sha256": {
+    "Pusher_Impact_Lower": "41acda1085a2c240bbbd2bc102b7c14ae152732630b5f706da61fc3d1c2f73dd",
+    "Pusher_Impact_Upper": "ed0a538fb968ccc2caab71e17c8418a843fadbdc27007f0fc807c45e97838b54",
+    "Pusher_Impact_Clamshell": "21ccd9727da000b672574c62ef6d60820cfa0922b172546def2f64b65bf4d6bb"
+  },
+  "evidence_sha256": {
+    "clamshell-4mm-v1": {
+      "input.k": "c3dbb04de2ed3882794973e056f9fb13e38c0279c0d37bf8aceeef8074cec581",
+      "model.json": "2b983604b9bc606480e39abe13e4d20d726a206b4b5bd6e6a0990ac019824126",
+      "execution.json": "6a507da59c7548e8b4766da0fdb39538f3ef8587efb021a758b6abb6f51ae3e0",
+      "assessment/metrics.json": "b68cf2db09afdee95ef134ecc79789506901b70b18dec5134b38225e6c3d94a7"
+    },
+    "clamshell-3mm-v1": {
+      "input.k": "9d3be2e5ab8830c2357a436b5bd417acb04af6e4265160b9d5ba3f88d318ea9a",
+      "model.json": "fc0110fbed660b89d7be7401f1b94bfb689ce96626333a82be738379b7e8523f",
+      "execution.json": "b33c493c6a31a03810609db4e0ae55e28b0289083def90cec9d6c1b7732d7a97",
+      "assessment/metrics.json": "88363f8ab8bd8cfa104f5821e33b6bfbf8f588c33eaf1c2837efb2e0f1031d35"
+    }
+  },
+  "scope": "Same supplied two-shell CAD, reference fixture and solver controls; first-order 4 mm versus 3 mm pusher mesh. Chosen 5% global and 10% regional-stress screens. A pass is not universal convergence, seam contact validation, or material strength qualification."
+}

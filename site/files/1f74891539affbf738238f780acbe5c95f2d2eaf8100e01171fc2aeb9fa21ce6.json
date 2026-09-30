@@ -1,0 +1,424 @@
+{
+  "saved_state_localization": [
+    {
+      "time_s": 0.00018998401589145848,
+      "max_node_speed_m_s": 2817.4521214458387,
+      "minimum_volume_ratio": 0.5240327321423441,
+      "negative_tets": 0,
+      "closing_tets": [
+        {
+          "eid": 284049,
+          "part": 2,
+          "linear_time_to_zero_s": 1.1397053391585302e-07,
+          "volume_ratio": 1.5234906871082425,
+          "initial_centroid_m": [
+            0.0979057917675,
+            0.00039608685077499996,
+            0.07318762250000001
+          ],
+          "node_ids": [
+            69975,
+            16024,
+            59602,
+            15976
+          ],
+          "node_speeds_m_s": [
+            422.0715261416024,
+            2817.4521214458387,
+            2497.8788053416174,
+            635.4557516230083
+          ]
+        },
+        {
+          "eid": 271059,
+          "part": 2,
+          "linear_time_to_zero_s": 2.474327653421513e-07,
+          "volume_ratio": 1.8343822181846672,
+          "initial_centroid_m": [
+            0.09749715007000001,
+            0.000197649350775,
+            0.07318762250000001
+          ],
+          "node_ids": [
+            59602,
+            16024,
+            69975,
+            16023
+          ],
+          "node_speeds_m_s": [
+            2497.8788053416174,
+            2817.4521214458387,
+            422.0715261416024,
+            82.06641978983787
+          ]
+        },
+        {
+          "eid": 248532,
+          "part": 2,
+          "linear_time_to_zero_s": 3.3779962928194963e-07,
+          "volume_ratio": 1.5165699271194837,
+          "initial_centroid_m": [
+            0.0978633446575,
+            9.8430600775e-05,
+            0.0737837599575
+          ],
+          "node_ids": [
+            16024,
+            22236,
+            69975,
+            59265
+          ],
+          "node_speeds_m_s": [
+            2817.4521214458387,
+            139.9027947025134,
+            422.0715261416024,
+            507.6687285542194
+          ]
+        },
+        {
+          "eid": 282421,
+          "part": 2,
+          "linear_time_to_zero_s": 4.07553650313836e-07,
+          "volume_ratio": 0.5240327321423441,
+          "initial_centroid_m": [
+            0.0976345589525,
+            0.00019707665277499998,
+            0.07412682756
+          ],
+          "node_ids": [
+            69975,
+            70504,
+            59265,
+            22236
+          ],
+          "node_speeds_m_s": [
+            422.0715261416024,
+            237.37952665243657,
+            507.6687285542194,
+            139.9027947025134
+          ]
+        },
+        {
+          "eid": 284000,
+          "part": 2,
+          "linear_time_to_zero_s": 5.832043309695729e-07,
+          "volume_ratio": 0.874050470968892,
+          "initial_centroid_m": [
+            0.097536946335,
+            0.000594524350775,
+            0.07318762250000001
+          ],
+          "node_ids": [
+            15977,
+            15976,
+            69975,
+            59602
+          ],
+          "node_speeds_m_s": [
+            106.18328044888425,
+            635.4557516230083,
+            422.0715261416024,
+            2497.8788053416174
+          ]
+        }
+      ]
+    },
+    {
+      "time_s": 0.00019071962755046879,
+      "max_node_speed_m_s": 10856.198610488338,
+      "minimum_volume_ratio": 0.3790180341013696,
+      "negative_tets": 0,
+      "closing_tets": [
+        {
+          "eid": 271059,
+          "part": 2,
+          "linear_time_to_zero_s": 3.9475377935773494e-09,
+          "volume_ratio": 0.3790180341013696,
+          "initial_centroid_m": [
+            0.09749715007000001,
+            0.000197649350775,
+            0.07318762250000001
+          ],
+          "node_ids": [
+            59602,
+            16024,
+            69975,
+            16023
+          ],
+          "node_speeds_m_s": [
+            10856.198610488338,
+            1485.358955969276,
+            2257.697363159776,
+            3261.1264704538817
+          ]
+        },
+        {
+          "eid": 290092,
+          "part": 2,
+          "linear_time_to_zero_s": 3.646560568144725e-08,
+          "volume_ratio": 0.8815252974901031,
+          "initial_centroid_m": [
+            0.0980942677675,
+            0.000396790012825,
+            0.07338134007250001
+          ],
+          "node_ids": [
+            69975,
+            16024,
+            15976,
+            59600
+          ],
+          "node_speeds_m_s": [
+            2257.697363159776,
+            1485.358955969276,
+            4340.781464804254,
+            2300.06027300782
+          ]
+        },
+        {
+          "eid": 290089,
+          "part": 2,
+          "linear_time_to_zero_s": 5.27267129271432e-08,
+          "volume_ratio": 1.5887094264226858,
+          "initial_centroid_m": [
+            0.09807060107000001,
+            0.000198352512825,
+            0.0737782150725
+          ],
+          "node_ids": [
+            16024,
+            22236,
+            59600,
+            69975
+          ],
+          "node_speeds_m_s": [
+            1485.358955969276,
+            317.5269349536914,
+            2300.06027300782,
+            2257.697363159776
+          ]
+        },
+        {
+          "eid": 261750,
+          "part": 2,
+          "linear_time_to_zero_s": 1.2978170043760675e-07,
+          "volume_ratio": 1.122540140953732,
+          "initial_centroid_m": [
+            0.0975390816525,
+            0.0006937431007749999,
+            0.07338664832
+          ],
+          "node_ids": [
+            15977,
+            15976,
+            52450,
+            69975
+          ],
+          "node_speeds_m_s": [
+            303.6625777107205,
+            4340.781464804254,
+            47.046404713587684,
+            2257.697363159776
+          ]
+        },
+        {
+          "eid": 283396,
+          "part": 2,
+          "linear_time_to_zero_s": 1.3858319683614835e-07,
+          "volume_ratio": 1.235751019426778,
+          "initial_centroid_m": [
+            0.0979315937825,
+            0.0006937431007749999,
+            0.07378352332
+          ],
+          "node_ids": [
+            20586,
+            52450,
+            15976,
+            69975
+          ],
+          "node_speeds_m_s": [
+            106.74152732323626,
+            47.046404713587684,
+            4340.781464804254,
+            2257.697363159776
+          ]
+        }
+      ]
+    },
+    {
+      "time_s": 0.0001907203386790106,
+      "max_node_speed_m_s": 10771.438924057002,
+      "minimum_volume_ratio": 0.3132457871698177,
+      "negative_tets": 0,
+      "closing_tets": [
+        {
+          "eid": 271059,
+          "part": 2,
+          "linear_time_to_zero_s": 3.369967120029688e-09,
+          "volume_ratio": 0.3132457871698177,
+          "initial_centroid_m": [
+            0.09749715007000001,
+            0.000197649350775,
+            0.07318762250000001
+          ],
+          "node_ids": [
+            59602,
+            16024,
+            69975,
+            16023
+          ],
+          "node_speeds_m_s": [
+            10771.438924057002,
+            1480.3940429957577,
+            2272.139803763402,
+            3282.1967783026084
+          ]
+        },
+        {
+          "eid": 290092,
+          "part": 2,
+          "linear_time_to_zero_s": 3.841353684390943e-08,
+          "volume_ratio": 0.86547438671219,
+          "initial_centroid_m": [
+            0.0980942677675,
+            0.000396790012825,
+            0.07338134007250001
+          ],
+          "node_ids": [
+            69975,
+            16024,
+            15976,
+            59600
+          ],
+          "node_speeds_m_s": [
+            2272.139803763402,
+            1480.3940429957577,
+            4373.442253864087,
+            2318.2787339566835
+          ]
+        },
+        {
+          "eid": 290089,
+          "part": 2,
+          "linear_time_to_zero_s": 5.3380062592645023e-08,
+          "volume_ratio": 1.5678079430044678,
+          "initial_centroid_m": [
+            0.09807060107000001,
+            0.000198352512825,
+            0.0737782150725
+          ],
+          "node_ids": [
+            16024,
+            22236,
+            59600,
+            69975
+          ],
+          "node_speeds_m_s": [
+            1480.3940429957577,
+            316.510003555659,
+            2318.2787339566835,
+            2272.139803763402
+          ]
+        },
+        {
+          "eid": 261750,
+          "part": 2,
+          "linear_time_to_zero_s": 1.280275464693287e-07,
+          "volume_ratio": 1.116332749081127,
+          "initial_centroid_m": [
+            0.0975390816525,
+            0.0006937431007749999,
+            0.07338664832
+          ],
+          "node_ids": [
+            15977,
+            15976,
+            52450,
+            69975
+          ],
+          "node_speeds_m_s": [
+            302.747496887272,
+            4373.442253864087,
+            54.52314129953837,
+            2272.139803763402
+          ]
+        },
+        {
+          "eid": 283396,
+          "part": 2,
+          "linear_time_to_zero_s": 1.3664181834802674e-07,
+          "volume_ratio": 1.2293456770375628,
+          "initial_centroid_m": [
+            0.0979315937825,
+            0.0006937431007749999,
+            0.07378352332
+          ],
+          "node_ids": [
+            20586,
+            52450,
+            15976,
+            69975
+          ],
+          "node_speeds_m_s": [
+            105.39206439199255,
+            54.52314129953837,
+            4373.442253864087,
+            2272.139803763402
+          ]
+        }
+      ]
+    }
+  ],
+  "exact_governing_element_confirmed": false,
+  "case": "cap-layer-check-v1",
+  "status": "stopped_early",
+  "solver_warning": 40041,
+  "termination_time_s": 0.0001907203386790106,
+  "guard_dt_ratio": 0.01,
+  "last_guard_step_s": 7.11e-10,
+  "final_smallest_altitudes": [
+    {
+      "eid": 271059,
+      "part": 2,
+      "minimum_altitude_m": 6.192706553680936e-06
+    },
+    {
+      "eid": 135189,
+      "part": 2,
+      "minimum_altitude_m": 3.9091038346081304e-05
+    },
+    {
+      "eid": 135182,
+      "part": 2,
+      "minimum_altitude_m": 3.9124460768527486e-05
+    },
+    {
+      "eid": 135177,
+      "part": 2,
+      "minimum_altitude_m": 4.0709203965823756e-05
+    },
+    {
+      "eid": 135185,
+      "part": 2,
+      "minimum_altitude_m": 4.1117567010257193e-05
+    }
+  ],
+  "localization": "Right thin-cap transition near rear cap/guide end at initial X 96.7\u201398.2, Y 0\u20130.7, Z 73.0\u201373.8 mm; outside the central |X| < 90 mm span and separate from the old left outer 116 mm knife-edge.",
+  "contact_warning": {
+    "baseline_recommended_step_s": 2.804e-08,
+    "case_recommended_step_s": 7.129e-08,
+    "nominal_step_s": 9e-08,
+    "baseline_initial_penetrations": 193,
+    "case_initial_penetrations": 1212,
+    "baseline_max_penetration_m": 2.887438e-05,
+    "case_max_penetration_m": 0.0004321569,
+    "max_pair": [
+      293238,
+      530
+    ],
+    "max_pair_at_failure_location": false
+  },
+  "recommended_next_check": "Conforming nested central through-thickness refinement of the existing baseline cap, preserving exterior facets and end/bolt meshes. Verify positive volumes, conformity, exterior identity and unchanged contact selections. A 45 ns, 0.30 ms guarded diagnostic of the failed remesh is secondary; no additional solve was launched.",
+  "scope": "Partial localization only; no completed cap refinement or physical failure inference."
+}

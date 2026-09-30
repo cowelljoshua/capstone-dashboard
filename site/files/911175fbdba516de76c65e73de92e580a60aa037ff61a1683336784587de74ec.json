@@ -1,0 +1,9 @@
+{
+  "case": "clamshell-4mm-v1",
+  "sampled_central_seam_pairs": 820,
+  "pair_initial_xz_tolerance_mm": 1.5,
+  "maximum_sampled_central_opening_mm": 9.87783168583444,
+  "maximum_sampled_central_closure_mm": 0.30666607418708514,
+  "maximum_bolt_collar_mean_relative_displacement_mm": 0.15629577065359074,
+  "scope": "Nearest independent shell mesh nodes on nominal central Y=0 seam, |X|<80 mm. Opening is relative +Y displacement of Upper minus Lower; this is a sampled kinematic screen, not native contact gap/pressure. Bolt values compare each collar group mean displacement, not fastener stress or slip."
+}

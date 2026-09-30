@@ -1,0 +1,13 @@
+{
+  "scripts/offset_clamshell_stop.py": "1125f3500bcfe810b9ce6c88f2ccf3efd87b8ed33473a7d982f684a430e0676a",
+  "scripts/offset_clamshell_assess.py": "d9c7fb07b93d645f726d29415ba9fbe6c9d5a70cf9f0e8ba9ecc8d39fedaad82",
+  "scripts/offset_clamshell_load_path.py": "14a3b55234f22b53eed7482cfae0960cc57896f056e4c621c1deb62a7107f522",
+  "scripts/audit_offset_clamshell_setup.py": "1a39f72f783692219fc8257f21195e62acb3154a8ae795e982c5a937aa37772d",
+  "scripts/audit_offset_clamshell_joint.py": "f5dd76ef30bfd158fa3d9b9be9dc16ae5d6aa2b24addc014336278e8db7eb82f",
+  "scripts/compare_offset_clamshell.py": "a7a4b659567d8e4b6b1fa0e75101811a0419fc8c6db9660713c609d45554edb8",
+  "scripts/compare_offset_clamshell_mesh.py": "3e37ad8216c133c9eba129c51b5da19d95c3bb61ed7419c973e0652f67beb353",
+  "scripts/measure_offset_clamshell_patches.py": "44432b52cea0533bc3f44ceed2d59ff00c2ae314f84d8870beee3d74ee08cca4",
+  "scripts/render_offset_clamshell_geometry.py": "62086e8fbff46f0d772a5a502b531bfba93939d965988202cf6f76cd20695b8d",
+  "scripts/write_offset_clamshell_report.py": "6ba523da3cf99924f5750cbd6bc1039155feef8dfecc135146b6058de4b6cdbb",
+  "scripts/package_offset_clamshell.py": "96ef12172a30698de4dbf1aae1b63c37c1eff22d70723f863042179fa724fe3d"
+}

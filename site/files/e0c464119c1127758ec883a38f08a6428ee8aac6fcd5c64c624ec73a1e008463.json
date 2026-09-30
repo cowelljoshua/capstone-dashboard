@@ -1,0 +1,226 @@
+{
+  "case": "cap-two-layer-v1",
+  "reference_case": "baseline-guided-v2",
+  "scope": "Observed baseline deformation-shape weighting of startup mass only. No eigenmode, eigenfrequency, rigorous dynamic-error bound, local acceptance gate, or completed mesh qualification is inferred.",
+  "method": "Remove weighted best-fit rigid translation and proper rotation exactly as compliant_assess.rigid_fit_residual using baseline moving_node_masses. Transfer residual vectors to new nodes by the ordered midpoint bisections. Compute sum(added_mass*|phi|^2)/sum(actual physical nodal_mass*|phi|^2) on each region. Baseline ratios use the original lumped nodal masses; refined lumping can change quadrature.",
+  "interpolation": {
+    "bisections": 4092,
+    "all_original_moving_nodes_identical": true,
+    "all_new_nodes_accounted": true,
+    "maximum_emitted_midpoint_coordinate_error_m": 6.000000843386921e-12,
+    "bisections_sha256": "93a1302f7e74b6f9298c08326b5a384cb042891c1f06724383a7b6e8a1efa2ba"
+  },
+  "region_definition": "Cap part2; central rails use original coordinates |X|<=86mm and Z20\u201328mm or48\u201356mm, as the startup audit.",
+  "samples": [
+    {
+      "actual_baseline_time_s": 0.0008199939417305483,
+      "nearest_requested_time_s": 0.00082,
+      "max_baseline_nonrigid_residual_m": 0.009447532161265803,
+      "regions": {
+        "moving_assembly": {
+          "physical_shape_weight_kg_m2": 3.7338151222130688e-06,
+          "added_shape_weight_kg_m2": 4.548116763393485e-10,
+          "observed_shape_added_ratio": 0.00012180883665974794,
+          "baseline_observed_shape_added_ratio": 3.6149907857278067e-06,
+          "common_node_added_shape_weight_kg_m2": 1.0194386221566235e-10,
+          "new_node_added_shape_weight_kg_m2": 3.5286781412368613e-10
+        },
+        "cap": {
+          "physical_shape_weight_kg_m2": 4.546834159407767e-07,
+          "added_shape_weight_kg_m2": 4.421619552596205e-10,
+          "observed_shape_added_ratio": 0.0009724611449589638,
+          "baseline_observed_shape_added_ratio": 1.8660594106003127e-06,
+          "common_node_added_shape_weight_kg_m2": 8.929414113593433e-11,
+          "new_node_added_shape_weight_kg_m2": 3.5286781412368613e-10
+        },
+        "central_rails": {
+          "physical_shape_weight_kg_m2": 3.659905751074253e-07,
+          "added_shape_weight_kg_m2": 4.394567679520786e-10,
+          "observed_shape_added_ratio": 0.0012007324719307034,
+          "baseline_observed_shape_added_ratio": 0.0,
+          "common_node_added_shape_weight_kg_m2": 8.778087751237805e-11,
+          "new_node_added_shape_weight_kg_m2": 3.5167589043970053e-10
+        }
+      }
+    },
+    {
+      "actual_baseline_time_s": 0.0008499538851480026,
+      "nearest_requested_time_s": 0.00085,
+      "max_baseline_nonrigid_residual_m": 0.010230382564548968,
+      "regions": {
+        "moving_assembly": {
+          "physical_shape_weight_kg_m2": 3.830924184797402e-06,
+          "added_shape_weight_kg_m2": 4.923955075917885e-10,
+          "observed_shape_added_ratio": 0.00012853178080260774,
+          "baseline_observed_shape_added_ratio": 7.5043354981899015e-06,
+          "common_node_added_shape_weight_kg_m2": 1.2087466467632326e-10,
+          "new_node_added_shape_weight_kg_m2": 3.7152084291546517e-10
+        },
+        "cap": {
+          "physical_shape_weight_kg_m2": 4.830384336249221e-07,
+          "added_shape_weight_kg_m2": 4.739022629786148e-10,
+          "observed_shape_added_ratio": 0.0009810860378588393,
+          "baseline_observed_shape_added_ratio": 2.1218626889796925e-05,
+          "common_node_added_shape_weight_kg_m2": 1.0238142006314961e-10,
+          "new_node_added_shape_weight_kg_m2": 3.7152084291546517e-10
+        },
+        "central_rails": {
+          "physical_shape_weight_kg_m2": 3.92181402009161e-07,
+          "added_shape_weight_kg_m2": 4.625052846844897e-10,
+          "observed_shape_added_ratio": 0.0011793146801838553,
+          "baseline_observed_shape_added_ratio": 0.0,
+          "common_node_added_shape_weight_kg_m2": 9.171070857931075e-11,
+          "new_node_added_shape_weight_kg_m2": 3.70794576105179e-10
+        }
+      }
+    },
+    {
+      "actual_baseline_time_s": 0.005539933311054518,
+      "nearest_requested_time_s": 0.00554,
+      "max_baseline_nonrigid_residual_m": 0.0171316694915637,
+      "regions": {
+        "moving_assembly": {
+          "physical_shape_weight_kg_m2": 1.2418327887492134e-06,
+          "added_shape_weight_kg_m2": 7.933493054095094e-10,
+          "observed_shape_added_ratio": 0.0006388535659527712,
+          "baseline_observed_shape_added_ratio": 2.779656361469858e-05,
+          "common_node_added_shape_weight_kg_m2": 1.8793844388325871e-10,
+          "new_node_added_shape_weight_kg_m2": 6.054108615262506e-10
+        },
+        "cap": {
+          "physical_shape_weight_kg_m2": 6.715332200162428e-07,
+          "added_shape_weight_kg_m2": 7.873000241285635e-10,
+          "observed_shape_added_ratio": 0.0011723917755096622,
+          "baseline_observed_shape_added_ratio": 4.2381966347893876e-05,
+          "common_node_added_shape_weight_kg_m2": 1.818891626023129e-10,
+          "new_node_added_shape_weight_kg_m2": 6.054108615262506e-10
+        },
+        "central_rails": {
+          "physical_shape_weight_kg_m2": 6.292818155494765e-07,
+          "added_shape_weight_kg_m2": 7.573263216282534e-10,
+          "observed_shape_added_ratio": 0.001203477206737606,
+          "baseline_observed_shape_added_ratio": 0.0,
+          "common_node_added_shape_weight_kg_m2": 1.5287989415168721e-10,
+          "new_node_added_shape_weight_kg_m2": 6.044464274765662e-10
+        }
+      }
+    }
+  ],
+  "added_mass_origin": {
+    "common_cap_baseline_added_kg": 2.617036661724916e-06,
+    "common_cap_two_layer_added_kg": 5.8598974762392726e-06,
+    "new_cap_nodes_added_kg": 1.1005736495831541e-05,
+    "common_cap_total_signed_change_kg": 3.2428608145143564e-06,
+    "common_outside_rails_baseline_added_kg": 2.617036661724916e-06,
+    "common_outside_rails_two_layer_added_kg": 2.962030719603479e-06,
+    "largest_common_cap_changes": [
+      {
+        "node": 19062,
+        "xyz_m": [
+          0.08808538691,
+          0.0,
+          0.05421809633
+        ],
+        "baseline_added_kg": 0.0,
+        "two_layer_added_kg": 1.792945538894034e-07,
+        "change_kg": 1.792945538894034e-07
+      },
+      {
+        "node": 18534,
+        "xyz_m": [
+          0.08667365521,
+          0.003175,
+          0.05178076017
+        ],
+        "baseline_added_kg": 0.0,
+        "two_layer_added_kg": 1.6569950398915952e-07,
+        "change_kg": 1.6569950398915952e-07
+      },
+      {
+        "node": 18429,
+        "xyz_m": [
+          -0.07,
+          0.003175,
+          0.056
+        ],
+        "baseline_added_kg": 0.0,
+        "two_layer_added_kg": 1.523164165273725e-07,
+        "change_kg": 1.523164165273725e-07
+      },
+      {
+        "node": 17718,
+        "xyz_m": [
+          -0.064,
+          0.003175,
+          0.05201855621
+        ],
+        "baseline_added_kg": 0.0,
+        "two_layer_added_kg": 1.4292687348988522e-07,
+        "change_kg": 1.4292687348988522e-07
+      },
+      {
+        "node": 18076,
+        "xyz_m": [
+          0.052,
+          0.0,
+          0.02418210939
+        ],
+        "baseline_added_kg": 0.0,
+        "two_layer_added_kg": 1.2244104645939161e-07,
+        "change_kg": 1.2244104645939161e-07
+      },
+      {
+        "node": 18796,
+        "xyz_m": [
+          0.054,
+          0.0,
+          0.02
+        ],
+        "baseline_added_kg": 0.0,
+        "two_layer_added_kg": 1.2244104645939161e-07,
+        "change_kg": 1.2244104645939161e-07
+      },
+      {
+        "node": 18512,
+        "xyz_m": [
+          0.05,
+          0.0,
+          0.02
+        ],
+        "baseline_added_kg": 0.0,
+        "two_layer_added_kg": 1.224410464593912e-07,
+        "change_kg": 1.224410464593912e-07
+      },
+      {
+        "node": 17043,
+        "xyz_m": [
+          0.068,
+          0.0,
+          0.05194433138
+        ],
+        "baseline_added_kg": 0.0,
+        "two_layer_added_kg": 1.1233368336244547e-07,
+        "change_kg": 1.1233368336244547e-07
+      }
+    ],
+    "worst_two_layer_cap_nodal_ratio": {
+      "node": 18968,
+      "is_original_node": true,
+      "xyz_m": [
+        -0.116,
+        0.01825,
+        0.030121875
+      ],
+      "baseline_added_kg": 3.7878761799914943e-07,
+      "two_layer_added_kg": 3.7878761799914943e-07,
+      "two_layer_physical_mass_kg": 1.1716876265419001e-07,
+      "ratio": 3.2328379119023136
+    }
+  },
+  "source_hashes": {
+    "projects\\compliant_stop_340\\cases\\baseline-guided-v2\\input.k": "c0e809f7756ca88069a97d227691a989c14a1b1b857734dd89403dbceb9d8c65",
+    "projects\\compliant_stop_340\\cases\\baseline-guided-v2\\model.json": "d8aa0702228f51e5a17ce851dbf8345abaf7d8d74423eeb968c165e12279730b",
+    "projects\\compliant_stop_340\\cases\\cap-two-layer-v1\\input.k": "1ac732cebb0777cc421689e95ef20aa8827e3ac9560ebaf5fbcf0c7abbbb9a27",
+    "projects\\compliant_stop_340\\cases\\cap-two-layer-v1\\model.json": "13d58fda9e9d7a121de95234f89023f2cfcf2b99871a0cc5bd0e56ca78cf8fa6"
+  }
+}

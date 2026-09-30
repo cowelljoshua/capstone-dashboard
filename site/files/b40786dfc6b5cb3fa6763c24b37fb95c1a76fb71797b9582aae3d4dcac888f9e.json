@@ -1,0 +1,4 @@
+{
+  "status": "failed",
+  "error": "LS-DYNA execution timed out; shutdown was requested for the owned child. Inspect the execution record for shutdown errors."
+}

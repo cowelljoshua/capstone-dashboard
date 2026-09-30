@@ -1,0 +1,27 @@
+{
+  "status": "stopped_early",
+  "run_directory": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\local_closures_impact_20260927_01\\cases\\baseline-5mm-v1\\runs\\solve",
+  "execution": {
+    "status": "process_exited_zero",
+    "started_at": "2026-09-28T00:50:03.527506+00:00",
+    "finished_at": "2026-09-28T00:53:21.658348+00:00",
+    "duration_seconds": 198.14100000000326,
+    "exit_code": 0,
+    "process_id": 50472,
+    "timed_out": false,
+    "cancelled": false,
+    "termination_state": "normal_termination_confirmed",
+    "termination_evidence_sources": [
+      "d3hsp",
+      "messag",
+      "stdout.log"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "process_exit_and_termination_evidence_are_distinct": true,
+    "physics_validated": false,
+    "results_interpreted": false
+  },
+  "requested_time_s": 0.008,
+  "reached_time_s": 0.000329968
+}

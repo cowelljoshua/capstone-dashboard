@@ -1,0 +1,27 @@
+{
+  "status": "stopped_early",
+  "run_directory": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\local_closures_impact_20260927_01\\cases\\narrow-plug-5mm-v1\\runs\\solve",
+  "execution": {
+    "status": "process_exited_zero",
+    "started_at": "2026-09-28T02:17:07.514224+00:00",
+    "finished_at": "2026-09-28T02:20:53.609038+00:00",
+    "duration_seconds": 226.09400000001187,
+    "exit_code": 0,
+    "process_id": 1332,
+    "timed_out": false,
+    "cancelled": false,
+    "termination_state": "normal_termination_confirmed",
+    "termination_evidence_sources": [
+      "d3hsp",
+      "messag",
+      "stdout.log"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "process_exit_and_termination_evidence_are_distinct": true,
+    "physics_validated": false,
+    "results_interpreted": false
+  },
+  "requested_time_s": 0.008,
+  "reached_time_s": 0.000169952
+}

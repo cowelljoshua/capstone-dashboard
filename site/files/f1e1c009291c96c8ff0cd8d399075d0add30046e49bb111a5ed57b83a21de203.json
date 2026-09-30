@@ -1,0 +1,40 @@
+{
+  "case": "guided-4mm-v3",
+  "role": "Rear-only cable guidance diagnostic; not the final eight-equation baseline",
+  "source": "Ordinary Lasso D3plot node_displacement interpreted as current coordinates; coordinate convention independently checked against NODOUT in the case assessment",
+  "last_inspected_time_s": 0.00477998335654233,
+  "selection": "Original front bore wall nodes within 0.005 mm of radius 4.9149 mm about X=+/-101.6 mm,Y=0, original Z=0..3.1751 mm",
+  "nominal_front_bore_radius_mm": 4.9149,
+  "assumed_cable_radius_mm": 3.375,
+  "nominal_radial_clearance_mm": 1.5399,
+  "left": {
+    "selected_node_count": 16,
+    "initial_sampling_centroid_m": [-0.10131889364625, -0.000018501264437499978, 0.0010783426184375],
+    "maximum_centroid_transverse_displacement_mm": 4.034183712644541,
+    "peak_time_ms": 1.9099978025976876,
+    "centroid_dxdy_at_peak_mm": [-1.2471915453418627, 3.8365546362060674],
+    "maximum_individual_wall_node_transverse_displacement_mm": 4.998786678366418,
+    "minimum_sampled_wall_radius_from_fixed_cable_axis_mm": 1.5481520980396701,
+    "minimum_sampled_cable_clearance_mm": -1.8268479019603299,
+    "minimum_clearance_time_ms": 1.989961164950719,
+    "minimum_clearance_node_id": 12575
+  },
+  "right": {
+    "selected_node_count": 16,
+    "initial_sampling_centroid_m": [0.101881606001875, -0.000013228315062500018, 0.0010765945574999999],
+    "maximum_centroid_transverse_displacement_mm": 4.0570076350032345,
+    "peak_time_ms": 1.9099978025976876,
+    "centroid_dxdy_at_peak_mm": [1.2424336772599065, 3.8620809815544996],
+    "maximum_individual_wall_node_transverse_displacement_mm": 5.019587999175409,
+    "minimum_sampled_wall_radius_from_fixed_cable_axis_mm": 1.5250375370895153,
+    "minimum_sampled_cable_clearance_mm": -1.8499624629104847,
+    "minimum_clearance_time_ms": 1.9999140445912307,
+    "minimum_clearance_node_id": 14706
+  },
+  "interpretation": "Rear-only guidance allows front bore motion beyond the available cable clearance; omitted front cable contact affects the model. Use front and rear transverse guidance for the agreed ideal coaxial guide baseline, documenting the zero-clearance idealization.",
+  "limitations": [
+    "Centroid displacement subtracts the same sampled nodes' initial centroid; irregular surface sampling has an approximately 0.28 mm initial X offset from the nominal axis.",
+    "The wall-to-cable clearance screen is based on saved nodes, not facet contact or unsaved times. Negative clearance already demonstrates geometric interference under the assumed fixed straight cable axis.",
+    "These values are diagnostic observations, not failure predictions or final baseline metrics."
+  ]
+}

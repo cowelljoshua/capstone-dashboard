@@ -1,0 +1,262 @@
+{
+  "status": "verified_before_zip",
+  "member_sha256": {
+    "report/REPORT.md": "40426273faff811c81dcf34501c2bc9a9a18d62100832a80f45874aee571d878",
+    "report/animations/01-motion.gif": "531b6e58329445ab1b4148308d0208976f938af738574d76d491b7226f7ac0b5",
+    "report/animations/02-stress.gif": "4ce887f999ef17219b3e3d1223209471a698dfce09832739cad762d489ac0fb5",
+    "report/data/contact-energy.csv": "6c5b2688db92b16ee71d0f890879ae96fc43c4fc6c76bee7e7e58f7452567407",
+    "report/data/contact-histories.csv": "3492688cd1fd70314bd8217025c86b684dfbeb67a99584f5b6eb376325d40364",
+    "report/data/early-window-comparison.json": "412f54b7d038e193023abb8543ebd6f7ea24cdba86bc5a8afe0231a2cbc09899",
+    "report/data/execution.json": "fe2d2c433dcbd1177b7ca0e75a9a3b424b449d3f632feadb669f5729820821c2",
+    "report/data/global-energy.csv": "8af6513054c41176c713b25a64161447cd6b154f237f3c2c6e10904dfb3f2fa4",
+    "report/data/load-path-peaks.json": "641d04c0c27885e476c4d8eddf9b40996280d4a9c7603b866bb96053da858166",
+    "report/data/mesh-quality.json": "330e1920af853a6ae020428fc7caa45d383c83c0eb775ad58ea9a12fec6b2cb4",
+    "report/data/mesh-summary.json": "2289817997e0422cae5b86daf710d311b19823842cf512710fea0e2ea880e441",
+    "report/data/metrics.json": "36372a3a80bed3b8f943cf64194fadcfd76f0efea66f1c505ba674683a16f409",
+    "report/data/model.json": "73a820d0e0a3baa7ae8673eb2d108559c57ee4429c9aae4c7a8408c04e9f6b9e",
+    "report/data/narrow-plug-collapse-diagnosis.json": "70316c2c7926941457dcb609e9d7d8d76fcaf2e0e30430278391126937e3c7d5",
+    "report/data/narrow-plug-execution.json": "22f31cfce0d9560a2c344b03004a4525af513c8a0a69ad56a8e6b44dba628f07",
+    "report/data/narrow-plug-partial-metrics.json": "05fd0e8df9fbb5105cd95151afcbec03974fa365579e67b5f10af7ff3e45b43e",
+    "report/data/parent-execution.json": "062a83acdaeb354929994eee3faa9f3d23a2d50d275b52b64f6f991c44a2b892",
+    "report/data/print-check.json": "16c09b2664661d450a5592023818cc89be14797dfc7c6de6abfb2e88eeab8511",
+    "report/data/revised-manifest.json": "ce025b563a8e4154585fd18a8194561818a3712e54d20c9c9b27a723bc1c5b39",
+    "report/data/setup-audit.json": "5dadd29e9bfa244ff4dbd221fc6f98381ae17bac8b87581a90ba81e4e39abec8",
+    "report/data/spc-histories.csv": "748a62509737de33adadfc8f224964c6f5c6729bbeb8a05d6553c5a609bd8d11",
+    "report/data/stress-histories.csv": "ede672487350f58ce03dd457858ee08152a866071d46f2bff7018615e58a5991",
+    "report/data/time-histories.csv": "6598318c2cf33c71f7cb1c9f0ad3fce621a1c3bf8c240b1827fc0926267678b3",
+    "report/images/01-revised-assembly.png": "0600683192dac97005a64250b077ede8fd604619c0593272c9e6669150094ce9",
+    "report/images/02-closure-joint.png": "2f53994f313ef714a89ed5818b67292f3da872ba5cb0edfa9bd14d7b1d720888",
+    "report/images/03-event-histories.png": "710f7993d12ec9522c2c2eaf63353cdc3a1acb2825abefcc56b3ba9b959d3226",
+    "report/images/04-early-stress.png": "6ccbec063f26c8e55097daf2dc9ddbc292ff643cbff77bf55355ea3e14fd3d56",
+    "report/images/05-closure-stress.png": "89af6ba6ccb49872f4f319874ad62efbd1420dc4dd304d7011fbd37e1c1c93fa",
+    "report/images/06-later-stress.png": "546932248ad335768fde797db2d6f3dba18ede835b116494ea4d7eca37c944e9",
+    "report/images/07-early-top-stress.png": "f2f51a3aaebb5f5b4a924021654dfc3b52928f9c19f01f4455d9ed9a615a7318",
+    "report/images/08-early-impact-stress.png": "679e37bdecf167e38bd9c20285a5ac64c3b22fcf9f7412535691d55bdf432295",
+    "report/images/09-later-top-stress.png": "fc99a92c46e65d1decd7fd1b14f773c4563ba9504e4f1ab55e334b4520da5b6e",
+    "report/images/10-later-impact-stress.png": "4e0ea11e6eccc758d46d64f1757ceae1c31804ef1134fb4132f1a7b1cdab4289",
+    "report/images/11-narrow-plug-assembly.png": "932c84702811109754285b44f454421447a61c0f2ca8e25849332e78caca9d7b",
+    "report/images/12-contact-load-path.png": "43417070ff85dd3450cfb74d8154099e8b4b81cfb7654a7a3ce556fd0c149a4e",
+    "report/images/13-stop-frame.png": "3b6f8ad5eb391eca5d2c5bad7f030df685a966404b989703bfaeb9b122f6e9ac",
+    "report/images/14-solved-mesh.png": "3e932ee555158c17c3cafe0e8d83f2608faff9bb47df73bcbae1a61365bd6810",
+    "geometry/revised/cad/components/body.step": "a64d64fe6cd769a331907e64d3cb2567b7f2f4ee74c7af7fe77cba5e88f5913f",
+    "geometry/revised/cad/components/bolt_01.step": "9e48a234097957c36c2365c26f758ffb01a92da5264b9f1e19bbc8cb10b84776",
+    "geometry/revised/cad/components/bolt_02.step": "2aace3da75871493b029a1ed5bba087d9a5a654e069e0f638948dce05a2a304b",
+    "geometry/revised/cad/components/bolt_03.step": "52be8a92cf437d99bd94a64ceb733e3f72f8e2dce1940ee839c9cbe3fd407be0",
+    "geometry/revised/cad/components/bolt_04.step": "52d0bd08d6c7b1ce1f4bb1521dbc13d92692c7e1fa1c034efaa16954a5ca32a1",
+    "geometry/revised/cad/components/bolt_05.step": "1498f6294c321ecfba7ecb7a1d07de948b721b47b99c3f4efe0d07fe863626ff",
+    "geometry/revised/cad/components/bolt_06.step": "201d710ccd6578233b3fd55613a05bab1dbc3d8ca54e8e68c7ceb64aa28ba8c0",
+    "geometry/revised/cad/components/bolt_07.step": "bcf890f7524a2dd80c9997d9c8338fcda19b548014bafe78b01e66e0de7bcf6f",
+    "geometry/revised/cad/components/bolt_08.step": "32d95cc2cceec700215b6ae4bf5fcced42f2dca859eb79e4ea6710e041c620d8",
+    "geometry/revised/cad/components/closure_left.step": "98df4410571b35ffe52ed99530e9b406354493d25dd8a21b799d56b4900c2589",
+    "geometry/revised/cad/components/closure_right.step": "16aae36949a9efd17fb3903621890838b9470f108c2f4d8095dad461847200bf",
+    "geometry/revised/cad/components/nut_01.step": "0321f1d7f404b567eb803f8602ac91c053bad8ec87099d3f6d17ce7aeb644d29",
+    "geometry/revised/cad/components/nut_02.step": "c1e4fbe766335aeddb4bbae06b1f1f2afcf525be88443f7dbf6861fbca56d649",
+    "geometry/revised/cad/components/nut_03.step": "8dc7380a89bc5c1cbb7471aff9ee145ff7a605a48f8f1534fb37e5c9ea90ff95",
+    "geometry/revised/cad/components/nut_04.step": "731a7d78235cc7cdb038bbd1c9cba955dc71ea03ea2c9f91003d0538d76ff158",
+    "geometry/revised/cad/components/nut_05.step": "19bae4be4c9b109aef69e00847e5f5d25198aa048e4fb9ac2dca0e2e2ba52800",
+    "geometry/revised/cad/components/nut_06.step": "cb0c0772a512d9a43972b096770f4c3b701785de77ee5df5f472519dfbe8f2e0",
+    "geometry/revised/cad/components/nut_07.step": "e9629cdda9f61ecd6bdfb837b0f68ce102225bffa8c7f74967c2512ca1e93646",
+    "geometry/revised/cad/components/nut_08.step": "6903f1b6b906ad06fec52d312a08cd212ac8eeef34a8cee9755fdaebe851f6ee",
+    "geometry/source/cad/components/body.step": "32e847c532c2b5fc37e76b63c6e5892147e86bf9ea1bb8b4d38b195c0cf06290",
+    "geometry/source/cad/components/bolt_01.step": "9ceffec5c5d81fb2851a218025a6bf7c5594d4f3817b0523b26a769a9e598bed",
+    "geometry/source/cad/components/bolt_02.step": "6ba0aa207ecc3a7a16ddcf7a459d5a8057a7a6994f185101b08f1587dd3cd645",
+    "geometry/source/cad/components/bolt_03.step": "7ce5b603c9739200749de7a7ae9028746b3fb5eb788af74beab8e31b04264a85",
+    "geometry/source/cad/components/bolt_04.step": "b8f400f04f26dd6a6475b1fe0ebcf2f84f525be2295c586da70c2273dfe04685",
+    "geometry/source/cad/components/bolt_05.step": "95d25eb685ce4bc9ecbc3871031a5a9129aec2a4df25dc0cfef43bbdf50cb837",
+    "geometry/source/cad/components/bolt_06.step": "19fd467857c343fc365b9261375d61ff52bf9c4eea2af1bbfd9486321e197e88",
+    "geometry/source/cad/components/bolt_07.step": "84155a714d0e1d6222aabbe1c5492ce3c6308880a79e13c2e29f3cc0ea77f304",
+    "geometry/source/cad/components/bolt_08.step": "72a64f06604477743ccf0117973ae7b274fc945377ad393e242c24ee5e3d97c9",
+    "geometry/source/cad/components/closure_left.step": "2bdc5d91f7f9059d3fae5f5aa07f32d13297771a43706c0e125aa6d29797fdfb",
+    "geometry/source/cad/components/closure_right.step": "fb5c0683d039841e2d5e5c1150bf370912a739de6614f2b7525a07266c557548",
+    "geometry/source/cad/components/nut_01.step": "5b1a0299bd3d463451a5ab0a4dba1066fafb3c177b3244e02cb7e8f0547dd1ac",
+    "geometry/source/cad/components/nut_02.step": "b58369a5f5ec2bff79585634c542262c2b53d60dcd22e035340a90b2f28196c0",
+    "geometry/source/cad/components/nut_03.step": "a2d4abfa3a9315a7f06dc6e72a34dfc8c38b75bb55bed0a2a4b181a7c604365f",
+    "geometry/source/cad/components/nut_04.step": "fa446cd09dd43b2a11353df6618091009a4e082776880ed55d003ce87216acce",
+    "geometry/source/cad/components/nut_05.step": "e744fd118d8c3b97ecb187d8a868667c9f397e535d2343cfd3250297f8ab1556",
+    "geometry/source/cad/components/nut_06.step": "5add6dca3141fe26bcd1f830547edc2f8685f16f51313bf7bbdb309bd7ed978f",
+    "geometry/source/cad/components/nut_07.step": "18bdf41423dfaf2410c6b872c57fa13b0588101f0785501ca40d31997dbde3f5",
+    "geometry/source/cad/components/nut_08.step": "38f329c08162d739a9c8141d7c8aab34765d0364a08ecdf0a996e25f95c8f02b",
+    "geometry/variants/narrow_plug/cad/components/body.step": "b4e34ef841afe00d9de49bbe3ccf3c51c688f6edc8675ff75322665e6c88b40b",
+    "geometry/variants/narrow_plug/cad/components/bolt_01.step": "b398254bef2ed802425bf9b5080fd481ebc8b283e5056078b2e32ad496be9cc1",
+    "geometry/variants/narrow_plug/cad/components/bolt_02.step": "5f9b3da5df56bc4a400252a8f7e016e5f365df13a5ce21b7b72e0f7bd3bd5e7c",
+    "geometry/variants/narrow_plug/cad/components/bolt_03.step": "d0493559256cc2da1639ea832c21638c1fe8c51fd16b42d1ece59c5bcf9f0adb",
+    "geometry/variants/narrow_plug/cad/components/bolt_04.step": "961912381b5a09fa885cdb403427f0b96c388f3d0bc9ef67a4e5d9ffc225523a",
+    "geometry/variants/narrow_plug/cad/components/bolt_05.step": "b4e99954acdb24ecd4311ea0fcd1b0433525a9530c33c68f7a9ce3f761800a8b",
+    "geometry/variants/narrow_plug/cad/components/bolt_06.step": "866a46766566bcaaa0f7deafe2f2168f0af2d722dccb34e834d3d1b5f4249819",
+    "geometry/variants/narrow_plug/cad/components/bolt_07.step": "8d6d6001182ad6da1e9533b7fec879704b6657513368048958e7c91ebe22af4f",
+    "geometry/variants/narrow_plug/cad/components/bolt_08.step": "edec0a6dd87202697b4102ad25a2c02a789db86fb75822dbfbb88f2f217285e4",
+    "geometry/variants/narrow_plug/cad/components/closure_left.step": "08d26e954acde2c4fe98476265c1a7f74027b280c2d16015829b066a4d8c8e83",
+    "geometry/variants/narrow_plug/cad/components/closure_right.step": "0c9f6d6cfb145eea161f533c5f8f399bcbacfedb3247a63436d309e1679d8ff8",
+    "geometry/variants/narrow_plug/cad/components/nut_01.step": "dd6cbc22dd2c396c65d9279e639e186f1c25f83edc3b33e569c7866ea99a282c",
+    "geometry/variants/narrow_plug/cad/components/nut_02.step": "a965a45a83d330af577840342e39b129f510b36c0c143a65f31de435260525e7",
+    "geometry/variants/narrow_plug/cad/components/nut_03.step": "644690cd55a8d1569e98abb61f6603495853e398850053c7d2aa732360766977",
+    "geometry/variants/narrow_plug/cad/components/nut_04.step": "96bbdd5b3a13cbc25a020a80fc17e190bec1297fcb9d79f0a8064e04f9b32214",
+    "geometry/variants/narrow_plug/cad/components/nut_05.step": "5e2b40d7059b0880a4b7b6e09b8d6b3313106e099a588bffb698de05609ee8ed",
+    "geometry/variants/narrow_plug/cad/components/nut_06.step": "3c13c179da4ea8560ed04cb847a694491c25bcfaa880eaaa69f9c6d79188110c",
+    "geometry/variants/narrow_plug/cad/components/nut_07.step": "dd9baee9165b37886d1f56cdc2cf9bc110f30d3f0065c5600ce45ce84367c967",
+    "geometry/variants/narrow_plug/cad/components/nut_08.step": "9952fc1f844f10962f52737239ac34676afa4e5c67d82678df8771824e039037",
+    "geometry/revised/cad/assembly.step": "ada2d297514461940a01e9a31895367b500619a53b5e9de2f0573cc0dac306e1",
+    "geometry/revised/cad/build.py": "68d4e976eeed296043039041e1bbb5b486eafeea236fd63ce32ef0b7b69e6395",
+    "geometry/revised/cad/parameters.json": "75a2045fee0241f7062828771f207fae58f966aae408d6e196d7001dec273947",
+    "geometry/source-manifest.json": "237911b38342f5b04e05cbefbc89b13a8c27e98225d41ee462f35bc2b3a72222",
+    "geometry/revised-manifest.json": "ce025b563a8e4154585fd18a8194561818a3712e54d20c9c9b27a723bc1c5b39",
+    "geometry/revised/checks/geometry_checks.json": "00a9ec66b7641703e8eaed693cf2ced69dac2623580b3776855762b650e1bedc",
+    "geometry/revised/checks/reviewer_step_audit.json": "c0f2a9ca28eab8d28e3b55ada6a32a4758c6a536ccf7338a3fed252a6103c329",
+    "geometry/source/cad/assembly.step": "d699d3690b1b73a7d03afaaed3ef4ef3c5792f334f0218ada51376c912a85d53",
+    "geometry/source/build.py": "7e95550c561d96c84463ce057fc3ae331633bb92428abc701e1b62e8e18453cc",
+    "geometry/source/parameters.json": "f549ba90672571c21a4badd7f1a841fdd0a4d45e4a93cc94587903714f3d8470",
+    "geometry/variants/narrow_plug/cad/assembly.step": "8f120b6ce7668fcd6f0c67bdc97a681b6c8270545c074d2bf524b71309f154ec",
+    "geometry/variants/narrow_plug/cad/build.py": "1c80b80d55c894161cebe4f1cf899d82c9e97e4ee109fb7aa34400cc060c7398",
+    "geometry/variants/narrow_plug/cad/parameters.json": "65e5c5d7c2ee13d57831ca66f73c7b5b18f861525e7390e6e249817951c7cd63",
+    "geometry/variants/narrow_plug/manifest.json": "9a003b5f024c218f4ef7dbf32e0a589c8102634a2b844f49173ea14b8b73da17",
+    "geometry/variants/narrow_plug/checks/geometry_checks.json": "66eacca046d8b9bdf684a8c699e4e4a25e06792c25ad9089bba550f7023b1e3c",
+    "geometry/variants/narrow_plug/checks/reviewer_step_audit.json": "3f162347f15275ce03ceaf0cfc895415b44ff352874231a73f558c4bf8eae37b",
+    "geometry/variants/narrow_plug/print/r1/print_check.json": "711c7aa798cb39bea6cd0aab5ff0eaac3928f5742024c542c5a18c0becbdd474",
+    "INTAKE.md": "320caf7e8cffc13586d972fa1232fe1123c48bc914cb475be2c1c883ccc30e9f",
+    "OPTIMIZATION.md": "904e27bcbedfddb426e83c6e87b4032bc1b6ac3c0a6891bd1a329e9bede072b1",
+    "RUN_COMMANDS.md": "93d8cac16172a995bc8ae2d19ef77777cdab56873b9881f23f9ae5cb3471339f",
+    "CONTINUE.md": "434bb34177e12d36795bd416502282e089efc28ce8cbe428f6a97f72b7c9aab8",
+    "parent-current-study.json": "ef7684c1e2ae7e0a9a90485749d7792de48134f88a10c5552c2efa6c2e0d2e06"
+  },
+  "report_links": [
+    {
+      "link": "images/01-revised-assembly.png",
+      "path": "report/images/01-revised-assembly.png"
+    },
+    {
+      "link": "../geometry/revised/cad/assembly.step",
+      "path": "geometry/revised/cad/assembly.step"
+    },
+    {
+      "link": "../geometry/variants/narrow_plug/cad/assembly.step",
+      "path": "geometry/variants/narrow_plug/cad/assembly.step"
+    },
+    {
+      "link": "../geometry/source/cad/assembly.step",
+      "path": "geometry/source/cad/assembly.step"
+    },
+    {
+      "link": "images/02-closure-joint.png",
+      "path": "report/images/02-closure-joint.png"
+    },
+    {
+      "link": "images/14-solved-mesh.png",
+      "path": "report/images/14-solved-mesh.png"
+    },
+    {
+      "link": "data/mesh-quality.json",
+      "path": "report/data/mesh-quality.json"
+    },
+    {
+      "link": "data/mesh-summary.json",
+      "path": "report/data/mesh-summary.json"
+    },
+    {
+      "link": "animations/01-motion.gif",
+      "path": "report/animations/01-motion.gif"
+    },
+    {
+      "link": "images/13-stop-frame.png",
+      "path": "report/images/13-stop-frame.png"
+    },
+    {
+      "link": "images/03-event-histories.png",
+      "path": "report/images/03-event-histories.png"
+    },
+    {
+      "link": "images/12-contact-load-path.png",
+      "path": "report/images/12-contact-load-path.png"
+    },
+    {
+      "link": "data/load-path-peaks.json",
+      "path": "report/data/load-path-peaks.json"
+    },
+    {
+      "link": "data/spc-histories.csv",
+      "path": "report/data/spc-histories.csv"
+    },
+    {
+      "link": "data/time-histories.csv",
+      "path": "report/data/time-histories.csv"
+    },
+    {
+      "link": "data/contact-histories.csv",
+      "path": "report/data/contact-histories.csv"
+    },
+    {
+      "link": "data/model.json",
+      "path": "report/data/model.json"
+    },
+    {
+      "link": "data/setup-audit.json",
+      "path": "report/data/setup-audit.json"
+    },
+    {
+      "link": "data/execution.json",
+      "path": "report/data/execution.json"
+    },
+    {
+      "link": "data/stress-histories.csv",
+      "path": "report/data/stress-histories.csv"
+    },
+    {
+      "link": "images/04-early-stress.png",
+      "path": "report/images/04-early-stress.png"
+    },
+    {
+      "link": "images/07-early-top-stress.png",
+      "path": "report/images/07-early-top-stress.png"
+    },
+    {
+      "link": "images/08-early-impact-stress.png",
+      "path": "report/images/08-early-impact-stress.png"
+    },
+    {
+      "link": "images/05-closure-stress.png",
+      "path": "report/images/05-closure-stress.png"
+    },
+    {
+      "link": "images/06-later-stress.png",
+      "path": "report/images/06-later-stress.png"
+    },
+    {
+      "link": "images/09-later-top-stress.png",
+      "path": "report/images/09-later-top-stress.png"
+    },
+    {
+      "link": "images/10-later-impact-stress.png",
+      "path": "report/images/10-later-impact-stress.png"
+    },
+    {
+      "link": "animations/02-stress.gif",
+      "path": "report/animations/02-stress.gif"
+    },
+    {
+      "link": "data/early-window-comparison.json",
+      "path": "report/data/early-window-comparison.json"
+    },
+    {
+      "link": "images/11-narrow-plug-assembly.png",
+      "path": "report/images/11-narrow-plug-assembly.png"
+    },
+    {
+      "link": "data/narrow-plug-execution.json",
+      "path": "report/data/narrow-plug-execution.json"
+    },
+    {
+      "link": "data/narrow-plug-partial-metrics.json",
+      "path": "report/data/narrow-plug-partial-metrics.json"
+    },
+    {
+      "link": "data/narrow-plug-collapse-diagnosis.json",
+      "path": "report/data/narrow-plug-collapse-diagnosis.json"
+    },
+    {
+      "link": "../CONTINUE.md",
+      "path": "CONTINUE.md"
+    }
+  ],
+  "revised_step_count": 20,
+  "missing_links": [],
+  "hash_mismatches": []
+}

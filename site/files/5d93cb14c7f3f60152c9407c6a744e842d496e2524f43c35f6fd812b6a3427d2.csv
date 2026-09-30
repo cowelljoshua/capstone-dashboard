@@ -1,0 +1,205 @@
+series,Time (ms),Energy (J)
+Kinetic Energy,0.0,946.146
+Kinetic Energy,0.00998997,929.361
+Kinetic Energy,0.0199778,911.139
+Kinetic Energy,0.029944,893.148
+Kinetic Energy,0.0399915,870.834
+Kinetic Energy,0.0499283,855.164
+Kinetic Energy,0.0599875,835.215
+Kinetic Energy,0.0699326,819.201
+Kinetic Energy,0.0799617,800.407
+Kinetic Energy,0.0899393,785.551
+Kinetic Energy,0.0999824,773.886
+Kinetic Energy,0.109952,770.577
+Kinetic Energy,0.119971,771.301
+Kinetic Energy,0.129966,775.005
+Kinetic Energy,0.139937,782.144
+Kinetic Energy,0.14997400000000002,789.698
+Kinetic Energy,0.159949,797.648
+Kinetic Energy,0.16998100000000002,806.526
+Kinetic Energy,0.179953,814.782
+Kinetic Energy,0.189959,817.858
+Kinetic Energy,0.199972,816.001
+Kinetic Energy,0.209968,813.105
+Kinetic Energy,0.21998800000000002,803.958
+Kinetic Energy,0.229977,796.319
+Kinetic Energy,0.239956,787.851
+Kinetic Energy,0.249992,781.832
+Kinetic Energy,0.259973,777.858
+Kinetic Energy,0.269966,770.476
+Kinetic Energy,0.279967,765.367
+Kinetic Energy,0.289974,761.265
+Kinetic Energy,0.299974,758.45
+Kinetic Energy,0.309963,757.058
+Kinetic Energy,0.319962,752.771
+Kinetic Energy,0.329968,748.378
+Internal Energy,0.0,2e-20
+Internal Energy,0.00998997,13.7766
+Internal Energy,0.0199778,30.8508
+Internal Energy,0.029944,49.217
+Internal Energy,0.0399915,70.6936
+Internal Energy,0.0499283,84.5758
+Internal Energy,0.0599875,103.123
+Internal Energy,0.0699326,118.647
+Internal Energy,0.0799617,137.111
+Internal Energy,0.0899393,151.521
+Internal Energy,0.0999824,162.658
+Internal Energy,0.109952,164.978
+Internal Energy,0.119971,164.333
+Internal Energy,0.129966,160.271
+Internal Energy,0.139937,152.725
+Internal Energy,0.14997400000000002,145.198
+Internal Energy,0.159949,137.076
+Internal Energy,0.16998100000000002,128.649
+Internal Energy,0.179953,120.317
+Internal Energy,0.189959,117.52
+Internal Energy,0.199972,119.517
+Internal Energy,0.209968,122.665
+Internal Energy,0.21998800000000002,132.05
+Internal Energy,0.229977,139.688
+Internal Energy,0.239956,148.228
+Internal Energy,0.249992,154.23
+Internal Energy,0.259973,158.158
+Internal Energy,0.269966,165.48
+Internal Energy,0.279967,170.52
+Internal Energy,0.289974,174.54
+Internal Energy,0.299974,177.268
+Internal Energy,0.309963,178.508
+Internal Energy,0.319962,182.651
+Internal Energy,0.329968,186.959
+Hourglass Energy,0.0,0.0
+Hourglass Energy,0.00998997,0.0
+Hourglass Energy,0.0199778,0.0
+Hourglass Energy,0.029944,0.0
+Hourglass Energy,0.0399915,0.0
+Hourglass Energy,0.0499283,0.0
+Hourglass Energy,0.0599875,0.0
+Hourglass Energy,0.0699326,0.0
+Hourglass Energy,0.0799617,0.0
+Hourglass Energy,0.0899393,0.0
+Hourglass Energy,0.0999824,0.0
+Hourglass Energy,0.109952,0.0
+Hourglass Energy,0.119971,0.0
+Hourglass Energy,0.129966,0.0
+Hourglass Energy,0.139937,0.0
+Hourglass Energy,0.14997400000000002,0.0
+Hourglass Energy,0.159949,0.0
+Hourglass Energy,0.16998100000000002,0.0
+Hourglass Energy,0.179953,0.0
+Hourglass Energy,0.189959,0.0
+Hourglass Energy,0.199972,0.0
+Hourglass Energy,0.209968,0.0
+Hourglass Energy,0.21998800000000002,0.0
+Hourglass Energy,0.229977,0.0
+Hourglass Energy,0.239956,0.0
+Hourglass Energy,0.249992,0.0
+Hourglass Energy,0.259973,0.0
+Hourglass Energy,0.269966,0.0
+Hourglass Energy,0.279967,0.0
+Hourglass Energy,0.289974,0.0
+Hourglass Energy,0.299974,0.0
+Hourglass Energy,0.309963,0.0
+Hourglass Energy,0.319962,0.0
+Hourglass Energy,0.329968,0.0
+Sliding Interface Energy,0.0,0.0
+Sliding Interface Energy,0.00998997,3.00297
+Sliding Interface Energy,0.0199778,4.13624
+Sliding Interface Energy,0.029944,3.76315
+Sliding Interface Energy,0.0399915,4.61318
+Sliding Interface Energy,0.0499283,6.36944
+Sliding Interface Energy,0.0599875,7.75491
+Sliding Interface Energy,0.0699326,8.24972
+Sliding Interface Energy,0.0799617,8.59275
+Sliding Interface Energy,0.0899393,9.03104
+Sliding Interface Energy,0.0999824,9.54453
+Sliding Interface Energy,0.109952,10.5182
+Sliding Interface Energy,0.119971,10.4519
+Sliding Interface Energy,0.129966,10.8117
+Sliding Interface Energy,0.139937,11.195
+Sliding Interface Energy,0.14997400000000002,11.1677
+Sliding Interface Energy,0.159949,11.3319
+Sliding Interface Energy,0.16998100000000002,10.9082
+Sliding Interface Energy,0.179953,10.9804
+Sliding Interface Energy,0.189959,10.7164
+Sliding Interface Energy,0.199972,10.5895
+Sliding Interface Energy,0.209968,10.3519
+Sliding Interface Energy,0.21998800000000002,10.1249
+Sliding Interface Energy,0.229977,10.1327
+Sliding Interface Energy,0.239956,10.0648
+Sliding Interface Energy,0.249992,10.086
+Sliding Interface Energy,0.259973,10.1328
+Sliding Interface Energy,0.269966,10.1925
+Sliding Interface Energy,0.279967,10.261
+Sliding Interface Energy,0.289974,10.3424
+Sliding Interface Energy,0.299974,10.4305
+Sliding Interface Energy,0.309963,10.5017
+Sliding Interface Energy,0.319962,10.5956
+Sliding Interface Energy,0.329968,10.6507
+Total Energy,0.0,946.146
+Total Energy,0.00998997,946.141
+Total Energy,0.0199778,946.126
+Total Energy,0.029944,946.128
+Total Energy,0.0399915,946.141
+Total Energy,0.0499283,946.109
+Total Energy,0.0599875,946.093
+Total Energy,0.0699326,946.097
+Total Energy,0.0799617,946.11
+Total Energy,0.0899393,946.103
+Total Energy,0.0999824,946.088
+Total Energy,0.109952,946.073
+Total Energy,0.119971,946.086
+Total Energy,0.129966,946.088
+Total Energy,0.139937,946.064
+Total Energy,0.14997400000000002,946.063
+Total Energy,0.159949,946.056
+Total Energy,0.16998100000000002,946.083
+Total Energy,0.179953,946.08
+Total Energy,0.189959,946.095
+Total Energy,0.199972,946.108
+Total Energy,0.209968,946.122
+Total Energy,0.21998800000000002,946.132
+Total Energy,0.229977,946.14
+Total Energy,0.239956,946.144
+Total Energy,0.249992,946.148
+Total Energy,0.259973,946.149
+Total Energy,0.269966,946.149
+Total Energy,0.279967,946.148
+Total Energy,0.289974,946.148
+Total Energy,0.299974,946.149
+Total Energy,0.309963,946.068
+Total Energy,0.319962,946.018
+Total Energy,0.329968,945.988
+External Work,0.0,0.0
+External Work,0.00998997,0.0
+External Work,0.0199778,0.0
+External Work,0.029944,0.0
+External Work,0.0399915,0.0
+External Work,0.0499283,0.0
+External Work,0.0599875,0.0
+External Work,0.0699326,0.0
+External Work,0.0799617,0.0
+External Work,0.0899393,0.0
+External Work,0.0999824,0.0
+External Work,0.109952,0.0
+External Work,0.119971,0.0
+External Work,0.129966,0.0
+External Work,0.139937,0.0
+External Work,0.14997400000000002,0.0
+External Work,0.159949,0.0
+External Work,0.16998100000000002,0.0
+External Work,0.179953,0.0
+External Work,0.189959,0.0
+External Work,0.199972,0.0
+External Work,0.209968,0.0
+External Work,0.21998800000000002,0.0
+External Work,0.229977,0.0
+External Work,0.239956,0.0
+External Work,0.249992,0.0
+External Work,0.259973,0.0
+External Work,0.269966,0.0
+External Work,0.279967,0.0
+External Work,0.289974,0.0
+External Work,0.299974,0.0
+External Work,0.309963,0.0
+External Work,0.319962,0.0
+External Work,0.329968,0.0

@@ -1,0 +1,25 @@
+{
+  "status": "completed_unassessed",
+  "run_directory": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\compliant_stop_340\\cases\\foam-coupon-v2\\runs\\solve",
+  "execution": {
+    "status": "process_exited_zero",
+    "started_at": "2026-09-22T13:10:32.869260+00:00",
+    "finished_at": "2026-09-22T13:10:36.630416+00:00",
+    "duration_seconds": 3.7660000000032596,
+    "exit_code": 0,
+    "process_id": 22580,
+    "timed_out": false,
+    "cancelled": false,
+    "termination_state": "normal_termination_confirmed",
+    "termination_evidence_sources": [
+      "d3hsp",
+      "messag",
+      "stdout.log"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "process_exit_and_termination_evidence_are_distinct": true,
+    "physics_validated": false,
+    "results_interpreted": false
+  }
+}

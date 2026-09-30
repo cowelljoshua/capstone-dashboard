@@ -1,0 +1,21 @@
+{
+  "mesh": "mesh_4mm_repaired",
+  "patches": [
+    {
+      "shell_part": 1,
+      "spreader_center_x_mm": -152.3825,
+      "front_face_area_mm2": 7344.615499329681,
+      "area_within_spreader_mm2": 1615.9077610030633,
+      "front_face_triangle_count": 1263,
+      "method": "Clipped exposed FE triangles exactly against the unchanged rectangular plate XY footprint; initial planar Z=0 face."
+    },
+    {
+      "shell_part": 2,
+      "spreader_center_x_mm": 152.3825,
+      "front_face_area_mm2": 7344.615499329672,
+      "area_within_spreader_mm2": 1615.9077610030627,
+      "front_face_triangle_count": 1263,
+      "method": "Clipped exposed FE triangles exactly against the unchanged rectangular plate XY footprint; initial planar Z=0 face."
+    }
+  ]
+}

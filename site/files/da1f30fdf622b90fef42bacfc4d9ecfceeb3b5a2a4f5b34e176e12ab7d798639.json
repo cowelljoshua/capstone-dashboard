@@ -1,0 +1,29 @@
+{
+  "case": "baseline-guided-v2",
+  "metrics_sha256": "402e5bbac0888a1f01f8d7987371f5ca1696119c2ac053dd582405466531f46f",
+  "display_range_MPa": [
+    0,
+    160
+  ],
+  "values_above_range": "saturated at 160 MPa",
+  "palette": "turbo",
+  "camera": "oblique view from +X, +Y, -Z toward origin",
+  "raw_peak_MPa": 666.48864636034,
+  "source_field": "saved element von Mises stress; raw numeric results unchanged",
+  "artifacts_sha256": {
+    "stress_0001_0.010ms.png": "831467edac8ba108533d6448128ea676d651db711016cfd984a44872cf8e06d2",
+    "stress_0005_0.050ms.png": "5e994c95888f13f0c12a081a479c2e57c6ffcafe864005339bb1c9e4aff683b5",
+    "stress_0006_0.060ms.png": "73dfcb8c041f82ce759ba40d2b89efe3cfd50fbc5d5b04b30e8e0176ad70ca11",
+    "stress_0021_0.210ms.png": "8e3493bb3d0b8d60253eb14d86a668c5d019fa407c0faa93741c39c88cb9053f",
+    "stress_0022_0.220ms.png": "c7ed2fc7eee7e1f1a40871ab8410007fb58083b2f35780749600db2ec7526568",
+    "stress_0082_0.820ms.png": "4851ebb0c1113101226b641cfab9b002dc9c03ce238e192dfad59c813b442d40",
+    "stress_0085_0.850ms.png": "f71b8ffba26708443c13c4a1e0c031b92a0472c35de19343bb8c8b0f192146c3",
+    "stress_0543_5.430ms.png": "7f1ddda7eaa627f61aab4aa6d4a650e4991eb24f153de46caf7da28ee794d368",
+    "stress_0554_5.540ms.png": "be29344e03e0a4f218cb1b3e8768727c6bfcda8df85d3176c11a88462aa37c7b",
+    "stress_impact_0001_0.010ms.png": "c38d8355870b70c73d777f0d895efafc6757d1071773bcde2dadd768437d3204",
+    "stress_impact_0082_0.820ms.png": "d8c88b4bed6de27ffebda16351c622215e60f6cb5f4f4cb4a688954869bbdd0d",
+    "stress_top_0001_0.010ms.png": "90ea50c913cdf7f2f491d9f436fe7cbc713636efa5f5f0d22decf729b2a598be",
+    "stress_top_0082_0.820ms.png": "cf783cd479f53873b9d03a0899d58331e835bd560a6869c28eb50711e14a8655",
+    "stress-transient.gif": "db0d99566fa52f6ee3c1507ca6ae370b48b1d642a47460114ecc6ebb3ebc9cc3"
+  }
+}

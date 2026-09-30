@@ -1,0 +1,42 @@
+{
+  "status": "PRE_COLLAPSE_SCREEN_ONLY",
+  "shared_window_s": [
+    0,
+    0.000299
+  ],
+  "parent": "baseline-5mm-v1 (stopped early at 0.334 ms)",
+  "revision": "stem-5p5-5mm-v1 (full event still running)",
+  "regions": {
+    "body": {
+      "parent_peak_P99_MPa": 128.91783142089844,
+      "revision_peak_P99_MPa": 128.67849147710308,
+      "relative_change_pct": -0.1856530948104007
+    },
+    "closure_left": {
+      "parent_peak_P99_MPa": 102.83123779296875,
+      "revision_peak_P99_MPa": 158.72402195098553,
+      "relative_change_pct": 54.353896109416034
+    },
+    "closure_right": {
+      "parent_peak_P99_MPa": 114.5621337890625,
+      "revision_peak_P99_MPa": 146.5086487185473,
+      "relative_change_pct": 27.88575410816485
+    },
+    "impact_pod_roots": {
+      "parent_peak_P99_MPa": 160.9097137451172,
+      "revision_peak_P99_MPa": 161.4052546388141,
+      "relative_change_pct": 0.30796207523049457
+    },
+    "central_bridge": {
+      "parent_peak_P99_MPa": 42.391448974609375,
+      "revision_peak_P99_MPa": 40.343938041366364,
+      "relative_change_pct": -4.830009312654971
+    },
+    "T_slot_body": {
+      "parent_peak_P99_MPa": 99.71993255615234,
+      "revision_peak_P99_MPa": 101.06347812451479,
+      "relative_change_pct": 1.3473189701626476
+    }
+  },
+  "qualification": "Mesh topology differs after CAD change; no mesh/timestep sensitivity or full-event parent. This is directional evidence, not a qualified stress ranking."
+}

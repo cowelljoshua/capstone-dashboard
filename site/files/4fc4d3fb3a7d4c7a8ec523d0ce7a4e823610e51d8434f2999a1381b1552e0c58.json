@@ -1,0 +1,8 @@
+{
+  "case": "baseline-guided-v2",
+  "metrics_sha256": "402e5bbac0888a1f01f8d7987371f5ca1696119c2ac053dd582405466531f46f",
+  "animation_sha256": "8d9d907e791187df5dda543077387f68c407f1217f84b9c9621130e25ffb4e5f",
+  "display": "Component legend and signed forward speed, left/right compression, travel, axial contact load, time only",
+  "load_definition": "Sum of absolute axial pusher-to-plate forces, interpolated to binary frame times",
+  "metrics_unchanged": true
+}

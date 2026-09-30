@@ -1,0 +1,613 @@
+{
+  "case": "timestep-guided-v2",
+  "run_directory": "C:\\Users\\joshu\\OneDrive\\Documents\\Projects\\Coding Projects\\AI Assisted ANSYS\\projects\\compliant_stop_340\\cases\\timestep-guided-v2\\runs\\solve",
+  "parameters": {
+    "end_time_s": 0.008,
+    "velocity_m_s": 50.0,
+    "foam_depth_m": 0.2032,
+    "foam_width_m": 0.041275,
+    "foam_height_m": 0.1524,
+    "foam_scale": 1.0,
+    "timestep_scale": 0.3,
+    "d3plot_interval_s": 1e-05,
+    "foam_mesh_m": 0.01,
+    "friction": 0.1,
+    "gap_m": 0.0001,
+    "startup_mass_scaling_dt2ms_s": -1.5e-07
+  },
+  "masses": {
+    "pusher_kg": 0.48874077450771786,
+    "body_kg": 0.416250382918212,
+    "cable_cap_kg": 0.07249039158950592,
+    "motors_kg": 0.1616,
+    "moving_kg": 0.6503407745077118,
+    "initial_ke_J": 812.9259681346397,
+    "spreader_each_kg": 0.135870696
+  },
+  "execution_status": "completed_unassessed",
+  "partial_preview": false,
+  "last_binary_time_s": 0.008000006831550933,
+  "physical_validation": false,
+  "comparison_ready": false,
+  "comparison_readiness": "A single-case numerical screen; targeted mesh/time-step comparison and warning review remain necessary.",
+  "numerical_checks": {
+    "normal_termination": true,
+    "requested_time_reached": true,
+    "binary_matches_nodout": true,
+    "moving_mass_consistent": true,
+    "initial_energy_error_below_0p5pct": true,
+    "energy_balance_error_below_5pct": true,
+    "hourglass_below_5pct_initial_energy": true,
+    "sum_abs_nonfriction_contact_energy_below_5pct_initial_energy": true,
+    "contact_impulse_momentum_error_below_5pct": true,
+    "no_axial_spc_on_moving_or_guide_nodes": true,
+    "rigid_guides_leave_only_axial_translation_free": true,
+    "no_prescribed_motion": true,
+    "no_detected_deletion": true,
+    "positive_sampled_foam_jacobians": true,
+    "first_stop_captured": true,
+    "foam_compression_below_80pct": true,
+    "mass_scaling_disabled_or_quantified_below_0p1pct_moving_mass": true,
+    "all_transverse_guide_equations_satisfied_and_no_axial_equation": true
+  },
+  "numerical_checks_passed": true,
+  "first_stop": {
+    "time_s": 0.005427073366657085,
+    "travel_m": 0.11397370772020951,
+    "bracketing_states": [
+      542,
+      543
+    ],
+    "method": "linear interpolation of mass-weighted axial velocity zero crossing"
+  },
+  "maximum_moving_travel_m": 0.11397381751445217,
+  "final_forward_speed_m_s": -18.755928615289662,
+  "peak_stopping_force_N": 174099.7,
+  "peak_stopping_force_time_s": 1.19695e-05,
+  "foam_max_compression_fraction": {
+    "21": 0.5610990542366298,
+    "22": 0.5611479586657152
+  },
+  "maximum_nonrigid_deformation_m": 0.017041184802629037,
+  "maximum_nonrigid_rms_m": 0.00246006764763441,
+  "stress": {
+    "pusher": {
+      "peak_P95_MPa": 79.6878896951567,
+      "peak_P99_MPa": 112.85670179104045
+    },
+    "body": {
+      "peak_P95_MPa": 69.92406025717644,
+      "peak_P99_MPa": 104.4832056164294
+    },
+    "pad_root": {
+      "peak_P95_MPa": 99.32943988188774,
+      "peak_P99_MPa": 124.18912380807902
+    },
+    "cap": {
+      "peak_P95_MPa": 62.43650917837882,
+      "peak_P99_MPa": 126.7240231479785
+    },
+    "outer_pad": {
+      "peak_P95_MPa": 108.9455100212347,
+      "peak_P99_MPa": 125.73010359004573
+    },
+    "center": {
+      "peak_P95_MPa": 85.42897799695565,
+      "peak_P99_MPa": 105.75180475668725
+    }
+  },
+  "stress_propagation": {
+    "outer_pad": {
+      "first_above_5pct_of_own_peak_or_0p01MPa_s": 9.989961021512745e-06,
+      "peak_P95_time_s": 4.9977073299739135e-05
+    },
+    "pad_root": {
+      "first_above_5pct_of_own_peak_or_0p01MPa_s": 9.989961021512745e-06,
+      "peak_P95_time_s": 7.997976092856483e-05
+    },
+    "body": {
+      "first_above_5pct_of_own_peak_or_0p01MPa_s": 9.989961021512745e-06,
+      "peak_P95_time_s": 0.0008199895440748132
+    },
+    "center": {
+      "first_above_5pct_of_own_peak_or_0p01MPa_s": 6.995577857517775e-05,
+      "peak_P95_time_s": 0.0008499654877961996
+    }
+  },
+  "region_definition": "Initial element centroid: body part 1, pad roots 0.112<=abs(X)<=0.150 m; body remainder excludes roots. Cap separately part 2. Stress tensor averaged across integration points, then von Mises; volume-weighted percentiles.",
+  "pusher_tetra_volume_m3": 0.00046107620233453063,
+  "energy_balance_error_fraction_initial": 0.0002558658575974046,
+  "initial_ke_error_fraction": 3.922909106690575e-05,
+  "initial_ke_error_fraction_nominal_mass": 4.801404665411013e-05,
+  "expected_ke_with_verified_added_mass_J": 812.9331093730211,
+  "hourglass_fraction_initial_max": 0.0,
+  "abs_contact_energy_fraction_initial_max": 0.12626857060002203,
+  "sum_abs_nonfriction_contact_energy_fraction_initial_max": 0.010767108375298354,
+  "final_physical_friction_energy_J": 103.81,
+  "contact_energy_check_definition": "At each saved SLEOUT time, sum absolute(surfa + surfb - friction) over interfaces, then take time maximum / nominal initial moving kinetic energy. The threshold remains 5%. Total contact energy including real friction is informational.",
+  "added_mass_kg_max": 5.713e-06,
+  "added_mass_evidence": "GLSTAT field",
+  "mass_scaling": {
+    "deck_DT2MS": -1.5e-07,
+    "d3hsp_DT2MS": -1.5e-07,
+    "disabled_independently_confirmed": false
+  },
+  "nodal_added_mass": {
+    "available": true,
+    "validated_as_absolute_added_kg": true,
+    "correction_applied": true,
+    "moving_added_mass_kg_max": 5.712990700956766e-06,
+    "global_added_mass_kg_max": 5.713e-06,
+    "binary_sum_added_mass_kg_max": 5.712990702825146e-06,
+    "sum_vs_glstat_difference_kg": 9.297174854019463e-12,
+    "moving_added_mass_kg_initial": 5.712990700956766e-06,
+    "time_variation_kg": 0.0,
+    "note": "Nodal output is treated as absolute added kilograms only after its total agrees with independent GLSTAT."
+  },
+  "moving_added_mass_fraction_max": 8.784610968428525e-06,
+  "contact_impulse_N_s": 44.70518875025343,
+  "moving_momentum_change_kg_m_s": 44.71467703583121,
+  "impulse_momentum_relative_error": 0.00021219622295779738,
+  "maximum_contact_action_reaction_error_N": 1.0000000000723942e-18,
+  "binary_verification": {
+    "samples": 72090,
+    "node_ids": [
+      1,
+      1677,
+      1967,
+      3933,
+      5899,
+      7502,
+      7865,
+      9040,
+      9734,
+      9831,
+      9863,
+      9864,
+      10154,
+      10157,
+      10159,
+      10299,
+      10572,
+      10579,
+      10603,
+      10956,
+      10980,
+      11254,
+      11741,
+      11797,
+      11883,
+      12234,
+      12477,
+      12478,
+      12479,
+      12481,
+      12482,
+      12483,
+      12575,
+      12954,
+      13020,
+      13042,
+      13763,
+      14706,
+      15304,
+      15661,
+      15669,
+      15693,
+      15700,
+      15701,
+      15704,
+      15705,
+      15735,
+      15863,
+      16603,
+      17353,
+      17414,
+      17434,
+      17459,
+      17471,
+      17500,
+      17569,
+      17645,
+      17707,
+      17734,
+      17750,
+      17753,
+      17754,
+      17784,
+      17786,
+      17787,
+      17788,
+      17814,
+      17829,
+      17840,
+      17916,
+      17951,
+      18090,
+      18302,
+      18339,
+      18347,
+      18445,
+      18772,
+      18785,
+      18811,
+      19064,
+      19087,
+      19088,
+      19092,
+      19099,
+      19105,
+      19106,
+      19109,
+      19110,
+      1000000,
+      1100000
+    ],
+    "maximum_coordinate_error_m": 4.999901873914414e-07,
+    "maximum_velocity_error_m_s": 4.999977340602868e-05
+  },
+  "constraints": {
+    "moving_nodes_with_axial_spc": [],
+    "guide_nodes_with_axial_spc": [],
+    "prescribed_motion_cards": [],
+    "unsupported_spc_cards": [],
+    "unresolved_spc_sets": [],
+    "rigid_guide_constraints": [
+      {
+        "material_id": 21,
+        "CMO": 1,
+        "CON1": 4,
+        "CON2": 7,
+        "only_z_translation_free": true
+      },
+      {
+        "material_id": 22,
+        "CMO": 1,
+        "CON1": 4,
+        "CON2": 7,
+        "only_z_translation_free": true
+      }
+    ],
+    "local_coordinate_spc_count": 0,
+    "rigid_material_cards": [
+      [
+        "21,2700,6.83e+10,0.33",
+        "1,4,7",
+        "0,0,0,0,0,0"
+      ],
+      [
+        "22,2700,6.83e+10,0.33",
+        "1,4,7",
+        "0,0,0,0,0,0"
+      ]
+    ],
+    "note": "Check rigid-material CON1/CON2 and internal constraints as well as these explicit SPCs."
+  },
+  "spc": {
+    "available": true,
+    "guide_records_present": false,
+    "maximum_abs_guide_axial_force_N": 0.0,
+    "note": "Fixed foam backing reactions are expected. Only guide node records enter the guide axial check; rigid-material restraints may not appear in SPCFORC."
+  },
+  "foam_jacobians": {
+    "available": true,
+    "minimum_J": 0.42827147215555367,
+    "nonpositive_samples": 0,
+    "samples": 21557760,
+    "initial_nonpositive_gauss_points": 0,
+    "scope": "All saved states, all eight Gauss points; unsaved cycles are not checked."
+  },
+  "solver_messages": {
+    "normal_termination_text_found": true,
+    "fatal_or_negative_volume_text_found": false,
+    "warning_error_blocks": [
+      {
+        "file": "messag",
+        "line": 270,
+        "text": "\n *** Warning        4 number of initial penetrations detected\n           Max abs penetration  :  0.4156274E-18   (between elements 1000005 and 2001604)\n\n     These penetrations will be taken as incident contact\n     with an initial contact pressure of  0.0000000E+00"
+      },
+      {
+        "file": "messag",
+        "line": 378,
+        "text": "\n *** Warning        4 number of initial penetrations detected\n           Max abs penetration  :  0.4156274E-18   (between elements 1100114 and 2101675)\n\n     These penetrations will be taken as incident contact\n     with an initial contact pressure of  0.0000000E+00"
+      },
+      {
+        "file": "messag",
+        "line": 1009,
+        "text": "\n *** Warning      193 number of initial penetrations detected\n           Max abs penetration  :  0.2887438E-04   (between elements 62225 and 12369)\n\n     These penetrations will be taken as incident contact\n     with an initial contact pressure of  0.0000000E+00"
+      }
+    ],
+    "normal_termination_evidence": [
+      {
+        "file": "messag",
+        "line": 1947,
+        "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 11:21:52"
+      },
+      {
+        "file": "messag",
+        "line": 2009,
+        "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 11:21:52"
+      },
+      {
+        "file": "d3hsp",
+        "line": 305669,
+        "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 11:21:52"
+      },
+      {
+        "file": "d3hsp",
+        "line": 305731,
+        "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 11:21:52"
+      },
+      {
+        "file": "stdout.log",
+        "line": 1031,
+        "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 11:21:52"
+      },
+      {
+        "file": "stdout.log",
+        "line": 1091,
+        "text": "N o r m a l    t e r m i n a t i o n                          09/22/26 11:21:52"
+      }
+    ]
+  },
+  "cable_guide_motion": {
+    "selection": "Original rear bore wall radius 3.375 mm +/-0.005 mm about (X,Y)=(+/-101.6,0) mm, 73<=Z<=76.201 mm.",
+    "rotation_interpretation": "Mass-weighted best-fit rigid motion of the entire deformable pusher; this is not a direct measurement of guided bore-axis rotation. Use actual bore coordinates and weighted guide residuals for guidance checks.",
+    "rigid_rotation_max_deg": 2.7827643799569874,
+    "rigid_rotation_vector_max_abs_xyz_deg": [
+      2.7825073787920136,
+      0.06744308361160357,
+      0.05649318789292907
+    ],
+    "holes": {
+      "left": {
+        "node_count": 22,
+        "maximum_centroid_transverse_m": 0.00027126186146236836,
+        "peak_time_s": 0.0018899824686351974,
+        "centroid_dxdy_at_peak_m": [
+          -8.071240933415856e-05,
+          0.0002589758762192038
+        ],
+        "maximum_individual_wall_transverse_m": 0.00151650859053915
+      },
+      "right": {
+        "node_count": 22,
+        "maximum_centroid_transverse_m": 0.00034016212042404137,
+        "peak_time_s": 0.001859968540797818,
+        "centroid_dxdy_at_peak_m": [
+          8.304635658709773e-05,
+          0.0003298690207172972
+        ],
+        "maximum_individual_wall_transverse_m": 0.0012527333099988443
+      }
+    },
+    "front_holes": {
+      "left": {
+        "node_count": 16,
+        "maximum_centroid_transverse_m": 0.00034226851384307525,
+        "peak_time_s": 0.0009199644112581268,
+        "centroid_dxdy_at_peak_m": [
+          0.0003121607761458582,
+          -0.0001403687479617981
+        ],
+        "minimum_sampled_wall_radius_from_cable_axis_m": 0.003436920955837888,
+        "minimum_sampled_cable_clearance_m": 6.192095583788804e-05,
+        "minimum_clearance_time_s": 0.0009799642605983281
+      },
+      "right": {
+        "node_count": 16,
+        "maximum_centroid_transverse_m": 0.0003403922504708931,
+        "peak_time_s": 0.0018499643565681202,
+        "centroid_dxdy_at_peak_m": [
+          7.579438957855834e-05,
+          -0.0003318464926574529
+        ],
+        "minimum_sampled_wall_radius_from_cable_axis_m": 0.0039940293663368156,
+        "minimum_sampled_cable_clearance_m": 0.0006190293663368156,
+        "minimum_clearance_time_s": 0.0009799642605983281
+      }
+    },
+    "front_selection": "Original front bore wall radius 4.9149 mm +/-0.005 mm, 0<=Z<=3.1751 mm; cable radius assumed 3.375 mm, nominal radial clearance 1.5399 mm. Sampled wall centroid displacement subtracts its own initial sampling centroid."
+  },
+  "weighted_guide_equations": {
+    "present": true,
+    "groups": [
+      {
+        "id": 500,
+        "dof": 1,
+        "node_count": 9,
+        "weight_sum": 0.9999999999999999,
+        "positive_weights": true,
+        "deck_matches_model": true,
+        "weighted_reference_centroid_m": [
+          -0.10160000000713944,
+          6.129547824168524e-14,
+          0.0008696732792935808
+        ],
+        "reference_centroid_model_error_m": 7.139813581099299e-12,
+        "maximum_abs_weighted_displacement_m": 5.183476490644e-10,
+        "maximum_abs_weighted_velocity_m_s": 1.4344569901902915e-05,
+        "nodout_complete_group_samples": 4001,
+        "nodout_maximum_abs_weighted_displacement_m": 1.145146024125141e-09,
+        "nodout_maximum_abs_weighted_velocity_m_s": 3.0444907176074842e-05,
+        "passed": true
+      },
+      {
+        "id": 501,
+        "dof": 2,
+        "node_count": 7,
+        "weight_sum": 1.0,
+        "positive_weights": true,
+        "deck_matches_model": true,
+        "weighted_reference_centroid_m": [
+          -0.10160000000109459,
+          -4.199982375774347e-14,
+          0.0012032890205609943
+        ],
+        "reference_centroid_model_error_m": 1.0961073132510565e-12,
+        "maximum_abs_weighted_displacement_m": 6.453744832654335e-10,
+        "maximum_abs_weighted_velocity_m_s": 1.2040068075869215e-05,
+        "nodout_complete_group_samples": 4001,
+        "nodout_maximum_abs_weighted_displacement_m": 1.2961544935225985e-09,
+        "nodout_maximum_abs_weighted_velocity_m_s": 3.088384561833468e-05,
+        "passed": true
+      },
+      {
+        "id": 502,
+        "dof": 1,
+        "node_count": 14,
+        "weight_sum": 1.0,
+        "positive_weights": true,
+        "deck_matches_model": true,
+        "weighted_reference_centroid_m": [
+          -0.10159999999975267,
+          5.989024380592678e-14,
+          0.07461250000070647
+        ],
+        "reference_centroid_model_error_m": 2.760569659268841e-13,
+        "maximum_abs_weighted_displacement_m": 4.69571811176437e-12,
+        "maximum_abs_weighted_velocity_m_s": 1.785096757078719e-07,
+        "nodout_complete_group_samples": 4001,
+        "nodout_maximum_abs_weighted_displacement_m": 5.241705632648859e-10,
+        "nodout_maximum_abs_weighted_velocity_m_s": 1.2088581011537869e-05,
+        "passed": true
+      },
+      {
+        "id": 503,
+        "dof": 2,
+        "node_count": 8,
+        "weight_sum": 1.0,
+        "positive_weights": true,
+        "deck_matches_model": true,
+        "weighted_reference_centroid_m": [
+          -0.10159999999786101,
+          -1.0480836034124086e-13,
+          0.07462748104375
+        ],
+        "reference_centroid_model_error_m": 2.441583908537892e-12,
+        "maximum_abs_weighted_displacement_m": 6.7287371590632906e-12,
+        "maximum_abs_weighted_velocity_m_s": 1.7736604140949908e-07,
+        "nodout_complete_group_samples": 4001,
+        "nodout_maximum_abs_weighted_displacement_m": 1.001553011221166e-09,
+        "nodout_maximum_abs_weighted_velocity_m_s": 2.4945946716981027e-05,
+        "passed": true
+      },
+      {
+        "id": 504,
+        "dof": 1,
+        "node_count": 9,
+        "weight_sum": 0.9999999999999998,
+        "positive_weights": true,
+        "deck_matches_model": true,
+        "weighted_reference_centroid_m": [
+          0.10160000000653387,
+          -1.4683951754176916e-13,
+          0.0008669660578010112
+        ],
+        "reference_centroid_model_error_m": 6.535506707250167e-12,
+        "maximum_abs_weighted_displacement_m": 3.6097966694785544e-10,
+        "maximum_abs_weighted_velocity_m_s": 1.1036820326548735e-05,
+        "nodout_complete_group_samples": 4001,
+        "nodout_maximum_abs_weighted_displacement_m": 5.582767394350859e-10,
+        "nodout_maximum_abs_weighted_velocity_m_s": 2.243325919798478e-05,
+        "passed": true
+      },
+      {
+        "id": 505,
+        "dof": 2,
+        "node_count": 7,
+        "weight_sum": 0.9999999999999999,
+        "positive_weights": true,
+        "deck_matches_model": true,
+        "weighted_reference_centroid_m": [
+          0.10159999999384915,
+          1.103272204497352e-13,
+          0.0012041163202743273
+        ],
+        "reference_centroid_model_error_m": 6.151864348579911e-12,
+        "maximum_abs_weighted_displacement_m": 2.0388018863773914e-10,
+        "maximum_abs_weighted_velocity_m_s": 7.149101753617382e-06,
+        "nodout_complete_group_samples": 4001,
+        "nodout_maximum_abs_weighted_displacement_m": 1.1608298225521943e-09,
+        "nodout_maximum_abs_weighted_velocity_m_s": 2.8211132413913376e-05,
+        "passed": true
+      },
+      {
+        "id": 506,
+        "dof": 1,
+        "node_count": 14,
+        "weight_sum": 1.0,
+        "positive_weights": true,
+        "deck_matches_model": true,
+        "weighted_reference_centroid_m": [
+          0.10159999999975268,
+          -5.989024380592678e-14,
+          0.07461249999929354
+        ],
+        "reference_centroid_model_error_m": 2.7606237455801706e-13,
+        "maximum_abs_weighted_displacement_m": 3.734458123056013e-12,
+        "maximum_abs_weighted_velocity_m_s": 1.367407678198873e-07,
+        "nodout_complete_group_samples": 4001,
+        "nodout_maximum_abs_weighted_displacement_m": 2.1790359213643537e-10,
+        "nodout_maximum_abs_weighted_velocity_m_s": 1.585102637513547e-05,
+        "passed": true
+      },
+      {
+        "id": 507,
+        "dof": 2,
+        "node_count": 8,
+        "weight_sum": 1.0,
+        "positive_weights": true,
+        "deck_matches_model": true,
+        "weighted_reference_centroid_m": [
+          0.10159999999786101,
+          1.0480803508058911e-13,
+          0.07461250000125
+        ],
+        "reference_centroid_model_error_m": 2.1790326264605564e-12,
+        "maximum_abs_weighted_displacement_m": 6.3284283548107126e-12,
+        "maximum_abs_weighted_velocity_m_s": 1.7992391154741938e-07,
+        "nodout_complete_group_samples": 4001,
+        "nodout_maximum_abs_weighted_displacement_m": 3.717612977849989e-10,
+        "nodout_maximum_abs_weighted_velocity_m_s": 2.7451228385322324e-05,
+        "passed": true
+      }
+    ],
+    "deck_global_equation_count": 8,
+    "expected_group_count": 8,
+    "no_axial_equation": true,
+    "all_expected_groups_present": true,
+    "external_work_J": null,
+    "external_work_evidence": "NODFOR resultant forces are not assumed to be isolated constraint reactions; zero work is not fabricated. Axial contact impulse closure is checked independently.",
+    "passed": true
+  },
+  "sampled_planar_contact": {
+    "scope": "Original body front nodes Z=0 and original foam front face nodes, only when current XY is inside current rigid rectangular plate bounds. Current planar Z faces assumed. Body/cap curved contact and unsaved states are not covered; this is not a native contact penetration bound.",
+    "plate_results": {
+      "21": {
+        "pusher_into_plate_max_m": 0.0004365196174455307,
+        "pusher_into_plate_peak_time_s": 6.995577857517775e-05,
+        "pusher_beyond_plate_back_max_m": 0.0,
+        "pusher_beyond_plate_back_peak_time_s": 0.0,
+        "foam_into_plate_max_m": 1.0683552510798444e-05,
+        "foam_into_plate_peak_time_s": 0.005109971722647651
+      },
+      "22": {
+        "pusher_into_plate_max_m": 0.0004350135403047026,
+        "pusher_into_plate_peak_time_s": 7.997976092856483e-05,
+        "pusher_beyond_plate_back_max_m": 0.0,
+        "pusher_beyond_plate_back_peak_time_s": 0.0,
+        "foam_into_plate_max_m": 1.0419428387350993e-05,
+        "foam_into_plate_peak_time_s": 0.005129983628808401
+      }
+    }
+  },
+  "limitations": [
+    "Generic uncalibrated foam; no material failure, fracture or repeated-use prediction.",
+    "Linear elastic pusher with assumed print properties; reported stresses are demand measures.",
+    "Compression inferred from rigid plate travel over initial foam depth; actual local foam strains vary.",
+    "SPCFORC does not necessarily include rigid-material constraint resultants.",
+    "No native contact penetration database requested; contact energy/shape/impulse checks do not bound local penetration.",
+    "Contour maximum and percentile metrics depend on mesh and saved-state timing."
+  ]
+}

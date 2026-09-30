@@ -1,0 +1,131 @@
+{
+  "case": "baseline-guided-v2",
+  "native_zero_force_interval_s": [
+    0.000207931,
+    0.00266192
+  ],
+  "native_zero_force_sample_count": 1228,
+  "native_preceding_contact_sample_s": 0.00020597,
+  "native_following_contact_sample_s": 0.00266392,
+  "zero_definition": "Every XYZ component of each separate native RCFORC SURFA contact1 and contact2 is exactly zero; not a cancellation of total resultants.",
+  "binary_interval_s": [
+    0.00020998129759336893,
+    0.0026599310745505
+  ],
+  "pusher_speed_range_m_s": [
+    28.930555147591363,
+    28.93134063792265
+  ],
+  "continued_pusher_travel_mm": 70.87930918823427,
+  "sampled_front_surface_gap_range_mm": {
+    "21": [
+      0.09197480495232169,
+      10.037631280233509
+    ],
+    "22": [
+      0.1613603894939945,
+      9.967614128166199
+    ]
+  },
+  "foam_force_range_during_native_zero_interval_N": [
+    3080.0,
+    5109.049999999999
+  ],
+  "samples": [
+    {
+      "time_ms": 0.20998129759336892,
+      "pusher_speed_m_s": 28.93099540079138,
+      "pusher_travel_mm": 7.503648745078497,
+      "left_plate_speed_m_s": 46.595116475364634,
+      "right_plate_speed_m_s": 46.58343205128027,
+      "left_min_front_surface_gap_mm": 0.18530487461293227,
+      "right_min_front_surface_gap_mm": 0.1613603894939945,
+      "left_foam_compression_pct": 3.3514516227919304,
+      "right_foam_compression_pct": 3.3527190666729876,
+      "foam_contact_axial_force_N": 5092.942447283906
+    },
+    {
+      "time_ms": 0.49993189818973865,
+      "pusher_speed_m_s": 28.930624990247374,
+      "pusher_travel_mm": 15.89216100889107,
+      "left_plate_speed_m_s": 41.60749622334864,
+      "right_plate_speed_m_s": 41.596931176523874,
+      "left_min_front_surface_gap_mm": 4.104794603679875,
+      "right_min_front_surface_gap_mm": 3.998149062123653,
+      "left_foam_compression_pct": 9.635934415476715,
+      "right_foam_compression_pct": 9.635622015706625,
+      "foam_contact_axial_force_N": 4385.4901793307645
+    },
+    {
+      "time_ms": 0.9999612059498808,
+      "pusher_speed_m_s": 28.931147877845337,
+      "pusher_travel_mm": 30.358409022736364,
+      "left_plate_speed_m_s": 34.30673113937267,
+      "right_plate_speed_m_s": 34.29768320461318,
+      "left_min_front_surface_gap_mm": 5.262795951962524,
+      "right_min_front_surface_gap_mm": 5.495792155720457,
+      "left_foam_compression_pct": 18.945681256420542,
+      "right_foam_compression_pct": 18.942962238011173,
+      "foam_contact_axial_force_N": 3579.749697785193
+    },
+    {
+      "time_ms": 1.4999215549339475,
+      "pusher_speed_m_s": 28.930683697936058,
+      "pusher_travel_mm": 44.822808174141436,
+      "left_plate_speed_m_s": 28.265639915016255,
+      "right_plate_speed_m_s": 28.257700455334113,
+      "left_min_front_surface_gap_mm": 9.164264945322284,
+      "right_min_front_surface_gap_mm": 9.147617725898574,
+      "left_foam_compression_pct": 26.62422087894809,
+      "right_foam_compression_pct": 26.619425506815343,
+      "foam_contact_axial_force_N": 3090.1896074176666
+    },
+    {
+      "time_ms": 1.9999890746356723,
+      "pusher_speed_m_s": 28.93105644282892,
+      "pusher_travel_mm": 59.29016906672198,
+      "left_plate_speed_m_s": 22.41354008821304,
+      "right_plate_speed_m_s": 22.406684042362997,
+      "left_min_front_surface_gap_mm": 5.819482066958398,
+      "right_min_front_surface_gap_mm": 6.039518200941389,
+      "left_foam_compression_pct": 32.87324100762857,
+      "right_foam_compression_pct": 32.86660584891773,
+      "foam_contact_axial_force_N": 3453.688103233318
+    },
+    {
+      "time_ms": 2.499946813497023,
+      "pusher_speed_m_s": 28.9309400144931,
+      "pusher_travel_mm": 73.75449284777623,
+      "left_plate_speed_m_s": 15.123922133181289,
+      "right_plate_speed_m_s": 15.118353471990813,
+      "left_min_front_surface_gap_mm": 3.16507643910037,
+      "right_min_front_surface_gap_mm": 3.163460591314324,
+      "left_foam_compression_pct": 37.5270717624206,
+      "right_foam_compression_pct": 37.51891832328778,
+      "foam_contact_axial_force_N": 4372.546421070549
+    },
+    {
+      "time_ms": 2.6599310745505,
+      "pusher_speed_m_s": 28.930742370039646,
+      "pusher_travel_mm": 78.38295793331278,
+      "left_plate_speed_m_s": 12.488748085995768,
+      "right_plate_speed_m_s": 12.483616683805975,
+      "left_min_front_surface_gap_mm": 0.09197480495232169,
+      "right_min_front_surface_gap_mm": 0.27513622293075246,
+      "left_foam_compression_pct": 38.61482202494721,
+      "right_foam_compression_pct": 38.606246776152084,
+      "foam_contact_axial_force_N": 4578.651587526869
+    }
+  ],
+  "gap_definition": "Minimum current Z separation of original body front-face (Z=0) mesh nodes within each current rectangular plate XY footprint, minus current rigid plate front Z. Positive means separated at sampled surface nodes; no COM separation inference. Curved cap/body contact and unsaved times are excluded.",
+  "interpretation": "The plates initially accelerate ahead of the pusher. While the body is detached its axial momentum is almost constant; the foam continues compressing and braking the plates. The body then catches the slower plates and contact resumes. The ~28.93 m/s plateau is coasting, not a frozen visualization.",
+  "limitations": "Output sampling bounds the departure/recontact times; residual speed variation reflects numerical precision. Phase display uses a 1 N contact threshold and mass-weighted speed; the exact-zero diagnostic does not use that threshold.",
+  "existing_artifact_changes": {
+    "world-motion.gif": {
+      "before": "651394318739e4a5b817c1db09b86cc58929545b7af736bf7a5c8af5bff353d4",
+      "after": "9d129b0d3ac6b248f55b07b2372033e49320bfe598408397743fe95a0e4fbb55"
+    }
+  },
+  "metrics_sha256": "402e5bbac0888a1f01f8d7987371f5ca1696119c2ac053dd582405466531f46f",
+  "only_requested_world_gif_changed": true
+}

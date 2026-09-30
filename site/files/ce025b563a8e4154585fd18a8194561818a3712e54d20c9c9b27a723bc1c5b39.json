@@ -1,0 +1,211 @@
+{
+  "authority": "revised STEP assembly and individual STEP parts",
+  "parent_snapshot": "geometry/source-manifest.json",
+  "files": [
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/assembly.step",
+      "sha256": "ada2d297514461940a01e9a31895367b500619a53b5e9de2f0573cc0dac306e1"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/body.step",
+      "sha256": "a64d64fe6cd769a331907e64d3cb2567b7f2f4ee74c7af7fe77cba5e88f5913f"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/closure_left.step",
+      "sha256": "98df4410571b35ffe52ed99530e9b406354493d25dd8a21b799d56b4900c2589"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/closure_right.step",
+      "sha256": "16aae36949a9efd17fb3903621890838b9470f108c2f4d8095dad461847200bf"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/bolt_01.step",
+      "sha256": "9e48a234097957c36c2365c26f758ffb01a92da5264b9f1e19bbc8cb10b84776"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/nut_01.step",
+      "sha256": "0321f1d7f404b567eb803f8602ac91c053bad8ec87099d3f6d17ce7aeb644d29"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/bolt_02.step",
+      "sha256": "2aace3da75871493b029a1ed5bba087d9a5a654e069e0f638948dce05a2a304b"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/nut_02.step",
+      "sha256": "c1e4fbe766335aeddb4bbae06b1f1f2afcf525be88443f7dbf6861fbca56d649"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/bolt_03.step",
+      "sha256": "52be8a92cf437d99bd94a64ceb733e3f72f8e2dce1940ee839c9cbe3fd407be0"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/nut_03.step",
+      "sha256": "8dc7380a89bc5c1cbb7471aff9ee145ff7a605a48f8f1534fb37e5c9ea90ff95"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/bolt_04.step",
+      "sha256": "52d0bd08d6c7b1ce1f4bb1521dbc13d92692c7e1fa1c034efaa16954a5ca32a1"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/nut_04.step",
+      "sha256": "731a7d78235cc7cdb038bbd1c9cba955dc71ea03ea2c9f91003d0538d76ff158"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/bolt_05.step",
+      "sha256": "1498f6294c321ecfba7ecb7a1d07de948b721b47b99c3f4efe0d07fe863626ff"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/nut_05.step",
+      "sha256": "19bae4be4c9b109aef69e00847e5f5d25198aa048e4fb9ac2dca0e2e2ba52800"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/bolt_06.step",
+      "sha256": "201d710ccd6578233b3fd55613a05bab1dbc3d8ca54e8e68c7ceb64aa28ba8c0"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/nut_06.step",
+      "sha256": "cb0c0772a512d9a43972b096770f4c3b701785de77ee5df5f472519dfbe8f2e0"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/bolt_07.step",
+      "sha256": "bcf890f7524a2dd80c9997d9c8338fcda19b548014bafe78b01e66e0de7bcf6f"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/nut_07.step",
+      "sha256": "e9629cdda9f61ecd6bdfb837b0f68ce102225bffa8c7f74967c2512ca1e93646"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/bolt_08.step",
+      "sha256": "32d95cc2cceec700215b6ae4bf5fcced42f2dca859eb79e4ea6710e041c620d8"
+    },
+    {
+      "local_path": "projects/local_closures_impact_20260927_01/geometry/revised/cad/components/nut_08.step",
+      "sha256": "6903f1b6b906ad06fec52d312a08cd212ac8eeef34a8cee9755fdaebe851f6ee"
+    }
+  ],
+  "build_script_sha256": "68d4e976eeed296043039041e1bbb5b486eafeea236fd63ce32ef0b7b69e6395",
+  "parameters_sha256": "75a2045fee0241f7062828771f207fae58f966aae408d6e196d7001dec273947",
+  "assembly_step": {
+    "path": "cad/assembly.step",
+    "sha256": "ada2d297514461940a01e9a31895367b500619a53b5e9de2f0573cc0dac306e1"
+  },
+  "component_steps": {
+    "body": {
+      "path": "cad/components/body.step",
+      "sha256": "a64d64fe6cd769a331907e64d3cb2567b7f2f4ee74c7af7fe77cba5e88f5913f",
+      "mass_g": 516.22379771243
+    },
+    "closure_left": {
+      "path": "cad/components/closure_left.step",
+      "sha256": "98df4410571b35ffe52ed99530e9b406354493d25dd8a21b799d56b4900c2589",
+      "mass_g": 22.47899812790991
+    },
+    "closure_right": {
+      "path": "cad/components/closure_right.step",
+      "sha256": "16aae36949a9efd17fb3903621890838b9470f108c2f4d8095dad461847200bf",
+      "mass_g": 22.478998129044008
+    },
+    "bolt_01": {
+      "path": "cad/components/bolt_01.step",
+      "sha256": "9e48a234097957c36c2365c26f758ffb01a92da5264b9f1e19bbc8cb10b84776",
+      "mass_g": 3.312841261836008
+    },
+    "nut_01": {
+      "path": "cad/components/nut_01.step",
+      "sha256": "0321f1d7f404b567eb803f8602ac91c053bad8ec87099d3f6d17ce7aeb644d29",
+      "mass_g": 0.9374299439060324
+    },
+    "bolt_02": {
+      "path": "cad/components/bolt_02.step",
+      "sha256": "2aace3da75871493b029a1ed5bba087d9a5a654e069e0f638948dce05a2a304b",
+      "mass_g": 3.312841261836008
+    },
+    "nut_02": {
+      "path": "cad/components/nut_02.step",
+      "sha256": "c1e4fbe766335aeddb4bbae06b1f1f2afcf525be88443f7dbf6861fbca56d649",
+      "mass_g": 0.9374299439060327
+    },
+    "bolt_03": {
+      "path": "cad/components/bolt_03.step",
+      "sha256": "52be8a92cf437d99bd94a64ceb733e3f72f8e2dce1940ee839c9cbe3fd407be0",
+      "mass_g": 3.312841261836008
+    },
+    "nut_03": {
+      "path": "cad/components/nut_03.step",
+      "sha256": "8dc7380a89bc5c1cbb7471aff9ee145ff7a605a48f8f1534fb37e5c9ea90ff95",
+      "mass_g": 0.9374299439060324
+    },
+    "bolt_04": {
+      "path": "cad/components/bolt_04.step",
+      "sha256": "52d0bd08d6c7b1ce1f4bb1521dbc13d92692c7e1fa1c034efaa16954a5ca32a1",
+      "mass_g": 3.312841261836008
+    },
+    "nut_04": {
+      "path": "cad/components/nut_04.step",
+      "sha256": "731a7d78235cc7cdb038bbd1c9cba955dc71ea03ea2c9f91003d0538d76ff158",
+      "mass_g": 0.9374299439060327
+    },
+    "bolt_05": {
+      "path": "cad/components/bolt_05.step",
+      "sha256": "1498f6294c321ecfba7ecb7a1d07de948b721b47b99c3f4efe0d07fe863626ff",
+      "mass_g": 3.312841261836008
+    },
+    "nut_05": {
+      "path": "cad/components/nut_05.step",
+      "sha256": "19bae4be4c9b109aef69e00847e5f5d25198aa048e4fb9ac2dca0e2e2ba52800",
+      "mass_g": 0.9374299439060325
+    },
+    "bolt_06": {
+      "path": "cad/components/bolt_06.step",
+      "sha256": "201d710ccd6578233b3fd55613a05bab1dbc3d8ca54e8e68c7ceb64aa28ba8c0",
+      "mass_g": 3.312841261836008
+    },
+    "nut_06": {
+      "path": "cad/components/nut_06.step",
+      "sha256": "cb0c0772a512d9a43972b096770f4c3b701785de77ee5df5f472519dfbe8f2e0",
+      "mass_g": 0.9374299439060327
+    },
+    "bolt_07": {
+      "path": "cad/components/bolt_07.step",
+      "sha256": "bcf890f7524a2dd80c9997d9c8338fcda19b548014bafe78b01e66e0de7bcf6f",
+      "mass_g": 3.312841261836008
+    },
+    "nut_07": {
+      "path": "cad/components/nut_07.step",
+      "sha256": "e9629cdda9f61ecd6bdfb837b0f68ce102225bffa8c7f74967c2512ca1e93646",
+      "mass_g": 0.9374299439060322
+    },
+    "bolt_08": {
+      "path": "cad/components/bolt_08.step",
+      "sha256": "32d95cc2cceec700215b6ae4bf5fcced42f2dca859eb79e4ea6710e041c620d8",
+      "mass_g": 3.312841261836008
+    },
+    "nut_08": {
+      "path": "cad/components/nut_08.step",
+      "sha256": "6903f1b6b906ad06fec52d312a08cd212ac8eeef34a8cee9755fdaebe851f6ee",
+      "mass_g": 0.9374299439060327
+    }
+  },
+  "printed_CAD_mass_g": 561.181793969384,
+  "hardware_envelope_mass_g": 34.00216964593633,
+  "geometry_checks_sha256": "00a9ec66b7641703e8eaed693cf2ced69dac2623580b3776855762b650e1bedc",
+  "step_audit_sha256": "c0f2a9ca28eab8d28e3b55ada6a32a4758c6a536ccf7338a3fed252a6103c329",
+  "print_check_sha256": "16c09b2664661d450a5592023818cc89be14797dfc7c6de6abfb2e88eeab8511",
+  "toolpaths": {
+    "body": {
+      "path": "print/r2/body/toolpath_audit.json",
+      "sha256": "91288d8595e9091ea7e8392b46be310cfa52f2d680abd2b563627f454971662a",
+      "passed": true
+    },
+    "closure_left": {
+      "path": "print/r2/closure_left/toolpath_audit.json",
+      "sha256": "dfc8a9b05378ce292382204de627dd1f1f267d04c61215987e0520363406052b",
+      "passed": true
+    },
+    "closure_right": {
+      "path": "print/r2/closure_right/toolpath_audit.json",
+      "sha256": "37cd1fd084fe243779654b71edc62161663484df209c247419223143be608803",
+      "passed": true
+    }
+  }
+}

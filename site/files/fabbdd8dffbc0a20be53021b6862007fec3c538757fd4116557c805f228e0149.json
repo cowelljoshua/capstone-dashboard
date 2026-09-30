@@ -1,0 +1,73 @@
+{
+  "CAD_hash_match": true,
+  "mesh_hash_match": true,
+  "parts": {
+    "1": {
+      "nodes": 45003,
+      "mesh_volume_m3": 0.0004914228407484262
+    },
+    "2": {
+      "nodes": 13180,
+      "mesh_volume_m3": 1.9743456574195095e-05
+    },
+    "3": {
+      "nodes": 13264,
+      "mesh_volume_m3": 1.974323308192226e-05
+    }
+  },
+  "bolt_collars": [
+    {
+      "x_m": -0.1101,
+      "z_m": 0.0095,
+      "body_nodes": 170,
+      "closure_nodes": 414
+    },
+    {
+      "x_m": -0.1101,
+      "z_m": 0.0667,
+      "body_nodes": 172,
+      "closure_nodes": 421
+    },
+    {
+      "x_m": -0.09309999999999999,
+      "z_m": 0.0095,
+      "body_nodes": 174,
+      "closure_nodes": 410
+    },
+    {
+      "x_m": -0.09309999999999999,
+      "z_m": 0.0667,
+      "body_nodes": 171,
+      "closure_nodes": 407
+    },
+    {
+      "x_m": 0.09309999999999999,
+      "z_m": 0.0095,
+      "body_nodes": 170,
+      "closure_nodes": 400
+    },
+    {
+      "x_m": 0.09309999999999999,
+      "z_m": 0.0667,
+      "body_nodes": 172,
+      "closure_nodes": 406
+    },
+    {
+      "x_m": 0.1101,
+      "z_m": 0.0095,
+      "body_nodes": 169,
+      "closure_nodes": 415
+    },
+    {
+      "x_m": 0.1101,
+      "z_m": 0.0667,
+      "body_nodes": 171,
+      "closure_nodes": 412
+    }
+  ],
+  "guide_constraints": 8,
+  "motor_groups": 2,
+  "moving_mass_kg": 0.7567662718747542,
+  "initial_ke_J": 945.9578398434428,
+  "deck_sha256": "c6ce28578473a0605705c403acd1c96a43cde141949f3f3829193834792560e2"
+}

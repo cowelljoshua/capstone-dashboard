@@ -1,0 +1,98 @@
+{
+  "case": "guide-freeflight-v2",
+  "passed": true,
+  "checks": {
+    "normal_termination": true,
+    "requested_time_reached": true,
+    "every_moving_node_present": true,
+    "all_axial_velocities_within_10ppm_initial_speed": true,
+    "all_axial_displacements_within_1e_9_m": true,
+    "all_transverse_velocities_below_10ppm_initial_speed": true,
+    "weighted_guide_displacements_below_1e_9_m": true,
+    "weighted_guide_velocities_below_1e_6_m_s": true,
+    "internal_energy_below_1e_8_initial_ke": true,
+    "external_work_below_1e_8_initial_ke": true,
+    "kinetic_energy_agrees_effective_mass_within_1e_5": true,
+    "added_mass_below_0_1pct_physical": true
+  },
+  "acceptance_type": "chosen_engineering_freeflight_screen",
+  "strict_roundoff_diagnostics_passed": false,
+  "source_case": "baseline-guided-v2",
+  "source_deck_sha256": "c0e809f7756ca88069a97d227691a989c14a1b1b857734dd89403dbceb9d8c65",
+  "deck_sha256": "c9cb715b983a6732ddf652c924775b35a1769ef6f727d2fbe8d77698a9b7b70b",
+  "scope": "Exact axial freeflight under transverse force proportional to one guide-equation gradient; guide cancels that force without deformation or work.",
+  "final_time_s": 5.003999999973801e-05,
+  "guide_residuals": [
+    {
+      "guide_id": 500,
+      "dof": 1,
+      "max_weighted_displacement_m": 1.0981904979119898e-15,
+      "max_weighted_velocity_m_s": 1.6338329154224132e-10
+    },
+    {
+      "guide_id": 501,
+      "dof": 2,
+      "max_weighted_displacement_m": 7.035828902204296e-17,
+      "max_weighted_velocity_m_s": 1.3032942108000072e-11
+    },
+    {
+      "guide_id": 502,
+      "dof": 1,
+      "max_weighted_displacement_m": 9.912642759438321e-19,
+      "max_weighted_velocity_m_s": 3.1357766134140776e-17
+    },
+    {
+      "guide_id": 503,
+      "dof": 2,
+      "max_weighted_displacement_m": 8.13150362096062e-20,
+      "max_weighted_velocity_m_s": 8.945809928559102e-17
+    },
+    {
+      "guide_id": 504,
+      "dof": 1,
+      "max_weighted_displacement_m": 0.0,
+      "max_weighted_velocity_m_s": 3.37920742595912e-37
+    },
+    {
+      "guide_id": 505,
+      "dof": 2,
+      "max_weighted_displacement_m": 0.0,
+      "max_weighted_velocity_m_s": 5.612900899896614e-39
+    },
+    {
+      "guide_id": 506,
+      "dof": 1,
+      "max_weighted_displacement_m": 0.0,
+      "max_weighted_velocity_m_s": 4.425806894303486e-53
+    },
+    {
+      "guide_id": 507,
+      "dof": 2,
+      "max_weighted_displacement_m": 0.0,
+      "max_weighted_velocity_m_s": 6.688564165338615e-54
+    }
+  ],
+  "max_axial_velocity_error_m_s": 7.966859550379013e-05,
+  "max_axial_displacement_error_m": 3.596007007791724e-10,
+  "max_transverse_velocity_m_s": 0.00021268412322979235,
+  "physical_mass_kg": 0.6503663744746024,
+  "added_mass_kg": 5.712990702825146e-06,
+  "expected_kinetic_energy_J": 812.9651093316317,
+  "max_kinetic_energy_relative_error": 1.3448502322876976e-07,
+  "max_internal_energy_J": 1.0076e-11,
+  "max_external_work_J": 1.20268e-11,
+  "max_momentum_change_kg_m_s": [
+    1.2174017886904796e-07,
+    2.563223023803534e-08,
+    2.5579538487363607e-13
+  ],
+  "nodfor_max_group_force_N": 0.005383,
+  "nodfor_max_group_energy_J": 1.196e-11,
+  "strict_roundoff_diagnostics": {
+    "axial_velocity_below_1e_6_m_s": false,
+    "transverse_velocity_below_1e_6_m_s": false
+  },
+  "velocity_screen_basis": "10 ppm of imposed 50 m/s and axial displacement error below 1 nm are chosen engineering freeflight screens. The earlier absolute 1e-6 m/s diagnostic is retained separately. D3HSP displays equation weights at limited precision (for example .1355836 appears as .135584), but this does not establish internal coefficient precision. Coefficient/load representation and constraint projection numerics are plausible contributors to tiny elastic residues; exact zero local acceleration is not claimed.",
+  "reaction_evidence": "NODFOR reports only small residual group forces and energy, not the isolated 100 N linear-constraint reaction. Guide enforcement is established by weighted kinematic residuals and negligible motion/energy under the prescribed transverse force. NODFOR must not be labeled a direct guide-reaction measurement.",
+  "limits": "This verifies ideal guide enforcement and free axial motion; it does not validate cable contact, friction, clearance, or impact stresses."
+}
